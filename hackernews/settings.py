@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'adsoft_hackernews',
         'USER': 'postgres',
         'PASSWORD': 'adsoft',
-        'HOST': '34.68.87.191',
+        'HOST': '35.232.232.192',
         'PORT': '5432',
     }
 }
