@@ -9,17 +9,24 @@ import json
 from django.core import serializers
 
 
+
 class DetailInput(graphene.InputObjectType):
 #    class Meta:
 #        model = Detail
 #        fields = ('product','cantidad','precio')
-    product : graphene.Int(required=True)
-    cantidad: graphene.Float(required=True)
-    precio: graphene.Float(required=True)
+    product = graphene.Int(required=True)
+    cantidad = graphene.Float(required=True)
+    precio = graphene.Float(required=True)
 
-class DetailType(DjangoObjectType):
-    class Meta:
-        model = Detail
+#input DetailInput {
+#    product: Int,
+#    cantidad: Float,
+#    precio: Float
+#}
+
+#class DetailInput(DjangoObjectType):
+#    class Meta:
+#        model = Detail
 
 class SaleType(DjangoObjectType):
     class Meta:
@@ -44,8 +51,8 @@ class CreateSale(graphene.Mutation):
         subtotal = graphene.Float()
         iva = graphene.Float()
         total = graphene.Float()
-        #products = graphene.List(DetailType)
-        products = GenericScalar() 
+        products = graphene.List(DetailInput)
+        #products = GenericScalar() 
     #3
     def mutate(self, info, subtotal, iva, total, products):
 
