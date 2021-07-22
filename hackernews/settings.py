@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'hackernews.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'adsoft_hackernews',
+        'NAME': 'wavesdb',
         'USER': 'postgres',
         'PASSWORD': 'adsoft',
-        'HOST': '35.232.232.192',
+        'HOST': '104.198.201.106',
         'PORT': '5432',
     }
 }
