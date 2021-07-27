@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'graphene_django',
     'links',
     'sales',
+    'emisor',
+    'receptor',
     'corsheaders'
 ]
 
@@ -84,7 +86,7 @@ DATABASES = {
         'NAME': 'wavesdb',
         'USER': 'postgres',
         'PASSWORD': 'adsoft',
-        'HOST': '104.198.201.106',
+        'HOST': '34.122.129.60',
         'PORT': '5432',
     }
 }
