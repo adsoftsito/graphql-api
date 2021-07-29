@@ -32,6 +32,7 @@ class CreateLink(graphene.Mutation):
 
     #2
     class Arguments:
+        idprod = graphene.Int()
         url = graphene.String()
         description = graphene.String()
         precio = graphene.Float()
@@ -44,9 +45,10 @@ class CreateLink(graphene.Mutation):
         ieps = graphene.Float()
 
     #3
-    def mutate(self, info, url, description, precio, codigosat, noidentificacion, claveunidad,
+    def mutate(self, info, idprod, url, description, precio, codigosat, noidentificacion, claveunidad,
         descuento, trasladoiva, retiva, ieps):
         user = info.context.user or None
+        currentProduct = Link.objects.filter(id=idprod).first()
 
         link = Link(
             url=url, 
@@ -61,8 +63,12 @@ class CreateLink(graphene.Mutation):
             ieps=ieps,
             posted_by = user
             )
-        link.save()
 
+        if currentProduct:
+            link.id = idprod
+   
+        link.save()
+       
         return CreateLink(
             id=link.id,
             url=link.url,
