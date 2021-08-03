@@ -10,6 +10,17 @@ class ReceptorType(DjangoObjectType):
 
 class Query(graphene.ObjectType):
     receptor = graphene.List(ReceptorType)
+    receptorme = graphene.Field(ReceptorType, rfc=graphene.String())
+
+
+    def resolve_receptorme(self, info, rfc=None):
+        #user = info.context.user
+        #if user.is_anonymous:
+        #    raise Exception('Not logged in!')
+        
+        currentReceptor = Receptor.objects.filter(rfc=rfc).first()
+        return currentReceptor
+
 
     def resolve_receptor(self, info, **kwargs):
         return Receptor.objects.all()
