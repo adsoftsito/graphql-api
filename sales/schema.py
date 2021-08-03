@@ -40,9 +40,22 @@ class Query(graphene.ObjectType):
 
 class CreateSale(graphene.Mutation):
     id = graphene.Int()
+
+    serie = graphene.String()
+    folio = graphene.String()
+    # fecha = models.DateTimeField(default=now, blank=True)
+    formapago = graphene.String()
+    condicionesdepago = graphene.String()
     subtotal = graphene.Float()
-    iva = graphene.Float()
+    descuento = graphene.Float()
+    moneda = graphene.String()
+    tipodecomprobante = graphene.String()
+    metodopago = graphene.String()
+    lugarexpedicion = graphene.String()
+    totalimpuestostrasladados = graphene.Float()
+    totalimpuestosretenidos = graphene.Float()
     total = graphene.Float()
+
     posted_by = graphene.Field(UserType)
     #products = graphene.List(Detail)
 

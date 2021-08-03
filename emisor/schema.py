@@ -10,6 +10,17 @@ class EmisorType(DjangoObjectType):
 
 class Query(graphene.ObjectType):
     emisor = graphene.List(EmisorType)
+    emisorme = graphene.Field(EmisorType)
+
+    def resolve_emisorme(self, info):
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+        
+        currentEmisor = Emisor.objects.filter(posted_by=user).first()
+        return currentEmisor
+
+
 
     def resolve_emisor(self, info, **kwargs):
         return Emisor.objects.all()
