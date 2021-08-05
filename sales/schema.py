@@ -17,6 +17,16 @@ class DetailInput(graphene.InputObjectType):
     product = graphene.Int(required=True)
     cantidad = graphene.Float(required=True)
     precio = graphene.Float(required=True)
+    importe = graphene.Float(required=True)
+    url = graphene.String(required=True)
+    codigosat = graphene.String(required=True)
+    noidentificacion = graphene.String(required=True)
+    claveunidad = graphene.String(required=True)
+    descuento = graphene.Float(required=True) 
+    trasladoiva = graphene.Float(required=True)
+    retiva = graphene.Float(required=True)
+    ieps = graphene.Float(required=True)
+
 
 #input DetailInput {
 #    product: Int,
@@ -61,19 +71,41 @@ class CreateSale(graphene.Mutation):
 
     #2
     class Arguments:
+        serie = graphene.String()
+        folio = graphene.String()
+        formapago = graphene.String()
+        condicionesdepago = graphene.String()
         subtotal = graphene.Float()
-        iva = graphene.Float()
+        descuento = graphene.Float()
+        moneda = graphene.String()
+        tipodecomprobante = graphene.String()
+        metodopago = graphene.String()
+        lugarexpedicion = graphene.String()
+        totalimpuestostrasladados = graphene.Float()
+        totalimpuestosretenidos = graphene.Float()
         total = graphene.Float()
+
         products = graphene.List(DetailInput)
         #products = GenericScalar() 
     #3
-    def mutate(self, info, subtotal, iva, total, products):
+    def mutate(self, info, serie, folio, formapago, condicionesdepago, subtotal, descuento, moneda, tipodecomprobante, 
+              metodopago, lugarexpedicion, totalimpuestostrasladados, totalimpuestosretenidos, total, products):
 
         user = info.context.user or None
 
         sale = Sale(
+            serie=serie,
+            folio=folio,
+            formapago=formapago,
+            condicionesdepago=condicionesdepago,
             subtotal=subtotal, 
-            iva=iva,
+            descuento=descuento,
+            moneda=moneda,
+            tipodecomprobante=tipodecomprobante,
+            metodopago=metodopago,
+            lugarexpedicion=lugarexpedicion,
+            totalimpuestostrasladados=totalimpuestostrasladados,
+            totalimpuestosretenidos=totalimpuestosretenidos,
             total=total,
             posted_by = user
             )
@@ -85,6 +117,16 @@ class CreateSale(graphene.Mutation):
               product = product["product"],
               cantidad = product["cantidad"],
               precio = product["precio"],
+              importe = product["importe"],
+              url = product["url"],
+              codigosat = product["codigosat"],
+              noidentificacion = product["noidentificacion"],
+              claveunidad = product["claveunidad"],
+              descuento = product["descuento"],
+              trasladoiva = product["trasladoiva"],
+              retiva = product["retiva"],
+              ieps = product["ieps"],
+
               sale = sale
               )
           myproduct.save()
@@ -96,7 +138,6 @@ class CreateSale(graphene.Mutation):
         return CreateSale(
             id=sale.id,
             subtotal=sale.subtotal,
-            iva=sale.iva,
             total=sale.total,
             posted_by=sale.posted_by
            # products=myproducts
