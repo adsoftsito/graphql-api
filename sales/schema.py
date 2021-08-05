@@ -17,6 +17,16 @@ class DetailInput(graphene.InputObjectType):
     product = graphene.Int(required=True)
     cantidad = graphene.Float(required=True)
     precio = graphene.Float(required=True)
+    importe = graphene.Float(required=True)
+    url = graphene.String(required=True)
+    codigosat = graphene.String(required=True)
+    noidentificacion = graphene.String(required=True)
+    claveunidad = graphene.String(required=True)
+    descuento = graphene.Float(required=True) 
+    trasladoiva = graphene.Float(required=True)
+    retiva = graphene.Float(required=True)
+    ieps = graphene.Float(required=True)
+
 
 #input DetailInput {
 #    product: Int,
@@ -107,6 +117,16 @@ class CreateSale(graphene.Mutation):
               product = product["product"],
               cantidad = product["cantidad"],
               precio = product["precio"],
+              importe = product["importe"],
+              url = product["url"],
+              codigosat = product["codigosat"],
+              noidentificacion = product["noidentificacion"],
+              claveunidad = product["claveunidad"],
+              descuento = product["descuento"],
+              trasladoiva = product["trasladoiva"],
+              retiva = product["retiva"],
+              ieps = product["ieps"],
+
               sale = sale
               )
           myproduct.save()

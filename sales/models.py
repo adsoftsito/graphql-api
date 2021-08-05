@@ -27,6 +27,17 @@ class Detail(models.Model):
     product = models.FloatField(default=0)
     cantidad = models.FloatField(default=0)
     precio = models.FloatField(default=0)
+    importe = models.FloatField(default=0) 
+    url = models.URLField(default='')
+    codigosat = models.TextField(default='')
+    noidentificacion = models.TextField(default='')
+    claveunidad = models.TextField(default='')
+    descuento = models.FloatField(default=0)
+    trasladoiva = models.FloatField(default=0)
+    retiva = models.FloatField(default=0)
+    ieps = models.FloatField(default=0)
+
+
     sale = models.ForeignKey(Sale, on_delete=models.CASCADE)
 
 
