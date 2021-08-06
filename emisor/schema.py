@@ -11,6 +11,14 @@ class EmisorType(DjangoObjectType):
 class Query(graphene.ObjectType):
     emisor = graphene.List(EmisorType)
     emisorme = graphene.Field(EmisorType)
+    emisorcer = graphene.Field(EmisorType, rfc=graphene.String())
+
+    def resolve_emisorcer(self, info, rfc=None):
+        
+        currentEmisor = Emisor.objects.filter(rfc=rfc).first()
+        return currentEmisor
+
+
 
     def resolve_emisorme(self, info):
         user = info.context.user
