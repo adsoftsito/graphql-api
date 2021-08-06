@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'wavesdb',
         'USER': 'postgres',
         'PASSWORD': 'adsoft',
-        'HOST': '34.122.129.60',
+        'HOST': '18.116.12.129',
         'PORT': '5432',
     }
 }
