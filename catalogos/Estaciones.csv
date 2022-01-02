@@ -1,0 +1,5307 @@
+clave,descripcion,clave_transporte,nacionalidad,designador_iata,linea_ferrea
+PM001,Rosarito,02,México,,
+PM002,La Misión,02,México,,
+PM003,El Sauzal,02,México,,
+PM004,Marina Coral,02,México,,
+PM005,Ensenada,02,México,,
+PM006,Punta China,02,México,,
+PM007,San Quintín,02,México,,
+PM008,Isla Cedros,02,México,,
+PM009,Venustiano Carranza,02,México,,
+PM010,Bahía de los Ángeles,02,México,,
+PM011,Puertecitos,02,México,,
+PM012,San Felipe,02,México,,
+PM013,Costa Azul,02,México,,
+PM014,Bahía Colonet,02,México,,
+PM015,La Paz,02,México,,
+PM016,Pichilingue,02,México,,
+PM017,Puerto de Loreto,02,México,,
+PM018,Puerto de Santa Rosalía,02,México,,
+PM019,Puerto Escondido,02,México,,
+PM020,San Carlos,02,México,,
+PM021,Cabo San Lucas,02,México,,
+PM022,Guerrero Negro,02,México,,
+PM023,Santa María,02,México,,
+PM024,Isla San Marcos,02,México,,
+PM025,Adolfo López Mateos,02,México,,
+PM026,San Juan de la Costa,02,México,,
+PM027,Punta prieta,02,México,,
+PM028,San José del Cabo,02,México,,
+PM029,Los Barriles,02,México,,
+PM030,Mulege,02,México,,
+PM031,Isla del Carmen,02,México,,
+PM032,Campeche,02,México,,
+PM033,Cayo Arcas,02,México,,
+PM034,Seybaplaya,02,México,,
+PM035,Isla Arena,02,México,,
+PM036,San Francisco,02,México,,
+PM037,Lerma,02,México,,
+PM038,Champotón,02,México,,
+PM039,Sabancuy,02,México,,
+PM040,Isla Aguada,02,México,,
+PM041,Emiliano Zapata,02,México,,
+PM042,Nuevo Campechito,02,México,,
+PM043,Takuntah,02,México,,
+PM044,Yúum K'ak Naab,02,México,,
+PM045,Puerto Chiapas,02,México,,
+PM046,Manzanillo,02,México,,
+PM047,San Pedrito,02,México,,
+PM048,Laguna de Cuyutlán,02,México,,
+PM049,Acapulco,02,México,,
+PM050,Zihuatanejo,02,México,,
+PM051,Butaba,02,México,,
+PM052,Vicente Guerrero,02,México,,
+PM053,Puerto Marqués,02,México,,
+PM054,Puerto Vallarta,02,México,,
+PM055,Barra de Navidad,02,México,,
+PM056,Lázaro Cárdenas,02,México,,
+PM057,San Blas,02,México,,
+PM058,Nuevo Vallarta,02,México,,
+PM059,Cruz de Huanacaxtle,02,México,,
+PM060,Chacala,02,México,,
+PM061,Salina Cruz,02,México,,
+PM062,Bahías de Huatulco,02,México,,
+PM063,Puerto Escondido,02,México,,
+PM064,Puerto Angel,02,México,,
+PM065,Puerto Juárez,02,México,,
+PM066,Isla Mujeres,02,México,,
+PM067,Cancún,02,México,,
+PM068,Puerto Morelos,02,México,,
+PM069,Playa del Carmen,02,México,,
+PM070,Punta Venado,02,México,,
+PM071,Puerta Aventuras,02,México,,
+PM072,Punta Allen,02,México,,
+PM073,Majahual,02,México,,
+PM074,La Aguada,02,México,,
+PM075,Xcalac,02,México,,
+PM076,Chetumal,02,México,,
+PM077,Holbox,02,México,,
+PM078,Mazatlán,02,México,,
+PM079,Topolobampo,02,México,,
+PM080,Altata,02,México,,
+PM081,El Sábalo,02,México,,
+PM082,Escuinapa,02,México,,
+PM083,Teacapan,02,México,,
+PM084,Guaymas,02,México,,
+PM085,Puerto Peñasco,02,México,,
+PM086,Golfo de Santa Clara,02,México,,
+PM087,Bahía Kino,02,México,,
+PM088,Yavaros,02,México,,
+PM089,Puerto Libertad,02,México,,
+PM090,General Rodolfo Sánchez Toboada,02,México,,
+PM091,San Carlos,02,México,,
+PM092,Dos Bocas,02,México,,
+PM093,Frontera,02,México,,
+PM094,Chiltepec,02,México,,
+PM095,Sanchez Magallanes,02,México,,
+PM096,Puerto Altamira,02,México,,
+PM097,Puerto Tampico,02,México,,
+PM098,Puerto Matamoros,02,México,,
+PM099,La Pesca,02,México,,
+PM100,Puerto de Veracruz,02,México,,
+PM101,Tuxpan,02,México,,
+PM102,Coatzacoalcos,02,México,,
+PM103,Pajaritos,02,México,,
+PM104,Alvarado,02,México,,
+PM105,Tlacotalpan,02,México,,
+PM106,Nautla,02,México,,
+PM107,Tecolutla,02,México,,
+PM108,Puerto Progreso,02,México,,
+PM109,Celestún,02,México,,
+PM110,Sisal,02,México,,
+PM111,Chuburná,02,México,,
+PM112,Yucalpetén,02,México,,
+PM113,Telchac,02,México,,
+PM114,Chabihau,02,México,,
+PM115,Dzilam de Bravo,02,México,,
+PM116,San Felipe,02,México,,
+PM117,Río Lagartos,02,México,,
+PM118,Las Coloradas,02,México,,
+PM119,El Cuyo,02,México,,
+PM120,Extranjera,02,Extranjera,,
+EA0001,Konrad Adenauer,03,Alemania,CGN,
+EA0002,Rhein-Ruhr,03,Alemania,DUS,
+EA0003,Münster/Osnabrück,03,Alemania,FMO,
+EA0004,Rhein-Main,03,Alemania,FRA,
+EA0005,Hannover,03,Alemania,HAJ,
+EA0006,Fuhlsbüttel,03,Alemania,HAM,
+EA0007,Frankfurt-Hahn,03,Alemania,HHN,
+EA0008,Franz Josef Strauss,03,Alemania,MUC,
+EA0009,Nürnberg,03,Alemania,NUE,
+EA0010,Prince Mohammad Bin Abdulaziz,03,Arabia Saudita,MED,
+EA0011,Ingeniero Aeronáutico Ambrosio L.V. Taravella,03,Argentina,COR,
+EA0012,Ministro Pistarini,03,Argentina,EZE,
+EA0013,Astor Piazzolla,03,Argentina,MDQ,
+EA0014,Gobernador Francisco Gabrielli,03,Argentina,MDZ,
+EA0015,Teniente General Benjamín Matienzo,03,Argentina,TUC,
+EA0016,Vienna,03,Austria,VIE,
+EA0017,Grand Bahamas,03,Bahamas,FPO,
+EA0018,Lynden Pindling,03,Bahamas,NAS,
+EA0019,San Salvador,03,Bahamas,ZSA,
+EA0020,Grantley Adams,03,Barbados,BGI,
+EA0021,Brussels,03,Bélgica,BRU,
+EA0022,Liege,03,Bélgica,LGG,
+EA0023,Ostend-Brugge,03,Bélgica,OST,
+EA0024,Philip S.W. Goldson,03,Belice,BZE,
+EA0025,Jorge Wilsterman,03,Bolivia,CBB,
+EA0026,El Trompillo,03,Bolivia,SRZ,
+EA0027,Viru Viru,03,Bolivia,VVI,
+EA0028,Presidente Juscelino Kubitschek,03,Brasil,BSB,
+EA0029,Adalberto Mendes Da Silva,03,Brasil,CAC,
+EA0030,Carutapera,03,Brasil,CTP,
+EA0031,Afonso Pena,03,Brasil,CWB,
+EA0032,Pinto Martins,03,Brasil,FOR,
+EA0033,Antonio Carlos Jobim,03,Brasil,GIG,
+EA0034,Governador Andre Franco Montoro,03,Brasil,GRU,
+EA0035,Manaus,03,Brasil,MAO,
+EA0036,Santos Dumont,03,Brasil,PNG,
+EA0037,Salgado Filho,03,Brasil,POA,
+EA0038,Guararapes,03,Brasil,REC,
+EA0039,Santos Dumont,03,Brasil,SDU,
+EA0040,Professor Urbano Ernesto Stumpf,03,Brasil,SJK,
+EA0041,Deputado Luis Eduardo Magalhaes,03,Brasil,SSA,
+EA0042,Viracopos-Campinas,03,Brasil,VCP,
+EA0043,Gladman Point,03,Canadá,CYUR,
+EA0044,Sault Ste. Marie,03,Canadá,YAM,
+EA0045,Canadian Forces Base Shearwater,03,Canadá,YAW,
+EA0046,Canadian Forces Base Bagotville,03,Canadá,YBG,
+EA0047,Brandon Municipal,03,Canadá,YBR,
+EA0048,Edmonton,03,Canadá,YEG,
+EA0049,Fredericton,03,Canadá,YFC,
+EA0050,John C. Munro,03,Canadá,YHM,
+EA0051,Robert L. Stanfield,03,Canadá,YHZ,
+EA0052,Region Of Waterloo,03,Canadá,YKF,
+EA0053,Kelowna,03,Canadá,YLW,
+EA0054,Mary's Harbour,03,Canadá,YMH,
+EA0055,Fort Mcmurray,03,Canadá,YMM,
+EA0056,Montreal-Mirabel,03,Canadá,YMX,
+EA0057,Macdonald-Cartier,03,Canadá,YOW,
+EA0058,Jean Lesage,03,Canadá,YQB,
+EA0059,Windsor,03,Canadá,YQG,
+EA0060,Lethbridge County,03,Canadá,YQL,
+EA0061,Greater Moncton,03,Canadá,YQM,
+EA0062,Canadian Forces Base Comox,03,Canadá,YQQ,
+EA0063,Regina,03,Canadá,YQR,
+EA0064,Thunder Bay,03,Canadá,YQT,
+EA0065,Gander,03,Canadá,YQX,
+EA0066,Sudbury,03,Canadá,YSB,
+EA0067,Saint John,03,Canadá,YSJ,
+EA0068,Billy Bishop,03,Canadá,YTZ,
+EA0069,Pierre Elliott Trudeau,03,Canadá,YUL,
+EA0070,Rouyn-Noranda,03,Canadá,YUY,
+EA0071,Vancouver,03,Canadá,YVR,
+EA0072,James Armstrong Richardson,03,Canadá,YWG,
+EA0073,John G. Diefenbaker,03,Canadá,YXE,
+EA0074,Prince George,03,Canadá,YXS,
+EA0075,London,03,Canadá,YXU,
+EA0076,Abbotsford,03,Canadá,YXX,
+EA0077,Calgary,03,Canadá,YYC,
+EA0078,Victoria,03,Canadá,YYJ,
+EA0079,Canadian Forces Base Goose Bay,03,Canadá,YYR,
+EA0080,St. John's,03,Canadá,YYT,
+EA0081,Lester B. Pearson,03,Canadá,YYZ,
+EA0082,Andres Sabella,03,Chile,ANF,
+EA0083,Carriel Sur,03,Chile,CCP,
+EA0084,Diego Aracena,03,Chile,IQQ,
+EA0085,Arturo Merino Benítez,03,Chile,SCL,
+EA0086,Baiyun,03,China,CAN,
+EA0087,Changle,03,China,FOC,
+EA0088,Xiaoshan,03,China,HGH,
+EA0089,Lishe,03,China,NGB,
+EA0090,Nanjing Lukou,03,China,NKG,
+EA0091,Capital,03,China,PEK,
+EA0092,Pudong,03,China,PVG,
+EA0093,Gaoqi,03,China,XMN,
+EA0094,Gustavo Rojas Pinilla,03,Colombia,ADZ,
+EA0095,Ernesto Cortissoz,03,Colombia,BAQ,
+EA0096,El Nuevo Dorado,03,Colombia,BOG,
+EA0097,Alfonso Bonilla Aragón,03,Colombia,CLO,
+EA0098,Rafael Nuñez,03,Colombia,CTG,
+EA0099,Jose Maria Córdova,03,Colombia,MDE,
+EA0100,Montelibano,03,Colombia,MTB,
+EA0101,Daniel Oduber Quiros,03,Costa Rica,LIR,
+EA0102,Juan Santamaría,03,Costa Rica,SJO,
+EA0103,Jardines Del Rey,03,Cuba,CCC,
+EA0104,Ignacio Agramonte,03,Cuba,CMW,
+EA0105,Vilo Acuña,03,Cuba,CYO,
+EA0106,Jose Martí,03,Cuba,HAV,
+EA0107,Frank País,03,Cuba,HOG,
+EA0108,Antonio Maceo,03,Cuba,SCU,
+EA0109,Abel Santamaría,03,Cuba,SNU,
+EA0110,Juan Gualberto Gomez,03,Cuba,VRA,
+EA0111,Aalborg,03,Dinamarca,AAL,
+EA0112,Billund,03,Dinamarca,BLL,
+EA0113,København,03,Dinamarca,CPH,
+EA0114,Mariscal Lamar,03,Ecuador,CUE,
+EA0115,Jose Joaquín De Olmdeo,03,Ecuador,GYE,
+EA0116,Eloy Alfaro,03,Ecuador,MEC,
+EA0117,General Ulpiano Páez,03,Ecuador,SNC,
+EA0118,Mitad Del Mundo,03,Ecuador,UIO,
+EA0119,Monseñor Oscar Arnulfo Romero,03,El Salvador,SAL,
+EA0120,Al Maktoum,03,Emiratos Árabes Unidos,DWC,
+EA0121,El Prat,03,España,BCN,
+EA0122,Adolfo Suarez Madrid–Barajas,03,España,MAD,
+EA0123,Son Sant Joan,03,España,PMI,
+EA0124,Manises,03,España,VLC,
+EA0125,Zaragoza,03,España,ZAZ,
+EA0126,Albuquerque International,03,Estados Unidos,ABQ,
+EA0127,Atlantic City International,03,Estados Unidos,ACY,
+EA0128,Addison,03,Estados Unidos,ADS,
+EA0129,Joint Base Andrews,03,Estados Unidos,ADW,
+EA0130,Alexandria International,03,Estados Unidos,AEX,
+EA0131,Fort Worth Alliance,03,Estados Unidos,AFW,
+EA0132,Albany International,03,Estados Unidos,ALB,
+EA0133,Waterloo Regional,03,Estados Unidos,ALO,
+EA0134,Rick Husband Amarillo International,03,Estados Unidos,AMA,
+EA0135,Anniston Regional,03,Estados Unidos,ANB,
+EA0136,Ted Stevens,03,Estados Unidos,ANC,
+EA0137,Talladega Municipal,03,Estados Unidos,ASN,
+EA0138,Hartsfield - Jackson Atlanta International,03,Estados Unidos,ATL,
+EA0139,Appleton International,03,Estados Unidos,ATW,
+EA0140,Augusta State,03,Estados Unidos,AUG,
+EA0141,Austin-Bergstrom International,03,Estados Unidos,AUS,
+EA0142,Asheville Regional,03,Estados Unidos,AVL,
+EA0143,Phoenix-Mesa Gateway,03,Estados Unidos,AZA,
+EA0144,Kalamazoo/Battle Creek International,03,Estados Unidos,AZO,
+EA0145,Bradley International,03,Estados Unidos,BDL,
+EA0146,Laurence G Hanscom,03,Estados Unidos,BED,
+EA0147,Boeing Field/King County International,03,Estados Unidos,BFI,
+EA0148,Meadows Field,03,Estados Unidos,BFL,
+EA0149,Bangor International,03,Estados Unidos,BGR,
+EA0150,Birmingham-Shuttlesworth,03,Estados Unidos,BHM,
+EA0151,Biggs,03,Estados Unidos,BIF,
+EA0152,West Michigan Regional,03,Estados Unidos,BIV,
+EA0153,Central Il Regional Airport,03,Estados Unidos,BMI,
+EA0154,Nashville International,03,Estados Unidos,BNA,
+EA0155,General Edward Lawrence Logan International,03,Estados Unidos,BOS,
+EA0156,Rafael Hernandez,03,Estados Unidos,BQN,
+EA0157,Brownsville/South Padre Island International,03,Estados Unidos,BRO,
+EA0158,W K Kellogg,03,Estados Unidos,BTL,
+EA0159,Bert Mooney,03,Estados Unidos,BTM,
+EA0160,Buffalo Niagara International,03,Estados Unidos,BUF,
+EA0161,Warren County Regional,03,Estados Unidos,BWG,
+EA0162,Baltimore/Washington International Thurgood Marshall,03,Estados Unidos,BWI,
+EA0163,Columbia Metropolitan,03,Estados Unidos,CAE,
+EA0164,Akron-Canton Regional,03,Estados Unidos,CAK,
+EA0165,Lovell,03,Estados Unidos,CHA,
+EA0166,Charleston International,03,Estados Unidos,CHS,
+EA0167,The Eastern Iowa,03,Estados Unidos,CID,
+EA0168,Cleveland-Hopkins International,03,Estados Unidos,CLE,
+EA0169,Easterwood,03,Estados Unidos,CLL,
+EA0170,Charlotte/Douglas International,03,Estados Unidos,CLT,
+EA0171,John Glenn Columbus International,03,Estados Unidos,CMH,
+EA0172,University Of Illinois,03,Estados Unidos,CMI,
+EA0173,Aeropuerto de Columbia,03,Estados Unidos,COA,
+EA0174,Columbia Regional,03,Estados Unidos,COU,
+EA0175,Corpus Christi International,03,Estados Unidos,CRP,
+EA0176,Columbus,03,Estados Unidos,CSG,
+EA0177,Cincinnati/Northern Kentucky International,03,Estados Unidos,CVG,
+EA0178,Dallas Love,03,Estados Unidos,DAL,
+EA0179,James M Cox Dayton International,03,Estados Unidos,DAY,
+EA0180,Ronald Reagan,03,Estados Unidos,DCA,
+EA0181,Denver International,03,Estados Unidos,DEN,
+EA0182,Dallas-Fort Worth International,03,Estados Unidos,DFW,
+EA0183,De Kalb Taylor Municipal,03,Estados Unidos,DKB,
+EA0184,Duluth International,03,Estados Unidos,DLH,
+EA0185,Dupage,03,Estados Unidos,DPA,
+EA0186,Del Rio International,03,Estados Unidos,DRT,
+EA0187,Des Moines International,03,Estados Unidos,DSM,
+EA0188,Denton Enterprise,03,Estados Unidos,DTO,
+EA0189,Detroit Metropolitan,03,Estados Unidos,DTW,
+EA0190,Eagle County Regional,03,Estados Unidos,EGE,
+EA0191,South Arkansas Regional,03,Estados Unidos,ELD,
+EA0192,El Paso International,03,Estados Unidos,ELP,
+EA0193,Evansville Regional,03,Estados Unidos,EVV,
+EA0194,Newark Liberty International,03,Estados Unidos,EWR,
+EA0195,Héctor International,03,Estados Unidos,FAR,
+EA0196,Fresno Yosemite International,03,Estados Unidos,FAT,
+EA0197,Frederick Regional,03,Estados Unidos,FDR,
+EA0198,Fort Lauderdale,03,Estados Unidos,FLL,
+EA0199,Bishop International,03,Estados Unidos,FNT,
+EA0200,Topeka Regional,03,Estados Unidos,FOE,
+EA0201,Joe Foss,03,Estados Unidos,FSD,
+EA0202,Fort Wayne International,03,Estados Unidos,FWA,
+EA0203,Greeneville-Greene County Municipal,03,Estados Unidos,GCY,
+EA0204,Grand Forks International,03,Estados Unidos,GFK,
+EA0205,Grand Junction Regional,03,Estados Unidos,GJT,
+EA0206,Arlington Municipal,03,Estados Unidos,GKY,
+EA0207,Greenville Mid-Delta,03,Estados Unidos,GLH,
+EA0208,Central Nebraska Regional,03,Estados Unidos,GRI,
+EA0209,Gordon Municipal,03,Estados Unidos,GRN,
+EA0210,Gerald R Ford International,03,Estados Unidos,GRR,
+EA0211,Piedmont Triad International,03,Estados Unidos,GSO,
+EA0212,Greenville Spartanburg International,03,Estados Unidos,GSP,
+EA0213,Donaldson,03,Estados Unidos,GYH,
+EA0214,Gary/Chicago International,03,Estados Unidos,GYY,
+EA0215,Hagerstown Regional,03,Estados Unidos,HGR,
+EA0216,Hawkins,03,Estados Unidos,HKS,
+EA0217,Hickory Regional,03,Estados Unidos,HKY,
+EA0218,Helena Regional,03,Estados Unidos,HLN,
+EA0219,Daniel K Inouye International,03,Estados Unidos,HNL,
+EA0220,William P Hobby,03,Estados Unidos,HOU,
+EA0221,Valley International,03,Estados Unidos,HRL,
+EA0222,Boone County,03,Estados Unidos,HRO,
+EA0223,Carl T Jones Field,03,Estados Unidos,HSV,
+EA0224,Tri-State/Milton J Ferguson,03,Estados Unidos,HTS,
+EA0225,Terre Haute Regional,03,Estados Unidos,HUF,
+EA0226,Washington Dulles,03,Estados Unidos,IAD,
+EA0227,Niagara Falls International,03,Estados Unidos,IAG,
+EA0228,George Bush Intercontinental,03,Estados Unidos,IAH,
+EA0229,Dwight D Eisenhower National,03,Estados Unidos,ICT,
+EA0230,Ankeny Regional,03,Estados Unidos,IKV,
+EA0231,Wilmington International,03,Estados Unidos,ILM,
+EA0232,Wilmington Air Park,03,Estados Unidos,ILN,
+EA0233,Immokalee Regional,03,Estados Unidos,IMM,
+EA0234,Indianapolis International,03,Estados Unidos,IND,
+EA0235,Jackson Hole,03,Estados Unidos,JAC,
+EA0236,Jackson-Evers International,03,Estados Unidos,JAN,
+EA0237,Jacksonville International,03,Estados Unidos,JAX,
+EA0238,Jefferson City Memorial,03,Estados Unidos,JEF,
+EA0239,John F Kennedy International,03,Estados Unidos,JFK,
+EA0240,Capital Region International,03,Estados Unidos,LAN,
+EA0241,Mccarran International,03,Estados Unidos,LAS,
+EA0242,Los Angeles International,03,Estados Unidos,LAX,
+EA0243,Lubbock Preston Smith International,03,Estados Unidos,LBB,
+EA0244,Rickenbacker International,03,Estados Unidos,LCK,
+EA0245,Blue Grass,03,Estados Unidos,LEX,
+EA0246,Lafayette Regional,03,Estados Unidos,LFT,
+EA0247,Laguardia,03,Estados Unidos,LGA,
+EA0248,Long Beach,03,Estados Unidos,LGB,
+EA0249,Lagrange-Callaway,03,Estados Unidos,LGC,
+EA0250,Bill And Hillary Clinton National,03,Estados Unidos,LIT,
+EA0251,Facility,03,Estados Unidos,LJC,
+EA0252,Louisville Winston County,03,Estados Unidos,LMS,
+EA0253,Bowman,03,Estados Unidos,LOU,
+EA0254,Laredo International,03,Estados Unidos,LRD,
+EA0255,La Crosse Regional,03,Estados Unidos,LSE,
+EA0256,Cincinnati Municipal,03,Estados Unidos,LUK,
+EA0257,Lawrenceville-Vincennes International,03,Estados Unidos,LWV,
+EA0258,Gwinnett County,03,Estados Unidos,LZU,
+EA0259,Mbs International,03,Estados Unidos,MBS,
+EA0260,Kansas City International,03,Estados Unidos,MCI,
+EA0261,Orlando International,03,Estados Unidos,MCO,
+EA0262,Chicago Midway International,03,Estados Unidos,MDW,
+EA0263,Key,03,Estados Unidos,MEI,
+EA0264,Memphis International,03,Estados Unidos,MEM,
+EA0265,Mansfield Lahm Regional,03,Estados Unidos,MFD,
+EA0266,Mcallen Miller International,03,Estados Unidos,MFE,
+EA0267,Michigan City Municipal,03,Estados Unidos,MGC,
+EA0268,Montgomery Regional,03,Estados Unidos,MGM,
+EA0269,Miami International,03,Estados Unidos,MIA,
+EA0270,Charles B Wheeler Downtown,03,Estados Unidos,MKC,
+EA0271,General Mitchell International,03,Estados Unidos,MKE,
+EA0272,Quad City International,03,Estados Unidos,MLI,
+EA0273,Mobile Regional,03,Estados Unidos,MOB,
+EA0274,Smyrna,03,Estados Unidos,MQY,
+EA0275,Maury County,03,Estados Unidos,MRC,
+EA0276,Dane County Regional,03,Estados Unidos,MSN,
+EA0277,Minneapolis-St. Paul International,03,Estados Unidos,MSP,
+EA0278,Louis Armstrong New Orleans International,03,Estados Unidos,MSY,
+EA0279,Montrose Regional,03,Estados Unidos,MTJ,
+EA0280,Myrtle Beach International,03,Estados Unidos,MYR,
+EA0281,Metropolitan Oakland International,03,Estados Unidos,OAK,
+EA0282,Ogden-Hinckley,03,Estados Unidos,OGD,
+EA0283,Will Rogers,03,Estados Unidos,OKC,
+EA0284,Kokomo Municipal,03,Estados Unidos,OKK,
+EA0285,Nogales,03,Estados Unidos,OLS,
+EA0286,Eppley,03,Estados Unidos,OMA,
+EA0287,Ontario International,03,Estados Unidos,ONT,
+EA0288,Miami-Opa Locka Executive,03,Estados Unidos,OPF,
+EA0289,Chicago O'hare International,03,Estados Unidos,ORD,
+EA0290,Norfolk International,03,Estados Unidos,ORF,
+EA0291,Orlando Executive,03,Estados Unidos,ORL,
+EA0292,Oscoda-Wurtsmith,03,Estados Unidos,OSC,
+EA0293,Ottumwa Regional,03,Estados Unidos,OTM,
+EA0294,Palm Beach International,03,Estados Unidos,PBI,
+EA0295,Portage Creek,03,Estados Unidos,PCA,
+EA0296,Portland International,03,Estados Unidos,PDX,
+EA0297,Newport News/Williamsburg International,03,Estados Unidos,PHF,
+EA0298,Philadelphia International,03,Estados Unidos,PHL,
+EA0299,Phoenix Sky Harbor,03,Estados Unidos,PHX,
+EA0300,General Downing - Peoria International,03,Estados Unidos,PIA,
+EA0301,Pittsburgh International,03,Estados Unidos,PIT,
+EA0302,Mid-Ohio Valley Regional,03,Estados Unidos,PKB,
+EA0303,Pease International,03,Estados Unidos,PSM,
+EA0304,Palm Springs International,03,Estados Unidos,PSP,
+EA0305,Oakland County International,03,Estados Unidos,PTK,
+EA0306,Theodore Francis Green,03,Estados Unidos,PVD,
+EA0307,Portland International,03,Estados Unidos,PWM,
+EA0308,Vail Van Service,03,Estados Unidos,QBF,
+EA0309,Ellsworth Air Force Base,03,Estados Unidos,RCA,
+EA0310,Raleigh-Durham International,03,Estados Unidos,RDU,
+EA0311,Chicago/Rockford International,03,Estados Unidos,RFD,
+EA0312,Richmond International,03,Estados Unidos,RIC,
+EA0313,Reno/Tahoe International,03,Estados Unidos,RNO,
+EA0314,Greater Rochester International,03,Estados Unidos,ROC,
+EA0315,Rochester International,03,Estados Unidos,RST,
+EA0316,Southwest Florida International,03,Estados Unidos,RSW,
+EA0317,Rocky Mount-Wilson Regional,03,Estados Unidos,RWI,
+EA0318,Santa Fe Municipal,03,Estados Unidos,SAF,
+EA0319,San Diego International,03,Estados Unidos,SAN,
+EA0320,San Antonio International,03,Estados Unidos,SAT,
+EA0321,San Bernardino International,03,Estados Unidos,SBD,
+EA0322,South Bend International,03,Estados Unidos,SBN,
+EA0323,Louisville International,03,Estados Unidos,SDF,
+EA0324,Brown Field Municipal,03,Estados Unidos,SDM,
+EA0325,Seattle-Tacoma International,03,Estados Unidos,SEA,
+EA0326,Orlando Sanford International,03,Estados Unidos,SFB,
+EA0327,San Francisco International,03,Estados Unidos,SFO,
+EA0328,Sugar Land Regional,03,Estados Unidos,SGR,
+EA0329,Stuttgart Municipal,03,Estados Unidos,SGT,
+EA0330,Shreveport Regional,03,Estados Unidos,SHV,
+EA0331,San José International,03,Estados Unidos,SJC,
+EA0332,Luis Muñoz Marin,03,Estados Unidos,SJU,
+EA0333,Kelly,03,Estados Unidos,SKF,
+EA0334,Griffing Sandusky,03,Estados Unidos,SKY,
+EA0335,Salt Lake City International,03,Estados Unidos,SLC,
+EA0336,Sacramento International,03,Estados Unidos,SMF,
+EA0337,Santa Monica Municipal,03,Estados Unidos,SMO,
+EA0338,John Wayne Airport,03,Estados Unidos,SNA,
+EA0339,St. Louis Lambert International,03,Estados Unidos,STL,
+EA0340,Spirit Of St. Louis,03,Estados Unidos,SUS,
+EA0341,Statesville Regional,03,Estados Unidos,SVH,
+EA0342,Stewart International,03,Estados Unidos,SWF,
+EA0343,Catalina Island,03,Estados Unidos,SXC,
+EA0344,Syracuse Hancock International,03,Estados Unidos,SYR,
+EA0345,Tuscaloosa Regional,03,Estados Unidos,TCL,
+EA0346,Person County,03,Estados Unidos,TDF,
+EA0347,Teterboro,03,Estados Unidos,TEB,
+EA0348,Tullahoma Regional,03,Estados Unidos,THA,
+EA0349,Toledo Express,03,Estados Unidos,TOL,
+EA0350,Tampa International,03,Estados Unidos,TPA,
+EA0351,Raleigh Exec Jetport,03,Estados Unidos,TTA,
+EA0352,Tulsa International,03,Estados Unidos,TUL,
+EA0353,Tupelo Regional,03,Estados Unidos,TUP,
+EA0354,Tucson International,03,Estados Unidos,TUS,
+EA0355,Texarkana Regional,03,Estados Unidos,TXK,
+EA0356,Mcghee Tyson,03,Estados Unidos,TYS,
+EA0357,Quincy Regional,03,Estados Unidos,UIN,
+EA0358,University-Oxford,03,Estados Unidos,UOX,
+EA0359,Van Nuys,03,Estados Unidos,VNY,
+EA0360,Mcguire,03,Estados Unidos,WRI,
+EA0361,Willow Run,03,Estados Unidos,YIP,
+EA0362,Youngstown-Warren Regional,03,Estados Unidos,YNG,
+EA0363,Yuma International,03,Estados Unidos,YUM,
+EA0364,Vantaa,03,Finlandia,HEL,
+EA0365,Euroairport Basel Mulhouse Freiburg,03,Francia,BSL,
+EA0366,Felix Eboue,03,Francia,CAY,
+EA0367,Charles De Gaulle,03,Francia,CDG,
+EA0368,Euroairport Basel Mulhouse Freiburg,03,Francia,EAP,
+EA0369,Martinique Aime Cesaire,03,Francia,FDF,
+EA0370,Lyon St-Exupery,03,Francia,LYS,
+EA0371,Euroairport Basel Mulhouse Freiburg,03,Francia,MLH,
+EA0372,Marseille Provence,03,Francia,MRS,
+EA0373,Côte D'azur,03,Francia,NCE,
+EA0374,Atlantique,03,Francia,NTE,
+EA0375,Orly,03,Francia,ORY,
+EA0376,Le Raizet,03,Francia,PTP,
+EA0377,Toulouse Blagnac,03,Francia,TLS,
+EA0378,Mundo Maya,03,Guatemala,FRS,
+EA0379,La Aurora,03,Guatemala,GUA,
+EA0380,Antoine-Simon,03,Haiti,CYA,
+EA0381,Toussaint Louverture,03,Haití,PAP,
+EA0382,Goloson,03,Honduras,LCE,
+EA0383,Juan Manuel Gálvez,03,Honduras,RTB,
+EA0384,Ramón Villeda Morales,03,Honduras,SAP,
+EA0385,Toncontin,03,Honduras,TGU,
+EA0386,Chek Lap Kok,03,Hong Kong,HKG,
+EA0387,Budapest,03,Hungría,BUD,
+EA0388,Vadodara,03,India,BDQ,
+EA0389,Dublín,03,Irlanda,DUB,
+EA0390,Shannon,03,Irlanda,SNN,
+EA0391,Keflavik,03,Islandia,KEF,
+EA0392,Owen Roberts,03,Islas Caimán,GCM,
+EA0393,Ben Gurion,03,Israel,TLV,
+EA0394,Bologna,03,Italia,BLQ,
+EA0395,Cagliari-Elmas,03,Italia,CAG,
+EA0396,Ciampino-Giovan Battista Pastine,03,Italia,CIA,
+EA0397,Leonardo Da Vinci,03,Italia,FCO,
+EA0398,Genoa Cristoforo Colombo,03,Italia,GOA,
+EA0399,Malpensa,03,Italia,MXP,
+EA0400,Caselle,03,Italia,TRN,
+EA0401,Marco Polo,03,Italia,VCE,
+EA0402,Villafranca,03,Italia,VRN,
+EA0403,Norman Manley,03,Jamaica,KIN,
+EA0404,Sangster,03,Jamaica,MBJ,
+EA0405,New Sapporo,03,Japón,CTS,
+EA0406,Hachijojima,03,Japón,HAC,
+EA0407,Kansai,03,Japón,KIX,
+EA0408,Narita,03,Japón,NRT,
+EA0409,Sendai,03,Japón,SDJ,
+EA0410,Luxembourg,03,Luxemburgo,LUX,
+EA0411,Licenciado Jesus Teran Peredo,03,México,AGU,
+EA0412,General Alberto L. Salinas C.,03,México,ESE,
+EA0413,General Rodolfo Sanchez Taboada,03,México,MXL,
+EA0414,General Abelardo L. Rodriguez,03,México,TIJ,
+EA0415,Cabo San Lucas,03,México,CSL,
+EA0416,General Manuel Marquez De Leon,03,México,LAP,
+EA0417,Loreto,03,México,LTO,
+EA0418,Los Cabos,03,México,SJD,
+EA0419,Ciudad Del Carmen,03,México,CME,
+EA0420,Ingeniero Alberto Acuña Ongay,03,México,CPE,
+EA0421,Palenque,03,México,PQM,
+EA0422,Tapachula,03,México,TAP,
+EA0423,Angel Albino Corzo,03,México,TGZ,
+EA0424,Abraham González,03,México,CJS,
+EA0425,General Roberto Fierro Villalobos,03,México,CUU,
+EA0426,Benito Juárez,03,México,MEX,
+EA0427,Ciudad Acuña,03,México,ACN,
+EA0428,Venustiano Carranza,03,México,LOV,
+EA0429,Piedras Negras,03,México,PDS,
+EA0430,Plan De Guadalupe,03,México,SLW,
+EA0431,Francisco Sarabia,03,México,TRC,
+EA0432,Licenciado Miguel De La Madrid,03,México,CLQ,
+EA0433,Playa De Oro,03,México,ZLO,
+EA0434,General Guadalupe Victoria,03,México,DGO,
+EA0435,Base Aérea Militar No.1 Santa Lucia,03,México,NLU,
+EA0436,Licenciado Adolfo Lopez Mateos,03,México,TLC,
+EA0437,Guanajuato,03,México,BJX,
+EA0438,General Juan N. Alvarez,03,México,ACA,
+EA0439,Ixtapa Zihuatanejo,03,México,ZIH,
+EA0440,Don Miguel Hidalgo Y Costilla,03,México,GDL,
+EA0441,Francisco Primo De Verdad,03,México,LOM,
+EA0442,Licenciado Gustavo Díaz Ordaz,03,México,PVR,
+EA0443,Lázaro Cárdenas,03,México,LZC,
+EA0444,General Francisco J. Mujica,03,México,MLM,
+EA0445,Licenciado Y General Ignacio Lopez Rayón,03,México,UPN,
+EA0446,General Mariano Matamoros,03,México,CVJ,
+EA0447,Amado Nervo,03,México,TPQ,
+EA0448,General Mariano Escobedo,03,México,MTY,
+EA0449,Aeropuerto Del Norte,03,México,NTR,
+EA0450,Bahías De Huatulco,03,México,HUX,
+EA0451,Ixtepec,03,México,IZT,
+EA0452,Xoxocotlan,03,México,OAX,
+EA0453,Puerto Escondido,03,México,PXM,
+EA0454,Estación Aeronaval De Salina Cruz,03,México,SCX,
+EA0455,Hermanos Serdán,03,México,PBC,
+EA0456,Ingeniero Fernando Espinoza Gutiérrez,03,México,QRO,
+EA0457,Chetumal,03,México,CTM,
+EA0458,Cancún,03,México,CUN,
+EA0459,Cozumel,03,México,CZM,
+EA0460,Ponciano Arriaga,03,México,SLP,
+EA0461,Tamuin,03,México,TSL,
+EA0462,Federal De Bachigualato,03,México,CUL,
+EA0463,Federal Del Valle Del Fuerte,03,México,LMM,
+EA0464,General Rafael Buelna,03,México,MZT,
+EA0465,Ciudad Obregón,03,México,CEN,
+EA0466,General Jose Maria Yáñez,03,México,GYM,
+EA0467,General Ignacio Pesqueira Garcia,03,México,HMO,
+EA0468,Nogales,03,México,NOG,
+EA0469,Punta Peñasco,03,México,PPE,
+EA0470,C.P.A. Carlos Rovirosa Perez,03,México,VSA,
+EA0471,General Pedro J. Méndez,03,México,CVM,
+EA0472,General Servando Canales,03,México,MAM,
+EA0473,Quetzalcóatl,03,México,NLD,
+EA0474,General Lucio Blanco,03,México,REX,
+EA0475,General Francisco Javier Mina,03,México,TAM,
+EA0476,El Lencero,03,México,JAL,
+EA0477,Minatitlán,03,México,MTT,
+EA0478,El Tajín,03,México,PAZ,
+EA0479,General Heriberto Jara Corona,03,México,VER,
+EA0480,Chichen Itzá,03,México,CZA,
+EA0481,Licenciado Manuel Crescencio Rejón,03,México,MID,
+EA0482,General Leobardo C. Ruiz,03,México,ZCL,
+EA0483,Ing. Juan Guillermo Villasana,03,México,PCA,
+EA0484,Piedras Negras,03,México,PNG,
+EA0485,Aeropuerto Internacional de San Felipe,03,México,SFE,
+EA0486,Bravo,03,México,AAB,
+EA0487,Aero Agrícola El Caimanero,03,México,AAC,
+EA0488,La Mezcalera,03,México,AAD,
+EA0489,Agropecuaria Amparan,03,México,AAP,
+EA0490,Ambas Aguas,03,México,AAS,
+EA0491,Alisitos,03,México,AAT,
+EA0492,Albatros Residencial Aéreo,03,México,ABT,
+EA0493,Campo Berlín,03,México,ACB,
+EA0494,Aeródromo Cabo Cortes,03,México,ACC,
+EA0495,Cabo Cortés,03,México,ACC,
+EA0496,Carneros,03,México,ACF,
+EA0497,El Novillo De Guerrero,03,México,ACG,
+EA0498,San Antonio Chablé,03,México,ACH,
+EA0499,"Aero Club Valle De Bravo, A.C.",03,México,ACJ,
+EA0500,Aeródromo Cutzarondiro,03,México,ACK,
+EA0501,Col. Alamillo,03,México,ACN,
+EA0502,Acaponeta,03,México,ACP,
+EA0503,Acatita,03,México,ACT,
+EA0504,Cucuyulapa,03,México,ACU,
+EA0505,Divisadero Barrancas,03,México,ADB,
+EA0506,Agrodesarrollo Carbonera             ,03,México,ADC  ,
+EA0507,Las Adjuntas,03,México,ADJ,
+EA0508,Acuagranjas,03,México,ADL,
+EA0509,Del Mayo,03,México,ADM,
+EA0510,Club Aereo Del Yaqui,03,México,ADY,
+EA0511,Aerodeportes,03,México,AED,
+EA0512,Ejido González,03,México,AEG,
+EA0513,El Jefe,03,México,AEJ,
+EA0514,El Mázate,03,México,AEM,
+EA0515,Aerolandia,03,México,AER,
+EA0516,El Socorro,03,México,AES,
+EA0517,Rancho El Tinieblo,03,México,AET,
+EA0518,Pista Aerodiaz,03,México,AEZ,
+EA0519,Aerofumigaciones Castro,03,México,AFC,
+EA0520,Aero Fumigaciones Cessna,03,México,AFE,
+EA0521,Club Aéreo Francisco Lobo,03,México,AFL,
+EA0522,Aerofumigaciones Maranatu,03,México,AFM,
+EA0523,Fertifum,03,México,AFR,
+EA0524,Aguaje Blanco,03,México,AGB,
+EA0525,Agrícola Y Ganadera Gusalo,03,México,AGC,
+EA0526,Los Algodones,03,México,AGD,
+EA0527,Lorenzos,03,México,AGK,
+EA0528,Aguaje Del Monte,03,México,AGM,
+EA0529,San Agustín,03,México,AGS,
+EA0530,El Guayabo,03,México,AGY,
+EA0531,Agua Zarca De San Lucas,03,México,AGZ,
+EA0532,El Ahijadero,03,México,AHO,
+EA0533,Husky,03,México,AHS,
+EA0534,Agrícola Las Isabeles,03,México,AIB,
+EA0535,Jova Agrícola,03,México,AJC,
+EA0536,Casa Acapulco,03,México,AKA,
+EA0537,Álamos,03,México,ALA,
+EA0538,Rancho Las Borregas,03,México,ALD,
+EA0539,Algodonera De Tapachula,03,México,ALG,
+EA0540,La Paz Sky Park,03,México,ALK,
+EA0541,Aerofumigaciones LÓpez,03,México,ALP,
+EA0542,Las Cartucheras,03,México,ALQ,
+EA0543,Los Ojuelos,03,México,ALW,
+EA0544,Alizal,03,México,ALX,
+EA0545,Almoloya,03,México,ALY,
+EA0546,AmatlÁn De Jora,03,México,AMA,
+EA0547,Las Alamandas,03,México,AMD,
+EA0548,Los Mezquites,03,México,AMK,
+EA0549,Amaculi,03,México,AMQ,
+EA0550,Aero Club Manitoba,03,México,AMT,
+EA0551,General Miguel Alemán,03,México,AMV,
+EA0552,And Port,03,México,ANP,
+EA0553,Anna,03,México,ANS,
+EA0554,Aéreo Servicio Nuñez,03,México,ANZ,
+EA0555,Acocotla,03,México,AOC,
+EA0556,Apozolco,03,México,APJ,
+EA0557,Mieleras,03,México,APS,
+EA0558,Aeropista Deportiva Tapalpa,03,México,APT,
+EA0559,Los Sapos,03,México,APU,
+EA0560,Pancho Villa,03,México,APV,
+EA0561,Rancho El Armadillo,03,México,ARL,
+EA0562,Aeromar,03,México,ARM,
+EA0563,Aerofumigaciones Sarabia,03,México,ASB,
+EA0564,Aerofumigaciones Solís,03,México,ASF,
+EA0565,Alicia,03,México,ASH,
+EA0566,Santa Inés,03,México,ASI,
+EA0567,Cabo Sky Tours,03,México,ASL,
+EA0568,Alfonsina'S Resort,03,México,ASN,
+EA0569,Rancho El Casco,03,México,ASO,
+EA0570,"Hacienda San Rafael
+(Proyecto)",03,México,ASR,
+EA0571,Aguascalientes,03,México,ASS,
+EA0572,Aerofumigaciones Nayarit,03,México,AST,
+EA0573,Aeroservicios La Victoria,03,México,ASV,
+EA0574,Agrícola Santa Veneranda,03,México,ASX,
+EA0575,Tierra Blanca,03,México,ATB,
+EA0576,"Aeródromo De Tonala, Chiapas",03,México,ATG,
+EA0577,Atotonilco,03,México,ATO,
+EA0578,Tigrito,03,México,ATO,
+EA0579,Autlán De Navarro,03,México,AUN,
+EA0580,Aeródromo Villa Hidalgo,03,México,AVH,
+EA0581,Los Ayuches,03,México,AYC,
+EA0582,Ayuquila,03,México,AYL,
+EA0583,La Azufrosa I,03,México,AZF,
+EA0584,Gral. Pablo L. Sidar,03,México,AZG,
+EA0585,El Zopilote,03,México,AZK,
+EA0586,Los Aztecas,03,México,AZT,
+EA0587,El Azulejo,03,México,AZU,
+EA0588,Baborigame,03,México,BAB,
+EA0589,Bacadehuachi,03,México,BAC,
+EA0590,La Tuna De Badiraguato,03,México,BAD,
+EA0591,Barajas,03,México,BAG,
+EA0592,Barranca Honda,03,México,BAH,
+EA0593,Bacis,03,México,BAI,
+EA0594,El Bajío,03,México,BAJ,
+EA0595,Bacoachí,03,México,BAK,
+EA0596,Bamopa,03,México,BAM,
+EA0597,Los Barrancos,03,México,BAO,
+EA0598,Babunica,03,México,BAU,
+EA0599,Aeródromo Bahía De Los Ángeles,03,México,BAX,
+EA0600,Banarey,03,México,BAY  ,
+EA0601,Rancho Bbb                           ,03,México,BBB,
+EA0602,Barbechitos,03,México,BBC,
+EA0603,BahÍa De Las Ballenas,03,México,BBS,
+EA0604,El Báculo                            ,03,México,BCL  ,
+EA0605,El Baztán,03,México,BCM,
+EA0606,Banco Chinchorro,03,México,BCQ,
+EA0607,Bacubirito,03,México,BCU,
+EA0608,Bacayopa,03,México,BCY,
+EA0609,Bacayopa Ii,03,México,BCZ,
+EA0610,El Bajío Del Oso,03,México,BDO,
+EA0611,Las Brisas,03,México,BGA,
+EA0612,Las Bugambilias,03,México,BGM,
+EA0613,Bahía,03,México,BHA,
+EA0614,Bahía Kino,03,México,BHK,
+EA0615,Bachoco,03,México,BHO,
+EA0616,El Centenario,03,México,BJO,
+EA0617,Pista Brekamaje,03,México,BKE,
+EA0618,Leo,03,México,BLB,
+EA0619,Aterrizaje De Muñoz,03,México,BLM,
+EA0620,El Bolson,03,México,BLO,
+EA0621,Balder,03,México,BLR,
+EA0622,El Bramadero,03,México,BMO,
+EA0623,Bahía Mujeres,03,México,BMS,
+EA0624,Barra De Navidad,03,México,BND,
+EA0625,Benny,03,México,BNY,
+EA0626,Los Brasiles,03,México,BRA,
+EA0627,El Barbechito,03,México,BRB,
+EA0628,Borders,03,México,BRD,
+EA0629,Las Brechas,03,México,BRE,
+EA0630,El Barro,03,México,BRO,
+EA0631,El Brasil,03,México,BRX,
+EA0632,Bazonopita De Abajo,03,México,BSN,
+EA0633,Bahía Soledad,03,México,BSO,
+EA0634,Bastantita,03,México,BST,
+EA0635,Bahía Asuncion,03,México,BSU,
+EA0636,Pista Aérea Batan,03,México,BTN,
+EA0637,Batopito,03,México,BTT,
+EA0638,Betty,03,México,BTY,
+EA0639,Buenavista,03,México,BUE,
+EA0640,Buenavista De Atascaderos ,03,México,BVA,
+EA0641,Club De Aviones Ultraligeros De Hermosillo,03,México,CAG,
+EA0642,La Campanilla,03,México,CAM,
+EA0643,Canelas,03,México,CAN,
+EA0644,"Canoas
+(Proyecto)",03,México,CAO,
+EA0645,La Campana,03,México,CAP,
+EA0646,Santa Barbara,03,México,CAT,
+EA0647,Campo Victoria,03,México,CAW,
+EA0648,La Ceiba,03,México,CBA,
+EA0649,Cerro Bola,03,México,CBB,
+EA0650,Cerro Bola,03,México,CBD,
+EA0651,Cabrera,03,México,CBT,
+EA0652,Calabazas,03,México,CBZ,
+EA0653,Camargo,03,México,CCA,
+EA0654,Ciudad Constitución,03,México,CCB,
+EA0655,Casa Colorada,03,México,CCC,
+EA0656,Casimiro Castillo,03,México,CCF,
+EA0657,La Concordia,03,México,CCJ,
+EA0658,Casa Colorada,03,México,CCK,
+EA0659,Cuatro Caminos,03,México,CCM  ,
+EA0660,Campo Cuatro,03,México,CCQ,
+EA0661,Campo Cortes,03,México,CCR,
+EA0662,Carricitos,03,México,CCS,
+EA0663,Carlos Diaz Becerril,03,México,CDB,
+EA0664,El Cedro ,03,México,CDB ,
+EA0665,Chupadero Del Caballo               ,03,México,CDC,
+EA0666,Gral. Roberto Fierro,03,México,CDG,
+EA0667,Campo Diez,03,México,CDI,
+EA0668,Cadeje,03,México,CDJ,
+EA0669,Las Huastecas,03,México,CDM,
+EA0670,Cedro Solo,03,México,CDO,
+EA0671,Colorado,03,México,CDQ,
+EA0672,Cedros,03,México,CDS,
+EA0673,Ciénega Del Toro,03,México,CDT,
+EA0674,Campo David,03,México,CDV,
+EA0675,Cerro De Enmedio,03,México,CDW,
+EA0676,Copa De Oro,03,México,CDX,
+EA0677,Capitán Birotres,03,México,CEB,
+EA0678,Cerros Colorados,03,México,CEC,
+EA0679,Cedros,03,México,CED,
+EA0680,Los Cerritos,03,México,CEE,
+EA0681,El Crucero,03,México,CEO,
+EA0682,La Ciénega,03,México,CES,
+EA0683,Cap. Eduardo A. Toledo,03,México,CET,
+EA0684,Rancho Santa María,03,México,CFF,
+EA0685,Rincón De María,03,México,CGB,
+EA0686,La Cieneguita,03,México,CGT,
+EA0687,Cacaraguas,03,México,CGU,
+EA0688,Campo Gaxiola,03,México,CGX,
+EA0689,Cap.P.A. José Covarrubias Pérez,03,México,CGZ,
+EA0690,Charole,03,México,CHA,
+EA0691,Chicorrabias,03,México,CHB,
+EA0692,Chiconcuac,03,México,CHC  ,
+EA0693,Chilicote,03,México,CHE,
+EA0694,Chapotan,03,México,CHF,
+EA0695,Chilpancingo,03,México,CHG  ,
+EA0696,Meza Y Tinaja,03,México,CHI,
+EA0697,Cusihuiriachi,03,México,CHI,
+EA0698,Chicuras,03,México,CHK,
+EA0699,La Cholla,03,México,CHL,
+EA0700,Chamela,03,México,CHM,
+EA0701,Cahuisori,03,México,CHR,
+EA0702,Chínipas,03,México,CHS,
+EA0703,Chavarín,03,México,CHV,
+EA0704,Coahuayana,03,México,CHY,
+EA0705,Chivato Bay,03,México,CIB,
+EA0706,Rancho El Cíbolo,03,México,CIC,
+EA0707,Ciénega De Araujo,03,México,CIE,
+EA0708,La Ciénega,03,México,CIM,
+EA0709,La Ciruelilla,03,México,CIR,
+EA0710,Cuixmala,03,México,CIX,
+EA0711,El Cajoncito,03,México,CJC,
+EA0712,Jiménez,03,México,CJM,
+EA0713,Colonia Juárez Nuevo,03,México,CJN,
+EA0714,Cuajinicuilapa,03,México,CJP,
+EA0715,El Caracol,03,México,CJT,
+EA0716,La Colonia,03,México,CLD,
+EA0717,Cinco Llagas,03,México,CLL,
+EA0718,Pablo L. Sidar                       ,03,México,CLM  ,
+EA0719,Coluta,03,México,CLU,
+EA0720,Mosqueda,03,México,CMB,
+EA0721,5 De Mayo,03,México,CMF,
+EA0722,Camagüey,03,México,CMG,
+EA0723,Hacienda Cuajomulco,03,México,CML,
+EA0724,Rancho La Mezquitosa,03,México,CMM,
+EA0725,Cemetam,03,México,CMM,
+EA0726,Centro Medico Nacional 20 De Noviembre,03,México,CMN,
+EA0727,Cumpas,03,México,CMP,
+EA0728,El Camarón,03,México,CMT,
+EA0729,Cananea,03,México,CNA,
+EA0730,Ciénega De Los Beltrán,03,México,CNB,
+EA0731,Cielito Lindo,03,México,CND,
+EA0732,Ciénega De Nuestra Señora,03,México,CNE,
+EA0733,Ciénega De Los Acosta,03,México,CNG,
+EA0734,Ciénega Prieta,03,México,CNP,
+EA0735,Las Canteras,03,México,CNR,
+EA0736,Las Cañas,03,México,CNZ,
+EA0737,El Cobano,03,México,COB,
+EA0738,Cerro De Ortega,03,México,COG,
+EA0739,Costalegre,03,México,COJ,
+EA0740,Concheros,03,México,CON,
+EA0741,Pista Colorado,03,México,COR,
+EA0742,Insurgente Marcos Escobedo,03,México,COT,
+EA0743,Comedero,03,México,COW,
+EA0744,Campo Arcadia,03,México,CPA,
+EA0745,Campo Pesquero El Castillo,03,México,CPC,
+EA0746,El Capiro,03,México,CPG,
+EA0747,Campo 107,03,México,CPI,
+EA0748,Campo Puerto Rico                    ,03,México,CPK  ,
+EA0749,Copalquin,03,México,CPQ,
+EA0750,Club De Paracaidismo Atlixco,03,México,CPU,
+EA0751,Campo La Primavera,03,México,CPV,
+EA0752,Campo El Porvenir,03,México,CPW,
+EA0753,Cerros Prietos,03,México,CPZ,
+EA0754,Candelaria,03,México,CRA,
+EA0755,Carrizalejo,03,México,CRG,
+EA0756,El Carrizo Ahome,03,México,CRH,
+EA0757,Curachitos,03,México,CRI,
+EA0758,El Carrizo,03,México,CRJ,
+EA0759,Carrizal,03,México,CRM,
+EA0760,El Caimanero,03,México,CRO  ,
+EA0761,El Carrizo De La Petaca,03,México,CRP,
+EA0762,El Corral Falso,03,México,CRR,
+EA0763,El Control,03,México,CRT,
+EA0764,Ing. Juan Antonio Perdomo Diaz,03,México,CRV,
+EA0765,El Cristo                            ,03,México,CRX  ,
+EA0766,El Carrizal,03,México,CRZ,
+EA0767,Campo Ceuta,03,México,CSE,
+EA0768,La Constancia,03,México,CSI,
+EA0769,Rancho Las Palmas,03,México,CSJ,
+EA0770,Cabo San Lucas,03,México,CSL,
+EA0771,Chapotito                            ,03,México,CSM  ,
+EA0772,Campo Santa Aurora,03,México,CSR  ,
+EA0773,Cuestecitas,03,México,CSS,
+EA0774,Ciénega De Silva,03,México,CSV,
+EA0775,Campo San Javier,03,México,CSX,
+EA0776,Chino De Los López,03,México,CSZ,
+EA0777,Canoitas,03,México,CTC,
+EA0778,El Contadero,03,México,CTF,
+EA0779,El Centenario,03,México,CTI,
+EA0780,Chantol,03,México,CTK,
+EA0781,Rancho Coyotillos,03,México,CTL,
+EA0782,Centro Turístico Mauros,03,México,CTU,
+EA0783,Constitucionalista,03,México,CUC,
+EA0784,Cuautla,03,México,CUJ,
+EA0785,La Curva,03,México,CUV,
+EA0786,Covadonga,03,México,CVD,
+EA0787,Calaveras,03,México,CVE,
+EA0788,Campo Verde,03,México,CVG,
+EA0789,Casa Vieja,03,México,CVI,
+EA0790,Calera,03,México,CVR,
+EA0791,Campo San Pablo,03,México,CWP,
+EA0792,Campeche,03,México,CXE,
+EA0793,Cap. Rogelio Castillo,03,México,CYA,
+EA0794,El Cayal,03,México,CYL,
+EA0795,Rancho El Coyote,03,México,CYO,
+EA0796,El Colomo Y La Arena,03,México,CYR,
+EA0797,Coyotes,03,México,CYS,
+EA0798,La Coyotera,03,México,CYT,
+EA0799,Cosalá,03,México,CZP,
+EA0800,Rancho El Durangueño,03,México,DAG,
+EA0801,Dos Amigos ,03,México,DAS,
+EA0802,Rancho Dublán,03,México,DBN,
+EA0803,"Ganadería 21 De Enero, S.A. De C.V.",03,México,DDD,
+EA0804,El Diamante Del Mar,03,México,DDM,
+EA0805,Delicias,03,México,DEI,
+EA0806,Rubén Prieto Chacón,03,México,DEL,
+EA0807,Desierto De Sonora,03,México,DES,
+EA0808,De Fontes,03,México,DFS,
+EA0809,San Diego,03,México,DIH,
+EA0810,Rancho De Lauro,03,México,DLA,
+EA0811,Dolores,03,México,DLD,
+EA0812,Los Terreros,03,México,DLM,
+EA0813,Dolores Nay,03,México,DNY,
+EA0814,Dificultades,03,México,DTS,
+EA0815,El Duraznito,03,México,DZN,
+EA0816,El Saucito,03,México,EAC,
+EA0817,El Álamo,03,México,EAE,
+EA0818,El Águila Ranch,03,México,EAG,
+EA0819,Aguaje,03,México,EAJ,
+EA0820,Elmore And Sthal,03,México,EAS  ,
+EA0821,El Álamo,03,México,EAU,
+EA0822,El Bajío,03,México,EBA,
+EA0823,El Blanquillo,03,México,EBC,
+EA0824,El Barril,03,México,EBI,
+EA0825,Rancho El Bajío,03,México,EBJ,
+EA0826,El Bonito,03,México,EBO,
+EA0827,El Buen Pastor,03,México,EBP,
+EA0828,El Cedrito,03,México,ECE,
+EA0829,El Cedroso,03,México,ECF,
+EA0830,Enrique Cárdenas González,03,México,ECG,
+EA0831,Esmeralda Comaltitlán,03,México,ECH,
+EA0832,Los Encinos,03,México,ECV,
+EA0833,El Capullo,03,México,ECW,
+EA0834,El Coyote,03,México,ECX,
+EA0835,El Dos De Abril,03,México,EDA,
+EA0836,El Duraznito De Choix,03,México,EDC,
+EA0837,El Dorado,03,México,EDD,
+EA0838,El Cortijo De Guanetipa,03,México,EDG,
+EA0839,El Llano De La Vega Del Oso,03,México,EDO,
+EA0840,El Desemboque,03,México,EDQ,
+EA0841,El Dury,03,México,EDR,
+EA0842,El Alto Del Tejocote,03,México,EDT,
+EA0843,El Divisadero,03,México,EDV,
+EA0844,El Encino,03,México,EEC,
+EA0845,La Ensenada,03,México,EEG,
+EA0846,Ejido Eréndira,03,México,EER,
+EA0847,El Frater,03,México,EFE,
+EA0848,Nuevo Ciudad Acuña,03,México,EFN,
+EA0849,El Fortín,03,México,EFO,
+EA0850,El Guamúchil,03,México,EGM,
+EA0851,La Herradura De México,03,México,EGO,
+EA0852,El Huerfanito,03,México,EHF,
+EA0853,Ex Hacienda Sinaloa,03,México,EHS,
+EA0854,El Chapote,03,México,EHT,
+EA0855,El Huajuco,03,México,EHU,
+EA0856,Rancho El Infante,03,México,EIF  ,
+EA0857,El Capulín,03,México,EIN,
+EA0858,Ejido Juan Álvarez,03,México,EJJ,
+EA0859,Mesa De San Rafael,03,México,EJL,
+EA0860,Ejido Oaxaca,03,México,EJO,
+EA0861,Rancho El Jaralito,03,México,EJR,
+EA0862,El Capitán,03,México,EKP,
+EA0863,El Arenoso,03,México,ELA,
+EA0864,El Borrego,03,México,ELB,
+EA0865,El Coche,03,México,ELC,
+EA0866,Aerofumigaciones La 300,03,México,ELD,
+EA0867,El Limón De Los Peña,03,México,ELI,
+EA0868,El Cardal,03,México,ELJ,
+EA0869,El Muchacho,03,México,ELM,
+EA0870,El Pelón,03,México,ELP,
+EA0871,C.P.A Jesús Ernesto Lozano Jiménez,03,México,ELQ,
+EA0872,El Rosario,03,México,ELR,
+EA0873,El Salto,03,México,ELS,
+EA0874,El Toro,03,México,ELT,
+EA0875,El Viejo,03,México,ELV,
+EA0876,El Potrero,03,México,ELX,
+EA0877,El Limonal,03,México,ELY,
+EA0878,El Mambo,03,México,EMA,
+EA0879,Ejido Mondongo,03,México,EMN,
+EA0880,El Amate,03,México,EMV,
+EA0881,El Maguey Coyol,03,México,EMX,
+EA0882,El Maguey,03,México,EMY,
+EA0883,Las Encantadas,03,México,END,
+EA0884,El Encinal,03,México,ENL,
+EA0885,La Encantada,03,México,ENT,
+EA0886,Palo Blanco,03,México,ENW,
+EA0887,Platanar,03,México,EPA,
+EA0888,El Pino Castañeda,03,México,EPH,
+EA0889,El Palmar,03,México,EPM,
+EA0890,El Pinto,03,México,EPN,
+EA0891,El Pinal,03,México,EPP,
+EA0892,El Potrero,03,México,EPT,
+EA0893,El Puma,03,México,EPU,
+EA0894,El Pinalito,03,México,EPY,
+EA0895,La Esperanza ,03,México,EPZ,
+EA0896,El Rodeo,03,México,ERD,
+EA0897,El Ranchito                          ,03,México,ERG  ,
+EA0898,Eréndira,03,México,ERN,
+EA0899,El Paraíso,03,México,ERP,
+EA0900,El Rodríguez,03,México,ERZ,
+EA0901,Estrella,03,México,ESA,
+EA0902,Escárcega,03,México,ESC,
+EA0903,El Seco,03,México,ESE,
+EA0904,El Sauzal,03,México,ESL,
+EA0905,La Estrella,03,México,EST,
+EA0906,El Tigre,03,México,ETG,
+EA0907,Rancho El Tiro,03,México,ETI,
+EA0908,El Trapiche,03,México,ETN CHECAR SP 611,
+EA0909,El Tigre,03,México,ETR,
+EA0910,Los Eucaliptos,03,México,ETS,
+EA0911,El Tule,03,México,ETT,
+EA0912,El Vikingo                           ,03,México,EVK  ,
+EA0913,El Varal,03,México,EVL,
+EA0914,Guamúchil Évora,03,México,EVO,
+EA0915,El Verano,03,México,EVS,
+EA0916,El Carrizal,03,México,EXL,
+EA0917,El Zamora,03,México,EZM,
+EA0918,El Zorrillo,03,México,EZO,
+EA0919,El Carrizo,03,México,EZS,
+EA0920,Fumigaciones Aéreas De Abasolo,03,México,FAB,
+EA0921,Fernando Amaya,03,México,FAC,
+EA0922,Fumigaciones Aéreas Pérez,03,México,FAP,
+EA0923,Pista Aérea José Galindo,03,México,FAR,
+EA0924,Francisco Bruno Barrera,03,México,FBB,
+EA0925,Familia Baldenebro Jaimes,03,México,FBJ,
+EA0926,Campo De Aviación Parral,03,México,FCO,
+EA0927,Felipe Carrillo Puerto,03,México,FCQ,
+EA0928,Rancho Los Flores,03,México,FFR,
+EA0929,Fertilizantes Y Fumigaciones Del Valle ,03,México,FFV,
+EA0930,Pista El Álamo,03,México,FGD,
+EA0931,Alhué,03,México,FLH,
+EA0932,Finca La Isla,03,México,FLI,
+EA0933,Las Flores,03,México,FLO,
+EA0934,El Fresnal,03,México,FNL,
+EA0935,El Fénix,03,México,FNY,
+EA0936,La Alameda Mocorito,03,México,FRA,
+EA0937,Feria,03,México,FRI,
+EA0938,El Frijolar,03,México,FRJ,
+EA0939,Farallón,03,México,FRL,
+EA0940,El Freno,03,México,FRN,
+EA0941,José Ángel  Espinoza Ferrusquilla,03,México,FRR antes CHX,
+EA0942,Francisco Sarabia,03,México,FSA,
+EA0943,Felipe Terrones Acosta,03,México,FTA,
+EA0944,El Fuerte,03,México,FTE,
+EA0945,La Fortuna,03,México,FTN,
+EA0946,La Platanera,03,México,FUP,
+EA0947,La Fortaleza,03,México,FZA,
+EA0948,Rancho Santa Rosa,03,México,GAA,
+EA0949,Ganadería Cimarrón,03,México,GAB,
+EA0950,Los Gavilanes,03,México,GAV,
+EA0951,El Gargaliote,03,México,GBF,
+EA0952,Guayaberos,03,México,GBS,
+EA0953,Gatos Bravos,03,México,GBV ,
+EA0954,Guachochi,03,México,GCC,
+EA0955,Guamúchil                            ,03,México,GCH  ,
+EA0956,La Gran China,03,México,GCN,
+EA0957,Pista Gerónimo,03,México,GER  ,
+EA0958,Hualul,03,México,GGH,
+EA0959,La Gloria,03,México,GIA,
+EA0960,"La Giralda
+(Poceso Cierre)",03,México,GIH,
+EA0961,El Gallito,03,México,GLL,
+EA0962,La Gloria Ii,03,México,GLQ,
+EA0963,Club Aerodeporte De Mazatlán,03,México,GMO,
+EA0964,Guadalupe Ocotan,03,México,GPE,
+EA0965,Granados,03,México,GRA,
+EA0966,Aeropuerto Regional De Guerrero Negro,03,México,GRN,
+EA0967,El Grullo,03,México,GRU,
+EA0968,Galancita,03,México,GSA,
+EA0969,Golfo De Santa Clara ,03,México,GSC,
+EA0970,Ganadería Santo Domingo,03,México,GSD,
+EA0971,La Guarida,03,México,GUA,
+EA0972,El Gavilán,03,México,GVN,
+EA0973,La Grulla,03,México,GYA,
+EA0974,Guayparime Ii,03,México,GYE,
+EA0975,Santa Amelia,03,México,GZI,
+EA0976,Almater,03,México,HAA,
+EA0977,Centro Medico Abc Santa Fe,03,México,HAB,
+EA0978,Rancho Mariquita,03,México,HAC,
+EA0979,Ava-Dim,03,México,HAD,
+EA0980,Ángeles Espinosa Yglesias,03,México,HAE,
+EA0981,Atún Vi,03,México,HAF,
+EA0982,Agua,03,México,HAG,
+EA0983,Hospital General Ajusco Medio,03,México,HAH,
+EA0984,Helipuerto Agencia Estatal De Investigaciones Monterrey,03,México,HAI,
+EA0985,Punta  Estrella,03,México,HAJ,
+EA0986,Atilano Castaño,03,México,HAK,
+EA0987,Hospital Ángeles De Xalapa,03,México,HAL,
+EA0988,Aristos México,03,México,HAM,
+EA0989,Hospital Ángeles De Las Lomas,03,México,HAO,
+EA0990,Los Pirules,03,México,HAP,
+EA0991,Triangulo Las Animas,03,México,HAQ,
+EA0992,Aero Servicios,03,México,HAS,
+EA0993,El Hato,03,México,HAT,
+EA0994,Universidad De Las Américas,03,México,HAU,
+EA0995,Torre Bosques,03,México,HAW,
+EA0996,Atún X,03,México,HAX,
+EA0997,Unitec Acapulco,03,México,HAY,
+EA0998,Américas Country,03,México,HAZ,
+EA0999,Plaza Corporativo Banamex,03,México,HBA,
+EA1000,Helipuerto Big Brother,03,México,HBB,
+EA1001,Centro Bancomer,03,México,HBC,
+EA1002,Bonnie,03,México,HBE,
+EA1003,Vgi Helipuerto,03,México,HBI,
+EA1004,Helipuerto Bicentenario Municipio Aguascalientes,03,México,HBM,
+EA1005,Plataforma Autoelevable Grijalva,03,México,HBN,
+EA1006,Plataforma Autoelevable Tonalá,03,México,HBO,
+EA1007,Plataforma Autoelevable Panuco,03,México,HBP,
+EA1008,Plataforma Autoelevable Tuxpan,03,México,HBQ,
+EA1009,Casa Blanca,03,México,HBS,
+EA1010,Ángeles De Torreón,03,México,HBT,
+EA1011,Bachoco,03,México,HBU,
+EA1012,Coorporativo Blanco,03,México,HBV,
+EA1013,Buenaventura I,03,México,HBX,
+EA1014,Buenaventura Ii,03,México,HBY,
+EA1015,El Conchal,03,México,HCA,
+EA1016,Centro Corporativo Bosques,03,México,HCB,
+EA1017,Coca Cola,03,México,HCC,
+EA1018,Donna Cristina,03,México,HCD,
+EA1019,Opción Santa Fe Iii,03,México,HCF,
+EA1020,Cooperativa Ensenada De Aviación,03,México,HCG,
+EA1021,Conquista,03,México,HCH,
+EA1022,Centro Insurgentes,03,México,HCI,
+EA1023,Cabo San Lucas,03,México,HCJ,
+EA1024,Cabo Real,03,México,HCJ,
+EA1025,Hotel Coral,03,México,HCK,
+EA1026,Torre Chiapas,03,México,HCL,
+EA1027,Hospital Muguerza,03,México,HCM,
+EA1028,Helipuerto Montemayor,03,México,HCN,
+EA1029,Car One,03,México,HCO,
+EA1030,Cinépolis,03,México,HCP,
+EA1031,Plaza Caracol Dos,03,México,HCQ,
+EA1032,Parque Reforma,03,México,HCR,
+EA1033,Centro Corporativo Santander,03,México,HCS,
+EA1034,Unitec Campus Ecatepec,03,México,HCS,
+EA1035,"Torre Citadel
+(Proyecto)",03,México,HCT,
+EA1036,Sunset,03,México,HCU,
+EA1037,Club De Golf Cuernavaca,03,México,HCV,
+EA1038,Pegaso-Cozumel,03,México,HCZ,
+EA1039,Hacienda El Caballo,03,México,HDC,
+EA1040,Hospital Cima,03,México,HDD,
+EA1041,Destiladeras Cabo Este,03,México,HDE,
+EA1042,Dirección General De Seguridad Publica,03,México,HDG,
+EA1043,Hermod,03,México,HDH,
+EA1044,Hospital Ángeles De Ciudad Juárez,03,México,HDJ,
+EA1045,Huerta De Los Carrillo,03,México,HDK,
+EA1046,Irla (Antes Drul),03,México,HDL,
+EA1047,Dirección De Seguridad Pública Municipal,03,México,HDM,
+EA1048,Damián Carmona,03,México,HDR,
+EA1049,Haddad Siria,03,México,HDS,
+EA1050,Bardahl Ajusco,03,México,HDT,
+EA1051,Palacio De Hierro Durango,03,México,HDX,
+EA1052,Helituna,03,México,HEA,
+EA1053,Editora,03,México,HED,
+EA1054,Creel,03,México,HEE,
+EA1055,El Dorado,03,México,HEF,
+EA1056,Espinosa Yglesias,03,México,HEF,
+EA1057,Empaques Novedosos,03,México,HEG,
+EA1058,Torre Empresarial,03,México,HEH,
+EA1059,Huejotitan,03,México,HEJ,
+EA1060,Elektra,03,México,HEK,
+EA1061,Helipuerto Estado De México,03,México,HEM,
+EA1062,El Edén,03,México,HEN,
+EA1063,Los Encinos,03,México,HEO,
+EA1064,Compañía Periodística Esto,03,México,HEQ,
+EA1065,Hacienda El Refugio,03,México,HER,
+EA1066,Servicios Aéreos De Estado De México,03,México,HES,
+EA1067,Torre Esmeralda Ii,03,México,HET,
+EA1068,El Universal,03,México,HEU,
+EA1069,Ficonsa,03,México,HEV,
+EA1070,Televisa Chapultepec,03,México,HEW,
+EA1071,Fideicomiso 869,03,México,HFA,
+EA1072,Punta Santa Fe,03,México,HFC,
+EA1073,Femsa,03,México,HFD,
+EA1074,Lomas Altas,03,México,HFE,
+EA1075,Francisco Garza,03,México,HFG,
+EA1076,Estación Pfp Iztapalapa,03,México,HFI,
+EA1077,Maíz Transforma,03,México,HFJ,
+EA1078,Fiesta Americana,03,México,HFM,
+EA1079,Farallón,03,México,HFN,
+EA1080,"Helipuerto El Florido
+(Proyecto)",03,México,HFO,
+EA1081,Polígono 3,03,México,HFP,
+EA1082,Magnocentro 26,03,México,HFR,
+EA1083,Hotel Plaza Mónaco,03,México,HFT,
+EA1084,Fundición Residencial,03,México,HFU,
+EA1085,Sea Fox 2,03,México,HFX,
+EA1086,Mónica,03,México,HFY,
+EA1087,Fiscalía Del Estado De Chiapas,03,México,HFY,
+EA1088,Franz,03,México,HFZ,
+EA1089,Las Gaviotas,03,México,HGA,
+EA1090,Hospital Ángeles León,03,México,HGA,
+EA1091,Cuartel General,03,México,HGB,
+EA1092,Centro Medico Del Potosí,03,México,HGD,
+EA1093,Cerro De La Corona,03,México,HGE,
+EA1094,"Hospital General De 120 Camas
+(Proyecto)",03,México,HGF,
+EA1095,Hospital Ángeles Del Carmen,03,México,HGH,
+EA1096,Hospital Regional De Alta Especialidad Del Bajío ,03,México,HGI,
+EA1097,Helipuerto Guadalajara,03,México,HGJ,
+EA1098,Palacio De Gobierno,03,México,HGK,
+EA1099,Rancho Buena Suerte,03,México,HGL,
+EA1100,María Delia,03,México,HGM,
+EA1101,Torre Gan,03,México,HGN,
+EA1102,Higuera Gorda,03,México,HGO,
+EA1103,Gnp,03,México,HGP,
+EA1104,Helipuerto Tango,03,México,HGQ,
+EA1105,Hospital General De Alta Resolución,03,México,HGR,
+EA1106,Grupo Rio San Juan (Proyecto),03,México,HGS,
+EA1107,Tlaxcala,03,México,HGT,
+EA1108,Hacienda Guadalupe,03,México,HGU,
+EA1109,Gral. Guadalupe Victoria,03,México,HGV,
+EA1110,Casa De Gobierno Tamaulipas,03,México,HGX,
+EA1111,Granja El Ángel,03,México,HGY,
+EA1112,Hospital Ángeles,03,México,HHA,
+EA1113,Hospital Ángeles De Tijuana,03,México,HHB,
+EA1114,Hospital Dalinde,03,México,HHD,
+EA1115,Hotel Camino Real,03,México,HHE,
+EA1116,Corporativo 261,03,México,HHG,
+EA1117,Helipuerto Hacienda Huajuco,03,México,HHH,
+EA1118,Holiday Inn Express Puebla,03,México,HHI,
+EA1119,Torre Equss Sur,03,México,HHJ,
+EA1120,Torre Equss Norte,03,México,HHK,
+EA1121,Humberto Lobo Morales,03,México,HHL,
+EA1122,Altos Hornos De México,03,México,HHM,
+EA1123,"Secretaría De Marina
+Abierto A La Operación Civil En Emergencia",03,México,HHN,
+EA1124,Torre Medica Hospital Puebla,03,México,HHP,
+EA1125,Hospital General De 24 Camas,03,México,HHQ,
+EA1126,Camino Real México,03,México,HHR,
+EA1127,Hospital San José,03,México,HHS,
+EA1128,Issste Tultitlan,03,México,HHT,
+EA1129,Rancho El Girasol,03,México,HHV,
+EA1130,Hospital Issste Morelia,03,México,HHX,
+EA1131,Aero Turquesa Cozumel,03,México,HHZ,
+EA1132,La Primavera,03,México,HIA,
+EA1133,"Inmobiliaria Arcos Bosques
+(Proyecto)",03,México,HIB,
+EA1134,Huajimic,03,México,HIC,
+EA1135,Torre Ii,03,México,HID,
+EA1136,Inite,03,México,HIE,
+EA1137,Interlomas Motors,03,México,HIF,
+EA1138,Itam Santa Teresa,03,México,HIG,
+EA1139,Itam Rio Hondo,03,México,HIH,
+EA1140,Centenario Gr,03,México,HII,
+EA1141,Bicentenario,03,México,HIJ,
+EA1142,Huachichil,03,México,HIL,
+EA1143,"Centro Internacional De Medicina De Puebla
+(Proyecto)",03,México,HIM,
+EA1144,Mundo Infantil,03,México,HIM,
+EA1145,Hospital ABC,03,México,HIN,
+EA1146,Industria Del Hierro,03,México,HIQ,
+EA1147,Infored,03,México,HIR,
+EA1148,Huerta Los Sauces,03,México,HIS,
+EA1149,Hsbc,03,México,HIT,
+EA1150,Issste Veracruz,03,México,HIV,
+EA1151,Iusa Ii,03,México,HIW,
+EA1152,Hospital De Alta Especialidad Ixtapaluca,03,México,HIX,
+EA1153,Tlatelolco Ii,03,México,HIY,
+EA1154,Issste Querétaro,03,México,HIZ,
+EA1155,Ajalpa,03,México,HJA,
+EA1156,Edificio De Justicia Estatal,03,México,HJE,
+EA1157,Hospital San Javier,03,México,HJG,
+EA1158,Judith,03,México,HJH,
+EA1159,Jeannine,03,México,HJI,
+EA1160,Juan María De Salvatierra,03,México,HJR,
+EA1161,Hospital San José Tec De Monterrey,03,México,HJS,
+EA1162,Júpiter I,03,México,HJU,
+EA1163,J.W. Marriott,03,México,HJW,
+EA1164,Akalan Ii,03,México,HKB,
+EA1165,La Cascada,03,México,HKD,
+EA1166,K.N.,03,México,HKN,
+EA1167,Coca Cola Femsa,03,México,HKO,
+EA1168,Panzacola,03,México,HKP,
+EA1169,Arkos Ii Chiapas,03,México,HKS,
+EA1170,Elektra Ii,03,México,HKT,
+EA1171,Plaza Kukulcán,03,México,HKU,
+EA1172,Edificio Viviendas 1 Y 2,03,México,HKW,
+EA1173,Edificio Falcon,03,México,HKX,
+EA1174,Edificio Telcel,03,México,HKY,
+EA1175,Edificio Zúrich,03,México,HKZ,
+EA1176,León,03,México,HLA,
+EA1177,Mario López Valdez,03,México,HLB,
+EA1178,La Diferencia,03,México,HLD,
+EA1179,Torre Libertad ,03,México,HLI,
+EA1180,Lupe Del Mar,03,México,HLK,
+EA1181,Lic. Adolfo López Mateos,03,México,HLM,
+EA1182,Terracota Cien,03,México,HLO,
+EA1183,La Paloma Company,03,México,HLP,
+EA1184,Las Delicias,03,México,HLS,
+EA1185,Torre Lomas,03,México,HLT,
+EA1186,Hospital Ángeles Lindavista,03,México,HLV,
+EA1187,María De La Paz,03,México,HLZ,
+EA1188,Gpm Aeroservicio,03,México,HMA,
+EA1189,Torre Banorte,03,México,HMB,
+EA1190,Mazpesca 2,03,México,HMC,
+EA1191,Milenio Diario Antes Novedades Editores,03,México,HMD,
+EA1192,Moliere 222,03,México,HME,
+EA1193,María Fernanda,03,México,HMF,
+EA1194,Embarcadero (Cambio De Designador) Hmb,03,México,HMG(NUEVO),
+EA1195,María Rossana,03,México,HMH,
+EA1196,Moliere Dos22,03,México,HMI,
+EA1197,Playa Mujeres Resort,03,México,HMJ,
+EA1198,Mazatun,03,México,HMK,
+EA1199,Mocel,03,México,HML,
+EA1200,María Del Mar,03,México,HMM,
+EA1201,Moliere 222 Ii,03,México,HMN,
+EA1202,Madeira,03,México,HMP,
+EA1203,Medica Sur,03,México,HMQ,
+EA1204,Torre Morelos,03,México,HMR,
+EA1205,María Verónica,03,México,HMS,
+EA1206,Torre Mayor,03,México,HMT,
+EA1207,María Luisa,03,México,HMU,
+EA1208,Moras,03,México,HMV,
+EA1209,Micare,03,México,HMW,
+EA1210,Chac Mool,03,México,HMY,
+EA1211,Hospital Muguerza Saltillo,03,México,HMZ,
+EA1212,Nair I,03,México,HNA,
+EA1213,"Nutec
+(Proyecto)",03,México,HNC,
+EA1214,Comandancia Norte,03,México,HND,
+EA1215,Comisión Nacional Del Agua,03,México,HNF,
+EA1216,Torre Motomex,03,México,HNH,
+EA1217,Hotel Nikko,03,México,HNK,
+EA1218,Yautepec Nieto,03,México,HNM,
+EA1219,Helipuerto Hospiten Cancún,03,México,HNN,
+EA1220,La Prensa,03,México,HNP,
+EA1221,Nair Ii,03,México,HNR,
+EA1222,Nacozari,03,México,HNS,
+EA1223,"Torre Medica Ángeles
+(Torre Clínica)",03,México,HNT,
+EA1224,Akumal,03,México,HNV,
+EA1225,Najucal,03,México,HNX,
+EA1226,Manzanilla,03,México,HNY,
+EA1227,Olas Altas,03,México,HOA,
+EA1228,Dos Bocas,03,México,HOB,
+EA1229,Constituyentes,03,México,HOC,
+EA1230,Agua Dulce,03,México,HOD,
+EA1231,Organización Editorial Mexicana,03,México,HOE,
+EA1232,Opción Santa Fe Iv,03,México,HOF,
+EA1233,Holbox,03,México,HOL,
+EA1234,Omega,03,México,HOM,
+EA1235,Hospital Ángeles De Puebla,03,México,HOP,
+EA1236,Misión Del Sol,03,México,HOS,
+EA1237,Villa Ángeles I,03,México,HOV,
+EA1238,Puebla 2000,03,México,HOX,
+EA1239,Hotel Centro Histórico,03,México,HOY,
+EA1240,Helipuerto Cruz Azul,03,México,HOZ,
+EA1241,Huizopa De Dolores,03,México,HPA,
+EA1242,Park Plaza I,03,México,HPD,
+EA1243,Plaza Insurgentes Sur (3),03,México,HPE,
+EA1244,Plaza Insurgentes Sur (4),03,México,HPF,
+EA1245,Gobierno Del Estado De Chiapas,03,México,HPG,
+EA1246,Puebla Inversionista,03,México,HPI,
+EA1247,"Plaza Insurgentes Sur (2)
+(Proyecto)",03,México,HPK,
+EA1248,Torre Ejecutiva Pemex,03,México,HPM,
+EA1249,Nestlé,03,México,HPN,
+EA1250,Cabo De Peñas,03,México,HPP,
+EA1251,Rancho La Parroquia,03,México,HPQ,
+EA1252,Safe Regency,03,México,HPR,
+EA1253,Peñasquito,03,México,HPS,
+EA1254,Paseo Tec,03,México,HPT,
+EA1255,Huajupa,03,México,HPU,
+EA1256,Plaza Cuicuilco,03,México,HPV,
+EA1257,Gobierno Del Estado De Puebla,03,México,HPW,
+EA1258,Plaza Scotiabank,03,México,HPX,
+EA1259,Polycel,03,México,HPY,
+EA1260,Azteca 1,03,México,HQA,
+EA1261,Azteca 2,03,México,HQB,
+EA1262,Azteca 3,03,México,HQC,
+EA1263,Azteca 4,03,México,HQD,
+EA1264,Azteca 5,03,México,HQE,
+EA1265,Azteca 6,03,México,HQF,
+EA1266,Azteca 7,03,México,HQG,
+EA1267,Azteca 8,03,México,HQH,
+EA1268,Azteca 9,03,México,HQI,
+EA1269,Azteca 10,03,México,HQJ,
+EA1270,Pesca Azteca,03,México,HQK,
+EA1271,Clipperton,03,México,HQL,
+EA1272,Hanna,03,México,HQN,
+EA1273,Reforma 211-213,03,México,HRA,
+EA1274,El Roble,03,México,HRB,
+EA1275,Hércules,03,México,HRC,
+EA1276,Camino Real Monterrey,03,México,HRE,
+EA1277,Helipuerto Reforma,03,México,HRF,
+EA1278,Hernández Ranch,03,México,HRH,
+EA1279,Rancho La Fortuna,03,México,HRI,
+EA1280,El Realito,03,México,HRJ,
+EA1281,Arkos I Chiapas,03,México,HRK,
+EA1282,Samaria-Luna,03,México,HRL,
+EA1283,Revolución,03,México,HRN,
+EA1284,Reforma Plus,03,México,HRP,
+EA1285,Reforma 115,03,México,HRQ,
+EA1286,Marítima Y Servicios,03,México,HRV,
+EA1287,Residencial Del Bosque Ii,03,México,HRW,
+EA1288,"Hotel Riu Palace
+(Proyecto)",03,México,HRX,
+EA1289,Reforma 222,03,México,HRX,
+EA1290,Torrey,03,México,HRY,
+EA1291,"Santa Fe 443
+(Proyecto)",03,México,HSA,
+EA1292,Atún Vii,03,México,HSC,
+EA1293,El Sol De Durango,03,México,HSD,
+EA1294,Selecciones De Color,03,México,HSE,
+EA1295,San Francisco,03,México,HSF,
+EA1296,Sarabia,03,México,HSH,
+EA1297,Helicopters Air Space,03,México,HSI,
+EA1298,Hacienda San Juan,03,México,HSJ,
+EA1299,Atún I,03,México,HSK,
+EA1300,Hotel Solaris,03,México,HSL,
+EA1301,Helipuerto Secretaria De Seguridad Publica,03,México,HSM,
+EA1302,Sindicato Nacional De Los Trabajadores De La Educación,03,México,HSN,
+EA1303,Helipuerto Sefuver,03,México,HSO,
+EA1304,Palmore,03,México,HSP,
+EA1305,Seguridad Publica De Cancún,03,México,HSQ,
+EA1306,Selder,03,México,HSR,
+EA1307,Centro Nacional De Rehabilitación,03,México,HSS,
+EA1308,Alsavision,03,México,HSV,
+EA1309,Secretaria De Seguridad Pública,03,México,HSW,
+EA1310,Skytex,03,México,HSX,
+EA1311,Safe Hibernia,03,México,HSY,
+EA1312,Torre Acuario,03,México,HTA,
+EA1313,Torre Del Bosque,03,México,HTB,
+EA1314,Torre Caballito,03,México,HTC,
+EA1315,Bardahl Toluca,03,México,HTD,
+EA1316,Trans Caribe Cozumel                 ,03,México,HTD  ,
+EA1317,Torre Esmeralda,03,México,HTE,
+EA1318,Torre Acueducto,03,México,HTF,
+EA1319,Hospital 120 Camas Tláhuac,03,México,HTF,
+EA1320,Toro Viejo,03,México,HTF,
+EA1321,"Helipuerto Tuxtla Gutiérrez
+(Proyecto)",03,México,HTG,
+EA1322,Unitec Guadalajara,03,México,HTG,
+EA1323,Torre Del Castillo,03,México,HTH,
+EA1324,Titanic,03,México,HTI,
+EA1325,Tribunal Superior De Justicia,03,México,HTJ,
+EA1326,Macel,03,México,HTK,
+EA1327,Televisa Santa Fe,03,México,HTL,
+EA1328,Huetamo,03,México,HTM,
+EA1329,Hotel Tecnoparque,03,México,HTN,
+EA1330,Trans Caribe Nichupte                ,03,México,HTN  ,
+EA1331,Torre Optima,03,México,HTP,
+EA1332,Aeroturquesa Cancún,03,México,HTQ,
+EA1333,Pinfra (Antes Tribasa),03,México,HTR,
+EA1334,Tlalpan,03,México,HTS,
+EA1335,Transpais,03,México,HTT,
+EA1336,Hotel Terranova,03,México,HTU,
+EA1337,Torre Providencia (Proyecto),03,México,HTV,
+EA1338,Televisa San Ángel,03,México,HTW,
+EA1339,Torre Telmex,03,México,HTX,
+EA1340,El Tejocotal,03,México,HTY,
+EA1341,Huexca,03,México,HUC,
+EA1342,Banco Del Bajío,03,México,HUD,
+EA1343,Unefón,03,México,HUF,
+EA1344,Unitec Campus Sur,03,México,HUG,
+EA1345,María Antonieta,03,México,HUK,
+EA1346,Radio Capital,03,México,HUM,
+EA1347,Inmobiliaria Montes Urales 770,03,México,HUR,
+EA1348,Comandancia Sur,03,México,HUU,
+EA1349,Huapaverachi,03,México,HUV,
+EA1350,Helipuerto Royal,03,México,HUY,
+EA1351,Marina  Vallarta,03,México,HVA,
+EA1352,Villa Ángeles,03,México,HVB,
+EA1353,San Vicente,03,México,HVC,
+EA1354,Verónica,03,México,HVE,
+EA1355,Punto Central,03,México,HVF,
+EA1356,Casa Marlín,03,México,HVG,
+EA1357,Hospital Ángeles De Villahermosa ,03,México,HVI,
+EA1358,Theresa Janene,03,México,HVJ,
+EA1359,Amatitlán,03,México,HVM,
+EA1360,Helivan,03,México,HVN,
+EA1361,Villa Ángeles Ii,03,México,HVO,
+EA1362,Huizopa,03,México,HVP,
+EA1363,Vertientes,03,México,HVS,
+EA1364,Variedades,03,México,HVS,
+EA1365,Villalta,03,México,HVX,
+EA1366,Vz Flights,03,México,HVZ,
+EA1367,Atunera Gabiero,03,México,HWG,
+EA1368,I.M.S.S.,03,México,HWI,
+EA1369,Centro Corporativo World Plaza,03,México,HWP,
+EA1370,Rio Blanco,03,México,HWR,
+EA1371,María Guadalupe,03,México,HXG,
+EA1372,Xitle,03,México,HXI,
+EA1373,Moctezuma,03,México,HXM,
+EA1374,Ixcun,03,México,HXN,
+EA1375,Perla,03,México,HXP,
+EA1376,Senado De La Republica,03,México,HXR,
+EA1377,Scorpio,03,México,HXS,
+EA1378,Hospital General De Veracruz,03,México,HXY,
+EA1379,Corporativo Santa Fe 505,03,México,HYC,
+EA1380,Cartadedeces,03,México,HYI,
+EA1381,Huaynamota,03,México,HYM,
+EA1382,Toyota,03,México,HYT,
+EA1383,Helimaz,03,México,HZC,
+EA1384,El Huizache,03,México,HZH,
+EA1385,Aero Anáhuac,03,México,HZI,
+EA1386,Huazamota,03,México,HZM,
+EA1387,Torre Zentrum,03,México,HZN,
+EA1388,Hospital Cristus Muguerza,03,México,HZO,
+EA1389,Lic. Adolfo Ruiz Cortinez,03,México,HZR,
+EA1390,Tv Azteca,03,México,HZT,
+EA1391,Huatabampo,03,México,HZU,
+EA1392,El Estribo,03,México,IBO,
+EA1393,Icarus,03,México,ICA,
+EA1394,Isla Cedros,03,México,ICD,
+EA1395,Isla Del Carmen,03,México,ICM,
+EA1396,Isaac Castro Sahade,03,México,ICS,
+EA1397,Isla Del Toro,03,México,IDT,
+EA1398,Laboratorio Del Desierto,03,México,IEM,
+EA1399,Club De Vuelo Cadereyta S.C.,03,México,IER,
+EA1400,San Ignacio 2,03,México,IGB,
+EA1401,El Igualamo,03,México,IGL,
+EA1402,Ingenio De Huixtla,03,México,IHC,
+EA1403,Pista Iñiguez Ii,03,México,INZ,
+EA1404,Las Islas,03,México,ISL,
+EA1405,San Marcos,03,México,ISM,
+EA1406,Isla Natividad,03,México,ISN,
+EA1407,Islita,03,México,ITA,
+EA1408,Ixtlán Ii,03,México,IXL,
+EA1409,Jagüeyes,03,México,JAG,
+EA1410, Aeródromo Jbs,03,México,JBS,
+EA1411,Jbt,03,México,JBT,
+EA1412,El Jacal,03,México,JCL,
+EA1413,Jazmines De Coyultita,03,México,JCN,
+EA1414,Jesús Javier Castro Soto,03,México,JCS,
+EA1415,El Jardín,03,México,JDN,
+EA1416,Jorge Efraín,03,México,JEF,
+EA1417,Pista Leo,03,México,JEP,
+EA1418,Farías,03,México,JFV,
+EA1419,El Cuervo,03,México,JGT,
+EA1420,El Jagüey,03,México,JGY,
+EA1421,Jalisquillo,03,México,JLO,
+EA1422,Jorge Llerenas Silva,03,México,JLS  ,
+EA1423,Jesús María,03,México,JMA,
+EA1424,Jesús María,03,México,JMC,
+EA1425,José Magdaleno Jalavera Reyes,03,México,JMJ,
+EA1426,Juan Murillo,03,México,JMR,
+EA1427,La Huerta  (Antes El Paraíso),03,México,JMS,
+EA1428,Mesa Loma Prieta,03,México,JMV,
+EA1429,El Janeño,03,México,JNN,
+EA1430,Janitzio,03,México,JNZ,
+EA1431,San Jorge,03,México,JOG,
+EA1432,José De Jesús Palacios López,03,México,JPL,
+EA1433,Pista De Jalpan,03,México,JPN,
+EA1434,San José Del Progreso,03,México,JPT,
+EA1435,Juan Perdomo Medina,03,México,JPV,
+EA1436,Las Cruces,03,México,JRS,
+EA1437,José Galindo Ruiz,03,México,JSG,
+EA1438,San Juanito,03,México,JTO,
+EA1439,Pista Juárez Hermanos,03,México,JUH,
+EA1440,Ju-Bar,03,México,JUR,
+EA1441,La Chijolosa,03,México,JVA,
+EA1442,Campo San Javier,03,México,JVS,
+EA1443,La Joya,03,México,JYA,
+EA1444,La Joya Brun,03,México,JYB,
+EA1445,Cuautla De Huitzililla,03,México,KHU,
+EA1446,Kohunlinch,03,México,KLI,
+EA1447,La Base,03,México,LAA,
+EA1448,La Laguna,03,México,LAF,
+EA1449,La Joya,03,México,LAJ,
+EA1450,Las Lajas,03,México,LAK,
+EA1451,Las Américas,03,México,LAM,
+EA1452,La Misión,03,México,LAM,
+EA1453,Los Ángeles,03,México,LAN,
+EA1454,La Sierrita,03,México,LAO,
+EA1455,Las Arenas,03,México,LAR,
+EA1456,Las Azoteas,03,México,LAS,
+EA1457,Las Águilas,03,México,LAX,
+EA1458,La Brisca,03,México,LBA,
+EA1459,Los Bravos De Bonfil,03,México,LBB,
+EA1460,La Begoña ,03,México,LBG,
+EA1461,Loma Blanca,03,México,LBH,
+EA1462,Los Brasiles,03,México,LBO,
+EA1463,Los Barajas,03,México,LBS,
+EA1464,Los Lobos,03,México,LBX,
+EA1465,La Campana,03,México,LCA,
+EA1466,La Candelaria Borders,03,México,LCD,
+EA1467,La Caridad,03,México,LCI,
+EA1468,Los Canarios                         ,03,México,LCM  ,
+EA1469,La Candelaria,03,México,LCN,
+EA1470,Las Carreras,03,México,LCQ,
+EA1471,Las Cruces,03,México,LCS,
+EA1472,Los Cuates,03,México,LCT,
+EA1473,Las Cuevas,03,México,LCV,
+EA1474,Las Cuevas,03,México,LCW,
+EA1475,Los Cerones,03,México,LCX,
+EA1476,El Limón De Badiraguato,03,México,LDB,
+EA1477,Limón De Los Castañeda,03,México,LDC,
+EA1478,General Jesús Agustín Castro,03,México,LDD,
+EA1479,Lo De Diarte,03,México,LDO,
+EA1480,Lindavista,03,México,LDV,
+EA1481,La Esmeralda,03,México,LED,
+EA1482,La Esperanza I,03,México,LEE,
+EA1483,La Lechuguilla,03,México,LEH,
+EA1484,Leon'S,03,México,LEO,
+EA1485,La Escuadra,03,México,LEQ,
+EA1486,Los Ébanos,03,México,LET,
+EA1487,La Florida,03,México,LFA,
+EA1488,Los Fresnos,03,México,LFE,
+EA1489,Los Frailes,03,México,LFS,
+EA1490,Las Flores,03,México,LFX,
+EA1491,La Gloria De Coahuila,03,México,LGA,
+EA1492,Las Glorias,03,México,LGB,
+EA1493,Llano Grande,03,México,LGE,
+EA1494,Los González,03,México,LGF,
+EA1495,La Ciénega Del Ojito,03,México,LGG,
+EA1496,Los Gloriosos,03,México,LGI,
+EA1497,La Gloria,03,México,LGK,
+EA1498,La Guajolota,03,México,LGL,
+EA1499,Los González De Gorongoros,03,México,LGT,
+EA1500,La Laguna,03,México,LGU,
+EA1501,La Guacamaya                         ,03,México,LGY  ,
+EA1502,La Herradura,03,México,LHA,
+EA1503,Los Halcones,03,México,LHC,
+EA1504,La Hermandad,03,México,LHE,
+EA1505,La Chalina,03,México,LHI  ,
+EA1506,La Horqueta,03,México,LHO,
+EA1507,C.P.A. Leonardo López Hernández,03,México,LHV,
+EA1508,El Liebrero,03,México,LIE  ,
+EA1509,Las Ilusiones,03,México,LIL,
+EA1510,El Limón De Copalquin,03,México,LIM,
+EA1511,El Limoncito                         ,03,México,LIM  ,
+EA1512,Los Pilares,03,México,LIR,
+EA1513,La Jaiba,03,México,LJA,
+EA1514,Represito De Lujan,03,México,LJN,
+EA1515,La Coma,03,México,LKA,
+EA1516,La Calera,03,México,LKE,
+EA1517,Las Cruces,03,México,LKS,
+EA1518,El Llano,03,México,LLF,
+EA1519,La Laguna,03,México,LLG,
+EA1520,La Laguna,03,México,LLH,
+EA1521,El Limón Las Coloradas,03,México,LLL,
+EA1522,"La Lomita
+(Acreditación Propietario)",03,México,LLM,
+EA1523,Los Llanos,03,México,LLN,
+EA1524,La Loma,03,México,LLT,
+EA1525,La Lagunita,03,México,LLW,
+EA1526,La Manga,03,México,LMA,
+EA1527,Rancho La Misión,03,México,LMB,
+EA1528,Los Mártires,03,México,LMF,
+EA1529,Las Mulas                            ,03,México,LMH  ,
+EA1530,La Misión,03,México,LMI,
+EA1531,La Misión,03,México,LMK,
+EA1532,Lic. Francisco Primo De Verdad Y Ramos,03,México,LMO,
+EA1533,Lampazos,03,México,LMP  ,
+EA1534,Las Palmas De Guasave,03,México,LMQ,
+EA1535,La Mesa Del Rodeo,03,México,LMR,
+EA1536,La Miseria,03,México,LMS,
+EA1537,Rancho La Margarita,03,México,LMT  ,
+EA1538,Las Macayas,03,México,LMV,
+EA1539,La Mesa,03,México,LMX,
+EA1540,Loma Linda,03,México,LNA,
+EA1541,La Anacua,03,México,LNC,
+EA1542,Rancho La Encantada,03,México,LND ,
+EA1543,La Nueva Esperanza,03,México,LNE,
+EA1544,Las Ninfas,03,México,LNF,
+EA1545,Aerofumigaciones La Nanchi,03,México,LNL,
+EA1546,Los Pintos,03,México,LNP,
+EA1547,Las Norias,03,México,LNR,
+EA1548,Rancho La Nutria,03,México,LNU,
+EA1549,Rancho Laguna Vista,03,México,LNY,
+EA1550,Los Lobos,03,México,LOB,
+EA1551,Los Olivos,03,México,LOC,
+EA1552,San Bernardino De Milpillas Chico,03,México,LOD,
+EA1553,Los Pipos,03,México,LOE,
+EA1554,Longoria,03,México,LOG,
+EA1555,Los Limones,03,México,LOL,
+EA1556,Lorena,03,México,LON,
+EA1557,Pista López,03,México,LOP,
+EA1558,San Lorenzo Acuña,03,México,LOR,
+EA1559,Los Charcos,03,México,LOS,
+EA1560,Los Vasitos,03,México,LOV,
+EA1561,El Loreto,03,México,LOY  ,
+EA1562,La Piedad,03,México,LPD  ,
+EA1563,"La Pesca
+Base Aeronaval, Notam: 
+Cerrada A La Operación Civil",03,México,LPE  ,
+EA1564,La Paloma,03,México,LPF,
+EA1565,La Pichihuila,03,México,LPH,
+EA1566,La Poza,03,México,LPJ,
+EA1567,La Palma,03,México,LPM,
+EA1568,Los Pinitos,03,México,LPN,
+EA1569,La Palmosa,03,México,LPO,
+EA1570,La Laguna Del Palmar,03,México,LPR,
+EA1571,La Pajarera,03,México,LPV,
+EA1572,La Paz,03,México,LPW,
+EA1573,Los Pericos,03,México,LPX,
+EA1574,La Pitaya,03,México,LPY,
+EA1575,Liquidambar,03,México,LQA,
+EA1576,La Campana De San Quintín,03,México,LQN,
+EA1577,Las Reynas,03,México,LRI,
+EA1578,Reyna Diana,03,México,LRJ,
+EA1579,Lagarto,03,México,LRO,
+EA1580,Laguna Del Rey,03,México,LRY,
+EA1581,La Soledad                           ,03,México,LSD  ,
+EA1582,Las Higueras,03,México,LSH,
+EA1583,Laguna Seca,03,México,LSK,
+EA1584,Las Mesas,03,México,LSM,
+EA1585,Los Perros,03,México,LSP,
+EA1586,La Sierrita,03,México,LST,
+EA1587,La Angostura,03,México,LTA,
+EA1588,La Trinidad,03,México,LTB,
+EA1589,La Trinidad,03,México,LTP,
+EA1590,Las Trancas,03,México,LTQ,
+EA1591,Lomas Tristes,03,México,LTT,
+EA1592,Regional De Los Tuxtlas,03,México,LTX,
+EA1593,La Burra,03,México,LUA,
+EA1594,El Laurel,03,México,LUE,
+EA1595,El Cohete,03,México,LUK,
+EA1596,La Luna,03,México,LUN,
+EA1597,La Victoria,03,México,LVC,
+EA1598,La Villita,03,México,LVI,
+EA1599,La Vainilla,03,México,LVL,
+EA1600,Leona Vicario,03,México,LVO,
+EA1601,La Yesca De Hermosillo,03,México,LYH,
+EA1602,La Yesca,03,México,LYS,
+EA1603,La Suiza ,03,México,LZA,
+EA1604,Lorenzos De Baja,03,México,LZB,
+EA1605,Lázaro Cárdenas                     ,03,México,LZC  ,
+EA1606,Los Aztecas I,03,México,LZS,
+EA1607,Mesa Bonita,03,México,MAB,
+EA1608,Magdalena,03,México,MAD,
+EA1609,Pista Magaña,03,México,MAG,
+EA1610,Mesa Del Nayar,03,México,MAN,
+EA1611,Gral. Gonzalo Curiel García,03,México,MAS,
+EA1612,Malvinas,03,México,MAV,
+EA1613,Miguel Alemán,03,México,MAX,
+EA1614,Marina Beach,03,México,MBC,
+EA1615,Mubarqui,03,México,MBQ,
+EA1616,Manuel Benavides,03,México,MBS,
+EA1617,Macho Bayo,03,México,MBY,
+EA1618,María Beatriz,03,México,MBZ,
+EA1619,Manjarrez De Caborca,03,México,MCB,
+EA1620,Pista Municipal De Ciudad Cuauhtémoc,03,México,MCI,
+EA1621,Meza Del Barranco,03,México,MDB,
+EA1622,Santa Rosalía,03,México,MDD,
+EA1623,Mesa De Fronteras,03,México,MDF,
+EA1624,Montañas Del Gualul,03,México,MDG  ,
+EA1625,Mesa De Los Huicholes,03,México,MDH,
+EA1626,Mesa De Calera,03,México,MDK,
+EA1627,Mesa Del Álamo                       ,03,México,MDL  ,
+EA1628,Mecatillo,03,México,MDM,
+EA1629,Mesa Del Huracán,03,México,MDN,
+EA1630,Mina Dolores,03,México,MDO,
+EA1631,Mineral De Polanco,03,México,MDP,
+EA1632,Mesa De Los Saucedo,03,México,MDS,
+EA1633,Mesa De Los Toros,03,México,MDT,
+EA1634,Las Carmenes,03,México,MES,
+EA1635,El Mezquite,03,México,MEZ,
+EA1636,Toro Bravo,03,México,MFS,
+EA1637,Las Margaritas,03,México,MGD,
+EA1638,Molango,03,México,MGO,
+EA1639,Margaritas,03,México,MGR,
+EA1640,Los Mangos,03,México,MGS,
+EA1641,La Michoacana,03,México,MHC,
+EA1642,Mochicahui,03,México,MHH,
+EA1643,Miguel Hidalgo,03,México,MHI,
+EA1644,Mahahual,03,México,MHL,
+EA1645,"Miramar 
+(Fallecimiento De Titular)",03,México,MIA,
+EA1646,El Milagro De San José,03,México,MIZ,
+EA1647,Mesa Del Jarillal,03,México,MJR,
+EA1648,Santa Monika,03,México,MKA,
+EA1649,Mesa Larga,03,México,MLF,
+EA1650,Muller,03,México,MLL,
+EA1651,San Manolo,03,México,MLO,
+EA1652,Minera La Perla ,03,México,MLP,
+EA1653,Campo Montelargo ,03,México,MLR,
+EA1654,Los Miles,03,México,MLT,
+EA1655,Melgoza,03,México,MLZ,
+EA1656,Masahiashi,03,México,MML,
+EA1657,Medina,03,México,MNA,
+EA1658,Meling,03,México,MNG,
+EA1659,Meliton Albañez,03,México,MOA,
+EA1660,Moctezuma,03,México,MOC,
+EA1661,Moctezuma,03,México,MOE,
+EA1662,El Mochomo,03,México,MOH,
+EA1663,Rancho La Montaña,03,México,MON,
+EA1664,Morelos,03,México,MOR,
+EA1665,Santa María De Otaez,03,México,MOX,
+EA1666,Matarachi,03,México,MRA,
+EA1667,Marabasco,03,México,MRB,
+EA1668,Mireles Hermanos,03,México,MRH,
+EA1669,Morris,03,México,MRI,
+EA1670,Marte R. Gómez,03,México,MRM,
+EA1671,Maran,03,México,MRP,
+EA1672,Moralar,03,México,MRR,
+EA1673,Mirador Santa Rosa,03,México,MSA,
+EA1674,Mazfly S.C.,03,México,MSC,
+EA1675,Mesa Del Frijol,03,México,MSF,
+EA1676,La Mesa De San Juan,03,México,MSJ,
+EA1677,Valle De Los Ahuehuetes,03,México,MSP,
+EA1678,Mesa Tortugas,03,México,MST,
+EA1679,Matancitas,03,México,MTB,
+EA1680,Mata Larga,03,México,MTF,
+EA1681,Ing. Manuel Moreno Torres ,03,México,MTH,
+EA1682,Maran Tijuana,03,México,MTJ,
+EA1683,Montemorelos,03,México,MTM  ,
+EA1684,Rancho Medio Sitio,03,México,MTO,
+EA1685,Monterrey,03,México,MTV,
+EA1686,Mututicachi,03,México,MUT,
+EA1687,Muzquiz,03,México,MUZ,
+EA1688,Monteverde,03,México,MVE,
+EA1689,El Mixteco,03,México,MXT,
+EA1690,Mesa Colorada,03,México,MZC,
+EA1691,Mezquital,03,México,MZL,
+EA1692,Pista Mezquital                      ,03,México,MZQ  ,
+EA1693,Los Napuchis,03,México,NAA,
+EA1694,Nacori Chico,03,México,NAC,
+EA1695,Nido De Águilas,03,México,NAG,
+EA1696,Náhuatl,03,México,NAH,
+EA1697,El Sinaí,03,México,NAI,
+EA1698,El Naranjito,03,México,NAJ,
+EA1699,Nicolas Bravo,03,México,NBT,
+EA1700,Nuevo Casas Grandes,03,México,NCG,
+EA1701,Pista San Fernando,03,México,NDO,
+EA1702,Los Nogales,03,México,NGS,
+EA1703,"Nahual
+(Pista Del Estero De Juan José Ríos)",03,México,NHL,
+EA1704,El Naranjo,03,México,NJO,
+EA1705,San Nicolas,03,México,NLA,
+EA1706,"Nueva Laguna Blanca, S.A. De C.V.",03,México,NLB,
+EA1707,No Le Hace,03,México,NLH,
+EA1708,Nuevo México,03,México,NMX,
+EA1709,La Noria,03,México,NOA,
+EA1710,Norogachi,03,México,NOR,
+EA1711,Los Novillos,03,México,NOV,
+EA1712,Norotal,03,México,NRT,
+EA1713,San José Independencia,03,México,NSJ,
+EA1714,Nuestra Señora De Loreto,03,México,NSL,
+EA1715,Nuevo Santa Rosa,03,México,NSR,
+EA1716,Nuevo Temalacaco,03,México,NTC,
+EA1717,Nuevo Horizonte,03,México,NUH,
+EA1718,Navojoa,03,México,NVJ  ,
+EA1719,Pista Nuevo León Baja Ii,03,México,NVO,
+EA1720,El Pretexto,03,México,NWB,
+EA1721,El Escondido,03,México,NYZ,
+EA1722,Oro Blanco,03,México,OBC,
+EA1723,El Ochenta,03,México,OCH,
+EA1724,Los Ocaliptos,03,México,OCL,
+EA1725,San Luis De Ocosingo,03,México,OCO,
+EA1726,Ocotlán,03,México,OCT,
+EA1727,San Carlos,03,México,OFS,
+EA1728,Ojito De Camellones,03,México,OJC,
+EA1729,Campo El Patole,03,México,OLE,
+EA1730,Santa Patricia,03,México,ONE,
+EA1731,Oro Verde,03,México,ORV,
+EA1732,Isla Frontón,03,México,OZM,
+EA1733,Pista Aérea Cadenas,03,México,PAC,
+EA1734,La Palma,03,México,PAE,
+EA1735,El Paraíso,03,México,PAG,
+EA1736,El Paija ,03,México,PAI,
+EA1737,Paco,03,México,PAK,
+EA1738,El Paraíso Villalobos,03,México,PAO,
+EA1739,Palmillas Del Rodeo,03,México,PAQ,
+EA1740,Cap. P.A. Roberto Chávez Balderas,03,México,PAR,
+EA1741,San Lorenzo,03,México,PAS,
+EA1742,Pavlovich Aviación,03,México,PAV,
+EA1743,Pista Aérea Ton,03,México,PAW,
+EA1744,Pista Baja,03,México,PBA,
+EA1745,Punta Bufeo,03,México,PBF,
+EA1746,Pista Base Huatabampo,03,México,PBH,
+EA1747,Pueblito,03,México,PBL,
+EA1748,Pista Base Navojoa                   ,03,México,PBN  ,
+EA1749,Bonfil,03,México,PBO,
+EA1750,Pueblo Yaqui,03,México,PBY,
+EA1751,Playa Del Carmen,03,México,PCE,
+EA1752,Punta Chivato,03,México,PCH,
+EA1753,Pista Calamajue                     ,03,México,PCJ  ,
+EA1754,La Pochoteca,03,México,PCK,
+EA1755,Punta Colorada,03,México,PCL,
+EA1756,Puente De Camotlán,03,México,PCM,
+EA1757,Punta China,03,México,PCN,
+EA1758,Pericos,03,México,PCS,
+EA1759,Punta Colonet,03,México,PCT,
+EA1760,Potrero De Bejaranos                ,03,México,PDB  ,
+EA1761,Pista Del Centro,03,México,PDC,
+EA1762,La Piedrera,03,México,PDE,
+EA1763,Portugués De Gálvez,03,México,PDG,
+EA1764,Palos Dulces,03,México,PDI,
+EA1765,Promesa,03,México,PDM,
+EA1766,Platanar De Coluta,03,México,PDU,
+EA1767,Paredes,03,México,PDZ,
+EA1768,Parras El Alto,03,México,PEA,
+EA1769,Pie De La Cuesta De La Bajada,03,México,PEB,
+EA1770,Pista Elizalde,03,México,PEE,
+EA1771,La Peñita,03,México,PEI,
+EA1772,Pie De La Cuesta De San Jerónimo,03,México,PEJ,
+EA1773,Pista El Roció,03,México,PEY,
+EA1774,Punta Final,03,México,PFL,
+EA1775,Peña Flor,03,México,PFO,
+EA1776,Pfp,03,México,PFP,
+EA1777,Las Praderas                         ,03,México,PGD  ,
+EA1778,El Pedregal,03,México,PGL,
+EA1779,Del Pacifico,03,México,PGS,
+EA1780,El Purgatorio,03,México,PGT,
+EA1781,Pista Coahuila,03,México,PHA,
+EA1782,El Pichol,03,México,PHL,
+EA1783,Palo Chino,03,México,PHO,
+EA1784,Pista Huachinera,03,México,PHU,
+EA1785,La Pista De Balancan,03,México,PIB,
+EA1786,Piedra De Cal,03,México,PIE,
+EA1787,Pista Aeroagricola Guayparime,03,México,PIG,
+EA1788,Las Pilas,03,México,PIL,
+EA1789,Los Pinos,03,México,PIN,
+EA1790,El Pinocho ,03,México,PIO,
+EA1791,Solidaridad Cajeme,03,México,PIS,
+EA1792,La Pinta,03,México,PIT,
+EA1793,Villa Juárez,03,México,PIV,
+EA1794,Pajacuaran,03,México,PJC,
+EA1795,Palmarejo,03,México,PJO,
+EA1796,La Pequeña Joya,03,México,PJY,
+EA1797,Picacho,03,México,PKC,
+EA1798,Plan Bonito,03,México,PLD,
+EA1799,Rancho Productor De Leche Villa Ahumada,03,México,PLE,
+EA1800,Piélagos,03,México,PLG,
+EA1801,Palmarejito,03,México,PLJ,
+EA1802,Potrerillos,03,México,PLL,
+EA1803,El Palmar Ranch,03,México,PLR,
+EA1804,Las Plomosas,03,México,PLS,
+EA1805,Palula,03,México,PLU,
+EA1806,Plátano,03,México,PLX,
+EA1807,Pista Lázaro Cárdenas,03,México,PLZ,
+EA1808,Playa De Magdalena,03,México,PMA,
+EA1809,Pista Macuiles,03,México,PMC,
+EA1810,La Palma,03,México,PML,
+EA1811,Pista Morgan,03,México,PMN,
+EA1812,El Palmoso,03,México,PMS,
+EA1813,Potrero Del Mascabresto,03,México,PMT,
+EA1814,Pista Morelos,03,México,PMX,
+EA1815,Pista Aérea Agrícola Mayacoba,03,México,PMY,
+EA1816,El Pedernal,03,México,PNA  ,
+EA1817,La Pinosa,03,México,PNC,
+EA1818,Piedras Blancas,03,México,PNL,
+EA1819,Hacienda Panoaya,03,México,PNY,
+EA1820,El Potrero,03,México,POE,
+EA1821,Huapoca,03,México,POK,
+EA1822,Potrerillo,03,México,POL,
+EA1823,Potrero De Los Medina,03,México,POM,
+EA1824,Popota,03,México,POT,
+EA1825,Portezuelo,03,México,POU,
+EA1826,El Pozo,03,México,POX,
+EA1827,Punta Pescadero,03,México,PPC,
+EA1828,Punta Pájaros,03,México,PPS,
+EA1829,Pista Querétaro,03,México,PQR,
+EA1830,Puertecitos,03,México,PRC,
+EA1831,Paredones,03,México,PRD,
+EA1832,Progreso,03,México,PRG,
+EA1833,La Perla,03,México,PRL,
+EA1834,El Porvenir,03,México,PRN,
+EA1835,La Providencia De Acapetahua,03,México,PRV,
+EA1836,La Presa,03,México,PRX,
+EA1837,Pista Sonora,03,México,PSB,
+EA1838,Santa Elena,03,México,PSE,
+EA1839,Punta San Francisquito,03,México,PSF,
+EA1840,Punta San Carlos,03,México,PSK,
+EA1841,Punta Solimán,03,México,PSM,
+EA1842,Perseverancia,03,México,PSV,
+EA1843,Pista Juárez                         ,03,México,PSZ  ,
+EA1844,Las Potrancas,03,México,PTA,
+EA1845,Santa Teresa,03,México,PTE,
+EA1846,Campo Patricia,03,México,PTI,
+EA1847,El Petacal,03,México,PTL antes PTJ,
+EA1848,El Patrocinio,03,México,PTN,
+EA1849,El Puerto,03,México,PTO,
+EA1850,Pista Ocampo,03,México,PTP,
+EA1851,Pista Troncón,03,México,PTR,
+EA1852,Potosí,03,México,PTS,
+EA1853,La Pista,03,México,PTT,
+EA1854,Pulticub,03,México,PTU,
+EA1855,Patria Vieja,03,México,PTV,
+EA1856,Purépecha,03,México,PUR,
+EA1857,Pueblo Yaqui,03,México,PUY,
+EA1858,La Pava,03,México,PVA,
+EA1859,Ejido Pueblo Viejo,03,México,PVJ,
+EA1860,Pista Valdez,03,México,PVL,
+EA1861,Aeródromo Vw,03,México,PVW,
+EA1862,Palma Sola,03,México,PXA,
+EA1863,Pista Campeche,03,México,PXE,
+EA1864,Pista Pancho Villa,03,México,PXV,
+EA1865,Palizada,03,México,PZA,
+EA1866,Pista Zacatecas,03,México,PZC,
+EA1867,La Panza,03,México,PZS,
+EA1868,Aerofumigaciones Quila,03,México,QUI,
+EA1869,Rancho Agua Blanca,03,México,RAB,
+EA1870,Rancho Agua Dulce,03,México,RAD  ,
+EA1871,Rancho San Rafael,03,México,RAF,
+EA1872,Pista Rosales,03,México,RAL,
+EA1873,Rancho San Antonio,03,México,RAM,
+EA1874,Rancho Alto Bonito,03,México,RAQ,
+EA1875,C.P.A. Rodolfo Amparan Rosales       ,03,México,RAV,
+EA1876,Rancho Alejandrina,03,México,RAX,
+EA1877,Agua Zarca,03,México,RAZ,
+EA1878,Rancho El Bernal,03,México,RBL,
+EA1879,Rancho Bravo,03,México,RBO,
+EA1880,Rancho Buenos Aires,03,México,RBU,
+EA1881,Los Bayos,03,México,RBY,
+EA1882,Rancho Del Carmen,03,México,RCA,
+EA1883,Carboneras,03,México,RCB,
+EA1884,El Cuarenta,03,México,RCE,
+EA1885,Aeropista De La Región Carbonífera,03,México,RCF,
+EA1886,El Cangrejal,03,México,RCJ,
+EA1887,Rancho El Campanero,03,México,RCN,
+EA1888,Real Del Castillo,03,México,RCO,
+EA1889,Rancho El Comandante ,03,México,RCT,
+EA1890,El Llano,03,México,RCU,
+EA1891,Rancho Cerro Blanco,03,México,RCW,
+EA1892,Rancho San Cristóbal,03,México,RCX,
+EA1893,Rancho De Burgos,03,México,RDB,
+EA1894,Delta,03,México,RDL,
+EA1895,El Roble Gordo,03,México,RDO,
+EA1896,Rancho Don Ricardo,03,México,RDT,
+EA1897,Rancho De Luna,03,México,RDU,
+EA1898,Hermanos Rodríguez,03,México,RDZ,
+EA1899,Rancho Ébanos,03,México,REB,
+EA1900,Rancho La Escondida,03,México,REC,
+EA1901,El Jaralito,03,México,REJ,
+EA1902,Las Abejas                           ,03,México,REN  ,
+EA1903,Rancho El Piloto,03,México,REP,
+EA1904,Los Remedios,03,México,REW,
+EA1905,Los Ajos                             ,03,México,RFB  ,
+EA1906,San Rafael,03,México,RFE,
+EA1907,La Reforma De Guerrero,03,México,RFG,
+EA1908,Rancho San Francisco,03,México,RFN,
+EA1909,El Refugio,03,México,RFU,
+EA1910,Guadalupe De Llera,03,México,RGA,
+EA1911,Rancho Grande,03,México,RGE,
+EA1912,Aguachile,03,México,RGH,
+EA1913,Guadalupe,03,México,RGP,
+EA1914,Rancho El Guaje,03,México,RGW,
+EA1915,Rincón De Los Garza,03,México,RGZ,
+EA1916,Rancho La Joya,03,México,RHD,
+EA1917,Rancho Las Hermanas,03,México,RHZ,
+EA1918,El Rincón,03,México,RIN,
+EA1919,Rancho El Jabalí,03,México,RJA,
+EA1920,Rancho Viejo,03,México,RJD,
+EA1921,Rancho Joali,03,México,RJO,
+EA1922,Rancho San José De Pedrero,03,México,RJS,
+EA1923,Rancho San Juan,03,México,RJU  ,
+EA1924,Hacienda Tulapan                     ,03,México,RJV,
+EA1925,Rancho Casa Roja,03,México,RKR,
+EA1926,La Azufrosa,03,México,RLA,
+EA1927,Rancho La Costa,03,México,RLC,
+EA1928,Rancho Los Chirriones,03,México,RLC,
+EA1929,La Escondida,03,México,RLD,
+EA1930,Rancho La Gacha,03,México,RLG,
+EA1931,La Herradura,03,México,RLH,
+EA1932,Rancho Las Pilas,03,México,RLI  ,
+EA1933,Los Manueles,03,México,RLM,
+EA1934,Rancho La Peña,03,México,RLP,
+EA1935,Las Norias,03,México,RLQ,
+EA1936,Rancho La Rosita,03,México,RLR,
+EA1937,Loma Roja,03,México,RLS,
+EA1938,La Nueva Realidad                         ,03,México,RLS,
+EA1939,Rancho Los Sosa,03,México,RLT,
+EA1940,Rancho Loma Blanca,03,México,RLW,
+EA1941,La Equis,03,México,RLX,
+EA1942,Ramon López Velarde,03,México,RLY,
+EA1943,El Llorón,03,México,RLZ,
+EA1944,Manantiales,03,México,RMA,
+EA1945,Mesa De Cartujanos,03,México,RMC,
+EA1946,Rancho Madero,03,México,RMF,
+EA1947,Rancho Medio Kilo,03,México,RMK,
+EA1948,Rancho El Milagro,03,México,RML,
+EA1949,Rogman,03,México,RMN,
+EA1950,Miradores,03,México,RMP,
+EA1951,Rancho María 4,03,México,RMQ,
+EA1952,Rancho Marina Vieja,03,México,RMV,
+EA1953,Rancho Marter,03,México,RMW,
+EA1954,Rancho San Matías,03,México,RMW,
+EA1955, La Mezquitosa,03,México,RMZ,
+EA1956,Rancho San Antonio ,03,México,RNA,
+EA1957,El Rincón,03,México,RNC,
+EA1958,Rinconada,03,México,RND,
+EA1959,Rancho Puerto Ángel,03,México,RNF,
+EA1960,Rancho La Nogalera,03,México,RNG,
+EA1961,Rancho Santo Niño,03,México,RNS,
+EA1962,Rancho Santa Ana,03,México,RNT,
+EA1963,El Rodeo,03,México,ROD,
+EA1964,Rancho El Caracol,03,México,ROL,
+EA1965,El Roció,03,México,ROO  ,
+EA1966,Rancho Oaxaca,03,México,ROX,
+EA1967,Rancho El Pato,03,México,RPA,
+EA1968,Los Pecos,03,México,RPB,
+EA1969,Rancho El Papalote,03,México,RPE,
+EA1970,El Pillaje,03,México,RPH,
+EA1971,Rancho El Prior,03,México,RPO,
+EA1972,Rancho La Paloma                     ,03,México,RPT  ,
+EA1973,Rancho Los Pinos,03,México,RPU,
+EA1974,Rancho El Porvenir,03,México,RPV,
+EA1975,Rancho Peñitas,03,México,RPW,
+EA1976,Rancho Providencia,03,México,RPX,
+EA1977,Rancho Agua Buena,03,México,RRA,
+EA1978,Rancho Don Roberto,03,México,RRB,
+EA1979,Rancho Rio Grande,03,México,RRG,
+EA1980,Rancho San Isidro,03,México,RRM,
+EA1981,El Romance,03,México,RRN,
+EA1982,La Marismeña,03,México,RRV,
+EA1983,Rancho Corrales,03,México,RRZ,
+EA1984,La Rosa,03,México,RSA,
+EA1985,Rancho Sierra Hermosa,03,México,RSH,
+EA1986,Rancho San José,03,México,RSJ,
+EA1987,Rancho San Francisco,03,México,RSK,
+EA1988,Rancho Santa María,03,México,RSM,
+EA1989,Rancho San José                      ,03,México,RSU  ,
+EA1990,Rancho El Salado,03,México,RSX,
+EA1991,Rancho Santa Anita,03,México,RTA,
+EA1992,Rancho El Retiro,03,México,RTC,
+EA1993,Rancho El Trofis,03,México,RTF,
+EA1994,Rancho El Tule,03,México,RTL,
+EA1995,El Rodeo De Tamazula,03,México,RTM,
+EA1996,El Retoño,03,México,RTO,
+EA1997,El Tule,03,México,RTU,
+EA1998,Rancho El 13,03,México,RTZ,
+EA1999,Rancho El Chicural,03,México,RUL,
+EA2000,Las Vegas,03,México,RVG,
+EA2001,Revolución De 1910,03,México,RVN,
+EA2002,El Preson,03,México,RVP,
+EA2003,Campo Rio Verde,03,México,RVR,
+EA2004,La Raya,03,México,RYA,
+EA2005,Rancho Zapata,03,México,RZA,
+EA2006,Rancho La Zorra,03,México,RZR,
+EA2007,Rancho Lanzarote,03,México,RZT,
+EA2008,Rodríguez,03,México,RZZ,
+EA2009,San Ángel,03,México,SAE,
+EA2010,Sahuaripa,03,México,SAH,
+EA2011,Sahuaripa 2,03,México,SAH,
+EA2012,Las Salvias,03,México,SAL,
+EA2013,San António,03,México,SAN,
+EA2014,Santa Ana Maloapan,03,México,SAV,
+EA2015,San Antonio El Russio,03,México,SAW,
+EA2016,Santa Cruz,03,México,SAX,
+EA2017,"Los Chirriones
+(Proyecto)",03,México,SAY,
+EA2018,Santa Blanca,03,México,SBK,
+EA2019,San Blas,03,México,SBS,
+EA2020,Santa Cecilia,03,México,SCE,
+EA2021,Rancho San Carlos,03,México,SCK,
+EA2022,El Socorrito,03,México,SCO,
+EA2023,Santiago De Los Caballeros,03,México,SCS,
+EA2024,Secretaria De Comunicaciones Y Transportes,03,México,SCT,
+EA2025,Santa Clara,03,México,SCV,
+EA2026,Santa Cruz,03,México,SCW,
+EA2027,San Miguel De Cruces,03,México,SCX,
+EA2028,Sierrita De Barraza,03,México,SDB,
+EA2029,San Juan De Camarones,03,México,SDC,
+EA2030,Rancho Santo Domingo,03,México,SDI,
+EA2031,Santo Domingo,03,México,SDM,
+EA2032,San José De Los Leones,03,México,SDN,
+EA2033,Santa Efigenia ,03,México,SEF,
+EA2034,Santa Fe,03,México,SFC,
+EA2035,"San Fernando
+(Proyecto)",03,México,SFD,
+EA2036,San Fernando,03,México,SFD,
+EA2037,San Francisco,03,México,SFF,
+EA2038,San Fernando ,03,México,SFN,
+EA2039,San Francisco,03,México,SFO,
+EA2040,Pista San Francisco,03,México,SFP,
+EA2041,San Fernando,03,México,SFR,
+EA2042,Santa Christine,03,México,SFW,
+EA2043,San Fernando,03,México,SFX,
+EA2044,San Gregorio De Bozos,03,México,SGB,
+EA2045,San Gabriel,03,México,SGB,
+EA2046,Saucito De Araujo,03,México,SGC,
+EA2047,Rancho San Gerardo,03,México,SGE,
+EA2048,San Gabriel ,03,México,SGL,
+EA2049,San Ignacio,03,México,SGN,
+EA2050,San Gregorio,03,México,SGR,
+EA2051,Santiago,03,México,SGS,
+EA2052,Santo Domingo,03,México,SGU,
+EA2053,La Mota,03,México,SHM,
+EA2054,Santa Cruz,03,México,SHX,
+EA2055,Sierrita,03,México,SIE,
+EA2056,San Ignacio,03,México,SIG  ,
+EA2057,San Isidro Labrador,03,México,SIL,
+EA2058,La Simiente,03,México,SIM,
+EA2059,Santa Inés,03,México,SIN,
+EA2060,Sianori Ii,03,México,SIR,
+EA2061,Loma Bonita De Puerta Azul,03,México,SIT,
+EA2062,Silva,03,México,SIV,
+EA2063,Sianori,03,México,SIW,
+EA2064,San Ignacio,03,México,SIY,
+EA2065,San José,03,México,SJE,
+EA2066,San Juan De Frailes,03,México,SJF,
+EA2067,San Joaquín Redo,03,México,SJH,
+EA2068,San Jacinto,03,México,SJK,
+EA2069,San José Del Llano,03,México,SJL,
+EA2070,San José,03,México,SJO,
+EA2071,San Juan Peyotan,03,México,SJP,
+EA2072,San Jacinto Tlacotepec,03,México,SJT,
+EA2073,San Juan Nepomuceno,03,México,SJU,
+EA2074,San José De Valenzuela,03,México,SJV,
+EA2075,San Juan De Norotal,03,México,SJW,
+EA2076,San Juan Iztapalapa,03,México,SJX,
+EA2077,Santa Teresa,03,México,SKT,
+EA2078,Isla,03,México,SLA,
+EA2079,Solidaridad,03,México,SLD,
+EA2080,San Luis Rio Colorado,03,México,SLR,
+EA2081,San Miguel De Allende,03,México,SMA,
+EA2082,San Martin De Bolaños,03,México,SMB,
+EA2083,San Miguel Del Alto,03,México,SMD,
+EA2084,Santa María Paras,03,México,SMK,
+EA2085,Santa María De Mulege,03,México,SMM,
+EA2086,San Martin,03,México,SMP,
+EA2087,Rancho Santa Mónica,03,México,SMW,
+EA2088,San Mateo Yucutindoo,03,México,SMY,
+EA2089,Santa María Agrícola,03,México,SMZ,
+EA2090,San Jorge,03,México,SNE,
+EA2091,Santa Fe,03,México,SNF,
+EA2092,San Marcos,03,México,SNM,
+EA2093,San Joaquín,03,México,SNQ,
+EA2094,Santa Ana De Vanegas,03,México,SNV,
+EA2095,San Antonio,03,México,SNX,
+EA2096,Santa Anita Del Yaqui,03,México,SNY,
+EA2097,Sofia,03,México,SOF  ,
+EA2098,Sisoguichi,03,México,SOG,
+EA2099,Sianori,03,México,SOI,
+EA2100,La Soledad,03,México,SOL,
+EA2101,San Pedro Del Gallo,03,México,SPG,
+EA2102,San José Produce,03,México,SPJ,
+EA2103,Sergio Perez De León,03,México,SPL,
+EA2104,San Pantaleón,03,México,SPN,
+EA2105,San Pedro De Azafranes,03,México,SPX,
+EA2106,San Pedro,03,México,SPY,
+EA2107,Saucito De Pérez,03,México,SPZ,
+EA2108,San Pedro De La Cueva,03,México,SQA,
+EA2109,Sierra Santa,03,México,SRA,
+EA2110,San Roberto,03,México,SRE,
+EA2111,Santa Rosa De Hopelchén,03,México,SRH,
+EA2112,San Rafael,03,México,SRJ,
+EA2113,Santa Rosa,03,México,SRO,
+EA2114,Santa Rosa De Lima,03,México,SRS,
+EA2115,Santa Rosa,03,México,SRW,
+EA2116,Santa Rita,03,México,SRX,
+EA2117,San Rafael,03,México,SRY,
+EA2118,Santa Anita Sereasa,03,México,SSA,
+EA2119,San Sebastián,03,México,SSB,
+EA2120,San Isidro Sereasa,03,México,SSI,
+EA2121,San José De Salsipuedes,03,México,SSS,
+EA2122,Sociedad Cooperativa De Servicios Agropecuarios Tamaulipecos,03,México,SST,
+EA2123,Santa Barbara,03,México,STB,
+EA2124,El Siete,03,México,STE,
+EA2125,Santa María,03,México,STH,
+EA2126,Santa Teresa,03,México,STJ,
+EA2127,Santa Rita,03,México,STK,
+EA2128,Santo Niño,03,México,STN,
+EA2129,Santa Rosa,03,México,STR,
+EA2130,Santo Tomas,03,México,STT,
+EA2131,Santa María De Los Remedios,03,México,STV,
+EA2132,Santa Elena ,03,México,STX,
+EA2133,San Luis,03,México,SUI,
+EA2134,Surutato,03,México,SUR,
+EA2135,Saul'Es,03,México,SUS,
+EA2136,San Valentín,03,México,SVA,
+EA2137,San Juan Viejo,03,México,SVI,
+EA2138,San Vicente,03,México,SVL,
+EA2139,Santa Cecilia,03,México,SXA,
+EA2140,San Pedro Xicoras,03,México,SXI,
+EA2141,Soyupa,03,México,SYU,
+EA2142,Aeródromo Municipal De Tepatitlán,03,México,TAA  ,
+EA2143,Tres Amigos De Guerrero,03,México,TAF,
+EA2144,Rancho El Gato,03,México,TAG,
+EA2145,El Centenario,03,México,TAG,
+EA2146,Cabo Rojo,03,México,TAT,
+EA2147,Base Tamazula,03,México,TAW,
+EA2148,Taxicaringa,03,México,TAX,
+EA2149,Tayoltita                            ,03,México,TAY  ,
+EA2150,Tumbiscatio,03,México,TBC,
+EA2151,Pista Toboloto,03,México,TBO,
+EA2152,Tanchijol,03,México,TCJ,
+EA2153,Tecuixiapa,03,México,TCS,
+EA2154,Tecubichi,03,México,TEB,
+EA2155,Terminal,03,México,TEI,
+EA2156,Tecolotlan,03,México,TEO,
+EA2157,Tepachoipa,03,México,TEP,
+EA2158,Tequesquitengo,03,México,TEQ,
+EA2159,Terrero De Basonopa,03,México,TER,
+EA2160,Tres Encinos,03,México,TES,
+EA2161,Rancho El 24,03,México,TFB,
+EA2162,El Tigre,03,México,TGE  ,
+EA2163,La Tigrera,03,México,TGR,
+EA2164,Tigre,03,México,TGS,
+EA2165,Tampachiche,03,México,THI,
+EA2166,El Tigre,03,México,TIG,
+EA2167,"Tizayuca
+(Fallecimiento De Titular)",03,México,TIZ,
+EA2168,La Gloria,03,México,TKT,
+EA2169,Turismo Lago Guerrero,03,México,TLG,
+EA2170,Trinidad Ramos Valdez,03,México,TLJ,
+EA2171,Tameapa,03,México,TME,
+EA2172,"Temoris
+(Proyecto)",03,México,TMS,
+EA2173,Tancholin,03,México,TNH,
+EA2174,Topila,03,México,TOI,
+EA2175,Rancho El Tulillo,03,México,TOO,
+EA2176,Topia,03,México,TOP,
+EA2177,Torreón,03,México,TOR,
+EA2178,"Tortugas
+(Proyecto)",03,México,TOT,
+EA2179,Tío Juan,03,México,TOU,
+EA2180,Tapias,03,México,TPI,
+EA2181,El Tapacal,03,México,TPK,
+EA2182,Tepozanes,03,México,TPO,
+EA2183,Tequila,03,México,TQJ  ,
+EA2184,La Tasajera,03,México,TRA,
+EA2185,El Trigo,03,México,TRG,
+EA2186,Kilo,03,México,TRM,
+EA2187,Terrero,03,México,TRO,
+EA2188,Transpacífico,03,México,TRP,
+EA2189,El Terrero,03,México,TRR,
+EA2190,Trampa Santa Rosa,03,México,TRS,
+EA2191,Terrenates,03,México,TRT,
+EA2192,Teras,03,México,TRX,
+EA2193,El Tasicuri,03,México,TSI,
+EA2194,Todos Santos,03,México,TSN,
+EA2195,El Tulillo,03,México,TTF,
+EA2196,Tototan,03,México,TTO,
+EA2197,Tututepec,03,México,TTP,
+EA2198,La Tuna,03,México,TUN,
+EA2199,"Tulum
+Base Aeronaval, Notam: 
+Cerrada A La Operación Civil",03,México,TUY  ,
+EA2200,Aeropista Tuxpan,03,México,TXP,
+EA2201,Tamazula                             ,03,México,TZA  ,
+EA2202,El Temazcal,03,México,TZC,
+EA2203,Tancuzay,03,México,TZY,
+EA2204,Unitec Campus Atizapán,03,México,UCA,
+EA2205,Ultraligeros Del Desierto,03,México,UDD,
+EA2206,"Unión De Ejidos
+(Proyecto)",03,México,UDE,
+EA2207,Úrsulo Galván,03,México,UGA,
+EA2208,Unión De Granjas Elizabeth,03,México,UGE,
+EA2209,El Jabalí ,03,México,UJI,
+EA2210,Vista Alegre,03,México,VAE,
+EA2211,Las Varas,03,México,VAS,
+EA2212,Valentín Barrera,03,México,VBB,
+EA2213,Valle De Banderas,03,México,VBS,
+EA2214,Valle Bonito,03,México,VBT,
+EA2215,Los Venados,03,México,VDS,
+EA2216,Venecia,03,México,VEA,
+EA2217,El Vergel,03,México,VEG,
+EA2218,Vallecillos,03,México,VES,
+EA2219,Válgame Dios,03,México,VGD,
+EA2220,Vascogil,03,México,VGL,
+EA2221,Vista Hermosa,03,México,VHA,
+EA2222,San José De Viborillas,03,México,VIB,
+EA2223,Valle Colombia,03,México,VLC,
+EA2224,Vallecitos,03,México,VLL,
+EA2225,El Vallado,03,México,VLO,
+EA2226,Villas Mar De Cortez,03,México,VMC,
+EA2227,Las Gemelas,03,México,VMV,
+EA2228,Villa De Ocampo,03,México,VOO,
+EA2229,La Vega Del Oso,03,México,VOS,
+EA2230,Vaquerías,03,México,VQS,
+EA2231,Valle Del Rosario,03,México,VRO,
+EA2232,Los Veneros,03,México,VRS,
+EA2233,Viñedos San José,03,México,VSJ,
+EA2234,Los Violines Poniente,03,México,VSP,
+EA2235,Rancho San Lorenzo,03,México,VSZ,
+EA2236,Valle De Tapachula,03,México,VTP,
+EA2237,El Verano,03,México,VVG,
+EA2238,Viento Y Sol,03,México,VYS,
+EA2239,Vizcaino,03,México,VZM,
+EA2240,Hermanos Wong Cozain,03,México,WCN,
+EA2241,Héctor Raúl Bátiz Meza,03,México,WVL,
+EA2242,"Paraíso
+(Proyecto)",03,México,WYN,
+EA2243,Xcalac,03,México,XCA,
+EA2244,Xicoténcatl,03,México,XIC,
+EA2245,Huixiopa De La Loma Colorada,03,México,XIO,
+EA2246,Xpujil,03,México,XJL,
+EA2247,Xóchilt La Sabana,03,México,XLS,
+EA2248,Cruz Negra,03,México,XNE,
+EA2249,Xiquipilli,03,México,XQI,
+EA2250,Xcaret,03,México,XRT,
+EA2251,Francisco Sarabia Yajalon,03,México,YAJ,
+EA2252,Yack,03,México,YAK,
+EA2253,Yecora,03,México,YEC,
+EA2254,La Rivera,03,México,YFA,
+EA2255,Yalcok,03,México,YLK,
+EA2256,Yamoriba,03,México,YMA,
+EA2257,Yoquivo,03,México,YOQ,
+EA2258,Yopori Norte,03,México,YPN,
+EA2259,Yucatán,03,México,YTN,
+EA2260,Zamora,03,México,ZAM,
+EA2261,Zacacoyuca,03,México,ZKA,
+EA2262,El Zalate,03,México,ZLT,
+EA2263,Zapotiltic,03,México,ZPC,
+EA2264,Zacapu,03,México,ZPU,
+EA2265,El Zapatero,03,México,ZPV,
+EA2266,Zoquipan,03,México,ZQN,
+EA2267,Zarupa,03,México,ZRA,
+EA2268,Augusto Cesar Sandino,03,Nicaragua,MGA,
+EA2269,Flesland,03,Noruega,BGO,
+EA2270,Oslo,03,Noruega,OSL,
+EA2271,Sola,03,Noruega,SVG,
+EA2272,Vaernes,03,Noruega,TRD,
+EA2273,Woodbourne,03,Nueva Zelanda,BHE,
+EA2274,Schiphol,03,Países Bajos,AMS,
+EA2275,Reina Beatrix,03,Países Bajos,AUA,
+EA2276,Hato,03,Países Bajos,CUR,
+EA2277,Princess Juliana,03,Países Bajos,SXM,
+EA2278,Panamá Pacifico,03,Panamá,BLB,
+EA2279,Enrique Malek,03,Panamá,DAV,
+EA2280,Tocumen,03,Panamá,PTY,
+EA2281,Sálamo,03,Papua-Nueva Guinea,SAM,
+EA2282,Guaraní,03,Paraguay,AGT,
+EA2283,Carlos Miguel Jiménez,03,Paraguay,PIL,
+EA2284,Capitán Fap José A. Quiñones González,03,Perú,CIX,
+EA2285,Jorge Chávez,03,Perú,LIM,
+EA2286,Capitán Fap Renán Elías Olivera,03,Perú,PIO,
+EA2287,Frederic Chopin,03,Polonia,WAW,
+EA2288,Humberto Delgado,03,Portugal,LIS,
+EA2289,Francisco Sa Carneiro,03,Portugal,OPO,
+EA2290,Santa María,03,Portugal,SMA,
+EA2291,Aeroporto Das Lajes,03,Portugal,TER,
+EA2292,Hamad,03,Qatar,DOH,
+EA2293,L.F. Wade,03,Reino Unido,BDA,
+EA2294,Belfast,03,Reino Unido,BFS,
+EA2295,George Best,03,Reino Unido,BHD,
+EA2296,Birmingham,03,Reino Unido,BHX,
+EA2297,Bournemouth,03,Reino Unido,BOH,
+EA2298,Bristol,03,Reino Unido,BRS,
+EA2299,Cardiff,03,Reino Unido,CWL,
+EA2300,Doncaster Sheffield,03,Reino Unido,DSA,
+EA2301,Edinburgh,03,Reino Unido,EDI,
+EA2302,East Midlands,03,Reino Unido,EMA,
+EA2303,Exeter,03,Reino Unido,EXT,
+EA2304,Abbotsinch,03,Reino Unido,GLA,
+EA2305,Leeds Bradford,03,Reino Unido,LBA,
+EA2306,London City,03,Reino Unido,LCY,
+EA2307,Gatwick,03,Reino Unido,LGW,
+EA2308,Heathrow,03,Reino Unido,LHR,
+EA2309,Raf Lakenheath,03,Reino Unido,LKZ,
+EA2310,Ringway,03,Reino Unido,MAN,
+EA2311,Newcastle,03,Reino Unido,NCL,
+EA2312,Providenciales,03,Reino Unido,PLS,
+EA2313,Stansted,03,Reino Unido,STN,
+EA2314,Vaclav Havel,03,Republica Checa,PRG,
+EA2315,Incheon,03,Republica de Corea,ICN,
+EA2316,Samana El Catey,03,Republica Dominicana,AZS,
+EA2317,Casa De Campo,03,Republica Dominicana,LRM,
+EA2318,Gregorio Luperón,03,Republica Dominicana,POP,
+EA2319,Punta Cana,03,Republica Dominicana,PUJ,
+EA2320,Las Américas,03,Republica Dominicana,SDQ,
+EA2321,Domodedovo,03,Rusia,DME,
+EA2322,Pulkovo,03,Rusia,LED,
+EA2323,Sheremetyevo,03,Rusia,SVO,
+EA2324,Vnukovo,03,Rusia,VKO,
+EA2325,O.R. Tambo,03,Sudáfrica,JNB,
+EA2326,Arlanda,03,Suecia,ARN,
+EA2327,Landvetter,03,Suecia,GOT,
+EA2328,Kalmar,03,Suecia,KLR,
+EA2329,Kallax,03,Suecia,LLA,
+EA2330,Kungsängen,03,Suecia,NRK,
+EA2331,Umeå,03,Suecia,UME,
+EA2332,Zürich-Kloten,03,Suiza,ZRH,
+EA2333,Tainan,03,Taiwán,TNN,
+EA2334,Piarco International,03,Trinidad y Tobago,POS,
+EA2335,Carrasco/General Cesareo L. Berisso,03,Uruguay,MVD,
+EA2336,General José Antonio Anzoátegui,03,Venezuela,BLA,
+EA2337,Jacinto Lara,03,Venezuela,BRM,
+EA2338,Simón Bolívar,03,Venezuela,CCS,
+EA2339,Josefa Camejo,03,Venezuela,LSP,
+EA2340,La Chinita,03,Venezuela,MAR,
+EA2341,Santiago Mariño,03,Venezuela,PMV,
+EA2342,General Manuel Carlos Piar,03,Venezuela,PZO,
+EA2343,Las Flecheras,03,Venezuela,SFD,
+EA2344,Juan Pablo Pérez Alfonso,03,Venezuela,VIG,
+EA2345,Arturo Michelena International,03,Venezuela,VLN,
+EA2346,Extranjera,03,Extranjera,1Y,
+Q0736,SANTO NINO,04,México,,Q
+SC283,HUAXTITLA,04,México,,SC
+Q0486,TERRERO,04,México,,Q
+VC117.2,SAN COSME,04,México,,VC
+M271.1,ADELEIDA,04,México,,M
+TM7.2,AMARILLO,04,México,,TM
+TG0,NAVOJOA,04,México,,TG
+N490.7,ARISTEO,04,México,,N
+RD170,LA VIBORA,04,México,,RD
+Q0513,ATAROS,04,México,,Q
+I0154,LA BARCA,04,México,,I
+I569.6,PERIQUILLO,04,México,,I
+F87.2,LOMA,04,México,,F
+TI032,NAVOLATO,04,México,,TI
+IB97.1,YARECUATO,04,México,,IB
+Z194.9,IVES,04,México,,Z
+G0042,MOTZORONGO,04,México,,G
+DA234.9,EJIDO MONTERREY,04,México,,DA
+A1879,RANCHERIA,04,México,,A
+H116.1,SANTIAGO,04,México,,H
+B0866,EL COBRE,04,México,,B
+IB116.6,ERONGARICUARO,04,México,,IB
+LA040,NARANJAL,04,México,,LA
+DC2.5,CENTRAL CAMIONERA,04,México,,DC
+TA299,CALABAZAS,04,México,,TA
+IB17.5,TRES MEZQUITES,04,México,,IB
+S0165,HUAMANTLA,04,México,,S
+DE54.2,RIO CHICO,04,México,,DE
+LA33.4,ZUCIGA,04,México,,LA
+V0999,VERACRUZ ICAVE,04,México,,V
+A1642.8,MOLINAR,04,México,,A
+FA684,YIXMUCUY,04,México,,FA
+A1417.3,LA ENRAMADA,04,México,,A
+I0498,ALZADA,04,México,,I
+G0254,LOS TIGRES,04,México,,G
+L0556,LAS PALMAS,04,México,,L
+B0915,SALTILLO,04,México,,B
+N340.8,EL PLAN,04,México,,N
+TA139,VILLA VERDE,04,México,,TA
+FX37,VALLADOLID,04,México,,FX
+C167.3,HERMOSA,04,México,,C
+A1120,MIELERAS,04,México,,A
+A513.3,DOBLE,04,México,,A
+Q0708,TEMORIS,04,México,,Q
+VK123,CUAUTLA,04,México,,VK
+I0197,PONCITLAN,04,México,,I
+EB24.2,SAN NICOLAS,04,México,,EB
+QA476.7,BARREAL,04,México,,QA
+H108.7,OTLIMULCO,04,México,,H
+B174,EL ZAPOTE,04,México,,B
+A0830,CEDRO,04,México,,A
+A664,TLACOTES,04,México,,A
+M0327,GARZA VALDEZ,04,México,,M
+IB111.7,PUACUARO,04,México,,IB
+Morelos145.6,POLOTITLAN,04,México,,Morelos
+L0625,CHIJOL,04,México,,L
+BG35.1,MELVILLE,04,México,,BG
+FD88,KANKABCHEN,04,México,,FD
+T0802,LEON FONSECA,04,México,,T
+T0937,ROSALES,04,México,,T
+S286.8,TENANGO DE RIO BLA,04,México,,S
+Q0523,TREVINO,04,México,,Q
+DE93,LOS ARTICULOS,04,México,,DE
+DC34.1,GUADIANA,04,México,,DC
+K435.7,CONGREGACION REFORMA,04,México,,K
+G0173,LOMA BONITA,04,México,,G
+V0182,TECOAC,04,México,,V
+T1607,IXTLAN,04,México,,T
+A0616,PABELLON,04,México,,A
+A443.9,SAN BARTOLO,04,México,,A
+VC134.4,ATOTONILCO,04,México,,VC
+GB15.2,NOPALTEPEC,04,México,,GB
+F236.8,BARITA,04,México,,F
+AC11.2,LOS LOBOS,04,México,,AC
+VK060,AYAPANGO,04,México,,VK
+R0324,ESPINAZO,04,México,,R
+M764.3,POMONA,04,México,,M
+V63.8,OXTOTIPAC,04,México,,V
+IN078,ZACAPU,04,México,,IN
+RD155.1,MAGUEYAL,04,México,,RD
+A46.5,HUEHUETOCA NM,04,México,,A
+P72.6,EJIDO QUERITA,04,México,,P
+LJ246,QUERETARO,04,México,,Juárez
+R89.2,SILENCIO,04,México,,R
+BF026,ESCOBEDO,04,México,,BF
+DC151.1,FRIO,04,México,,DC
+C255.7,COCULA,04,México,,C
+VB184,CARMELA,04,México,,VB
+B1274,SANCHEZ,04,México,,B
+S145.6,TOCHA,04,México,,S
+XX1.6,RIO PANUCO,04,México,,XX
+Juárez76.1,TULA,04,México,,Juárez
+RD199.8,AMERICANOS,04,México,,RD
+K209,MOJARRAS,04,México,,K
+TP8.7,APASCO,04,México,,TP
+K319.3,LA PLAYA,04,México,,K
+A0576,ARELLANO,04,México,,A
+Q0722,JULIO ORNELAS,04,México,,Q
+T434.6,PIEDRA,04,México,,T
+V446.6,LOMA DE IGUANA,04,México,,V
+M0445,VAQUEROS,04,México,,M
+C171.6,VIDAL,04,México,,C
+FA89.3,HEROE DE MACOZARI,04,México,,FA
+TA094,MOLINA,04,México,,TA
+O83.9,CURUNGUEO,04,México,,O
+S0334,POTRERO,04,México,,S
+HE4.2,SANTA ROSA,04,México,,HE
+RD50.4,BOQUILLAS,04,México,,RD
+A1769.8,EL SUECO,04,México,,A
+DC118.3,CANUTILLO,04,México,,DC
+B0073,CALERA,04,México,,B
+T0535,CIUDAD OBREGON,04,México,,T
+DC236.1,TETILLAS,04,México,,DC
+R0199,HERMANAS,04,México,,R
+VC142.5,PRODUCTORA NACIONAL,04,México,,VC
+N171,PUERTO DE MEDINA,04,México,,N
+IN104,ZIRONDARO,04,México,,IN
+C245,METLAPA,04,México,,C
+FA298.4,LA GLORIA,04,México,,FA
+N0546,ALBERTO ARENAL BANUET,04,México,,N
+G0065,MARTINICA,04,México,,G
+L0377,LAS TABLAS,04,México,,L
+A0191,SAN JUAN DEL RIO,04,México,,A
+N51.6,JAJALPA,04,México,,N
+A0080,TULA,04,México,,A
+DC128.5,LODEMENA,04,México,,DC
+UB33.4,VALLE REDONDO,04,México,,UB
+MA46,GENERAL VILLA,04,México,,MA
+T0400,MAYTORENA,04,México,,T
+DE118.1,COYOTES,04,México,,DE
+N0285,ACAMBARO,04,México,,N
+H0039,TEMASCALAPA,04,México,,H
+N0295,LA COSTURA,04,México,,N
+V0381,PALMAR,04,México,,V
+M464.6,SAN JUAN,04,México,,M
+DE6.4,BARAVITO,04,México,,DE
+C274.1,OLEA,04,México,,C
+N322.7,CORO,04,México,,N
+DB136.2,EL JAGUEY,04,México,,DB
+DB71.3,LOS PINOS,04,México,,DB
+VB167,CHIAPA,04,México,,VB
+N0414,FONTEZUELA,04,México,,N
+FA712,PLACA KM FA-712,04,México,,FA
+M523.5,MONTERREY,04,México,,M
+B0265,HERCULES,04,México,,B
+E344.2,MAGDALENA,04,México,,E
+MA14,LA CONCHA,04,México,,MA
+M596,EL MILAGRO,04,México,,M
+V0271,RUBIN,04,México,,V
+SH13,TECAMAC,04,México,,SH
+Q374.3,BUSTILLOS,04,México,,Q
+QA118.2,LAS VARAS,04,México,,QA
+VC19.4,FRAILES,04,México,,VC
+FN1.9,CHUBURNA,04,México,,FN
+V0343,LOS BERROS,04,México,,V
+L0292,SILOS,04,México,,L
+V0089,JALTEPEC,04,México,,V
+V0237,TEPEYAHUALCO,04,México,,V
+BG52.4,SAN CARLOS,04,México,,BG
+N0011,NAUCALPAN,04,México,,N
+A1718.3,ARADOS,04,México,,A
+EA0,NUEVO CARNERO,04,México,,EA
+M500.3,CERRITO LA SILLA,04,México,,M
+QA235.9,CABALLO,04,México,,QA
+L30.9,GALLARDO,04,México,,L
+E0029,TRES JAGUEYES,04,México,,E
+IB31.6,LOPEZ,04,México,,IB
+FA695.2,UAYAMON,04,México,,FA
+UB8.5,GAS MEX TIJUANA,04,México,,UB
+G0209,MASOCO,04,México,,G
+T514.7,CORRAL,04,México,,T
+R0229,AGUSTIN ESPINOZA,04,México,,R
+N0006,TACUBA,04,México,,N
+A0363,COPALILLO,04,México,,A
+V0351,PACHO,04,México,,V
+FA642.2,SAN JUAN CARPIZO,04,México,,FA
+R0282,DEZAGO,04,México,,R
+IB7.8,BARAJAS,04,México,,IB
+IB106.2,OPONQUIO,04,México,,IB
+E379.2,EL TULE,04,México,,E
+A1887.1,CANDELARIA,04,México,,A
+A0660,BERRIOZABAL,04,México,,A
+M0040,CERVANTES,04,México,,M
+AB040,GENERAL ZARAGOZA,04,México,,AB
+FA362.3,PLACA KM FA-363,04,México,,FA
+N93,SANTA JUANA,04,México,,N
+UA000,CALEXICO,04,México,,UA
+IB48.7,MAGDACUARO,04,México,,IB
+SC235.6,JESUS NAZARENO,04,México,,SC
+N0204,LOS LIRIOS,04,México,,N
+F0265,RIO BRAVO,04,México,,F
+E224.7,TECOMAVACA,04,México,,E
+S115.7,CALDERON,04,México,,S
+H132.2,LAGUNA DEL CERRITO,04,México,,H
+S11.6,ESPUELA LA VILLA,04,México,,S
+RA118,CIUDAD ACURA,04,México,,RA
+T0941,COLORADA,04,México,,T
+B0833,LEDEZMA,04,México,,B
+IB132,SANTA CLARA (ESTACION),04,México,,IB
+A1374,JIMENEZ,04,México,,A
+M0290,TINAJAS,04,México,,M
+H70,SAN ANTONIO OZTOYUCA,04,México,,H
+F68.8,ALTAVISTA,04,México,,F
+DM6,ASARCO,04,México,,DM
+GB30.7,NUEVO COCUITE,04,México,,GB
+F100.1,BARRETOSA,04,México,,F
+FD102.6,CAMARA,04,México,,FD
+A1069,LOS TRIZAR,04,México,,A
+Z0046,AZUFRERA,04,México,,Z
+Q0471,LA UNION,04,México,,Q
+FA266.5,PINO SUAREZ,04,México,,FA
+M512.2,LINDAVISTA,04,México,,M
+SA029,ZACATELCO,04,México,,SA
+FP148.4,XOY,04,México,,FP
+K292.8,JERICO,04,México,,K
+A375.8,EL CERRITO,04,México,,A
+SC267,PUENTA COLORADO,04,México,,SC
+Q881.6,SUFRAGIO CHP,04,México,,Q
+B0894,ENCANTADA,04,México,,B
+DN41,ENCINAL,04,México,,DN
+M251.6,CERAMICA,04,México,,M
+L0459,CAFETAL,04,México,,L
+N0038,SAN MARTIN,04,México,,N
+C156.1,TREINTA,04,México,,C
+N0319,HUINGO,04,México,,N
+QA104.6,RINCON,04,México,,QA
+L593.2,VELASCO,04,México,,L
+TL51.9,AMECA,04,México,,TL
+RC39.2,MUZQUIZ,04,México,,RC
+IB77.6,ZACAPU,04,México,,IB
+U457.4,LA PERA,04,México,,U
+S0139,APIZACO,04,México,,S
+L0429,LA LABOR,04,México,,L
+I0328,SANTA ANA,04,México,,I
+H138.9,PANFILO,04,México,,H
+L470.1,LA CHANGA,04,México,,L
+A0365,VIEYRA,04,México,,A
+DM8.4,VELARDERA,04,México,,DM
+F0163,OCHOA,04,México,,F
+Z271.6,GUICHIBE,04,México,,Z
+Z0097,MEDIAS AGUAS,04,México,,Z
+T55,CUMERAL,04,México,,T
+N0213,POMOCA,04,México,,N
+I168.8,SANTA INESIA,04,México,,I
+NE183,EL CAYACAL,04,México,,NE
+U522.7,BENJAMIN HILL,04,México,,U
+E118,PATIO NUEVO CARNERO,04,México,,E
+DB203.8,EL PRESIDIO,04,México,,DB
+FA494.1,CANDELARIA,04,México,,FA
+Z0010,BERTA,04,México,,Z
+A0292,CELAYA,04,México,,A
+S6,TENAYUCA,04,México,,S
+ZA008,GUANOMEX,04,México,,ZA
+FN32.3,PROGRESO,04,México,,FN
+F4.8,SAN NICOLAS,04,México,,F
+V0997,VERACRUZ APIVER,04,México,,V
+B196,MERCADOR,04,México,,B
+IC14.1,LA LABOR VIEJA,04,México,,IC
+N0227,MARAVATIO OCAMPO,04,México,,N
+S0344,LAS PALOMAS,04,México,,S
+S0217,SAN JUAN ATENCO,04,México,,S
+B294.4,COSIO,04,México,,B
+U0470,TRINCHERAS,04,México,,U
+M50.9,LOS ENTEROS,04,México,,M
+UB13.2,GARCIA,04,México,,UB
+Z264.5,COMITANCILLO,04,México,,Z
+Q0779,AGUACALIENTE,04,México,,Q
+HA019,TELLEZ,04,México,,HA
+V0276,CRUZ BLANCA,04,México,,V
+S0348,PASO DEL MACHO,04,México,,S
+TA305.4,SAN NICOLAS,04,México,,TA
+DE122.1,BAJIO ATASCOSO,04,México,,DE
+DB112.2,NUEVO IDEAL,04,México,,DB
+L390.7,EL DURO,04,México,,L
+J28.2,EL FRESNO,04,México,,J
+M67,LOS PLATANOS,04,México,,M
+A1472,AURELIO,04,México,,A
+M0887,FERROALEACIONES,04,México,,M
+RD225.5,PRESA,04,México,,RD
+N208.9,PATEO,04,México,,N
+LB056,LAS CRUCES,04,México,,LB
+DA21,MALAGA,04,México,,DA
+TM23,LA CALABAZA,04,México,,TM
+A429.1,EL POTRERITO,04,México,,A
+R0428,ROJAS FXE,04,México,,R
+T360.1,TAPIA,04,México,,T
+FA721.9,CAMPECHE,04,México,,FA
+G151.6,LAS PIÑAS,04,México,,G
+A409.3,FAUSTO RODRIGUEZ,04,México,,A
+DE76.9,COCONA,04,México,,DE
+Q0322,SANTA ISABEL,04,México,,Q
+B0495,JESUS MARIA,04,México,,B
+A0077,TOLTECA,04,México,,A
+QA309.2,SAN DIEGO,04,México,,QA
+Z102.4,ADOLFO RUIZ CORTINES,04,México,,Z
+VC120,ATLACAHUALOYA,04,México,,VC
+RD17.3,NADADORES,04,México,,RD
+L55.9,BIMBALETES,04,México,,L
+FD41.5,CACALCHEN,04,México,,FD
+UB51.4,LADERO PINELLI,04,México,,UB
+V0391,APAZAPAM,04,México,,V
+B0675,LA MAROMA,04,México,,B
+A1049,PERALTA,04,México,,A
+NB9.1,MANZANA,04,México,,NB
+I0441,ZAPOTILTIC,04,México,,I
+S69.5,XALA,04,México,,S
+FD66.6,IZAMAL,04,México,,FD
+L0315,MONTANA,04,México,,L
+FA797.1,DZITBALCHE,04,México,,FA
+BC073,PRESA DE LA CEBADA,04,México,,BC
+HE0.1,SOTOTLAN,04,México,,HE
+A0840,EDMUNDO,04,México,,A
+FD150.3,ESPITA,04,México,,FD
+RC3.6,CELIA,04,México,,RC
+TB016,CANANEA,04,México,,TB
+K221.4,TRES PICOS,04,México,,K
+Q0624,INGENIERO FRANCISCO M TOGNO,04,México,,Q
+DA244.8,RIO NAZAS,04,México,,DA
+N102.7,TOXICO,04,México,,N
+Z217.5,ALMOLOYA,04,México,,Z
+P59.2,MORITA,04,México,,P
+T797.4,ZOPILOTE,04,México,,T
+K194.2,LA POLKA,04,México,,K
+T0992,ALHUATE,04,México,,T
+TA078,LA BOTA,04,México,,TA
+F0312,SANDOVAL,04,México,,F
+DC205.4,PASTELERA,04,México,,DC
+N546.1,HOYO DEL AIRE,04,México,,N
+T0483,VICAM,04,México,,T
+TA280.8,TURICACHI,04,México,,TA
+FA739.7,HAMPOLDI,04,México,,FA
+S0189,MOCTEZUMA,04,México,,S
+DE110.6,CRUZ DE PIEDRA,04,México,,DE
+G0005,AMATLAN,04,México,,G
+HC005,LA TRINIDAD,04,México,,HC
+A592,PLACA KM A-592,04,México,,A
+N33.5,LAUREL,04,México,,N
+A0706,ZACATECAS,04,México,,A
+FN9,XCANATUN,04,México,,FN
+IB74.9,JAUJA,04,México,,IB
+K279.1,EL CARMEN,04,México,,K
+T1159,REDO,04,México,,T
+FS56.8,SOTUTA,04,México,,FS
+NE150,EL PANAMA,04,México,,NE
+RD334.2,ESCALON,04,México,,RD
+VB033,NANACAMILPA,04,México,,VB
+RD27.2,CELEMANIA,04,México,,RD
+U0399,CABORCA,04,México,,U
+BD019,SAN MIGUEL ALLENDE,04,México,,BD
+DA249.3,TORREON,04,México,,DA
+JM047,HUEHUETOCA,04,México,,Juárez
+FA74.5,RUEDA,04,México,,FA
+N151.2,TEPEOLILCO,04,México,,N
+FP99.3,AKIL,04,México,,FP
+T1342.7,MOTAJE,04,México,,T
+TA61.6,ZORRILLA,04,México,,TA
+M793.3,LA SECCION,04,México,,M
+S0210,ALJIBES,04,México,,S
+A0851,LA COLORADA,04,México,,A
+PA008,SANTA BARBARA,04,México,,PA
+DA173.3,PEDRICEÑA,04,México,,DA
+N287,GENERAL FELIPE ANGELES,04,México,,N
+U0043,VICTORIA,04,México,,U
+AC22.7,VALLE DE SANTIAGO,04,México,,AC
+U206,GUSTAVO SOTELO,04,México,,U
+A1523,MEOQUI,04,México,,A
+A1019.5,DARIAS,04,México,,A
+VK074,TEPETLIXPA,04,México,,VK
+A0307,CORTAZAR,04,México,,A
+N0433,PATZCUARO,04,México,,N
+M855.2,SANTA TERESA,04,México,,M
+Q0622,DIVISADERO,04,México,,Q
+U523.4,BENJAMIN HILL SBC,04,México,,U
+FA478.9,PARAISO,04,México,,FA
+DE94.9,EL TORO,04,México,,DE
+DB210.8,CARRERAS,04,México,,DB
+S0268,BOTA,04,México,,S
+F0271,CELULOSA,04,México,,F
+A13,TLANEPANTLA,04,México,,A
+IB106,GUASCUARO DE MUJICA,04,México,,IB
+RD267.7,QUIMBALETE,04,México,,RD
+F43.8,SAN JUAN,04,México,,F
+A0431,POTRERO,04,México,,A
+IB110.7,MERCADO,04,México,,IB
+J36.9,LA FE,04,México,,J
+N0057,MACLOVIO HERRERA,04,México,,N
+TI006,LAS FLORES,04,México,,TI
+A1927,SAMALAYUCA,04,México,,A
+A0012,VALLE DE MEXICO,04,México,,A
+RD116.1,LOS BELLOC,04,México,,RD
+DC109.2,GUALTERIO,04,México,,DC
+N0010,NAUCALPAN,04,México,,N
+QA317.5,COLONIA MADERO,04,México,,QA
+B0884,AGUA NUEVA,04,México,,B
+S0409,TEJERIA,04,México,,S
+S0235,JESUS DE NAZARENO,04,México,,S
+A1697,PARRITA,04,México,,A
+C154.3,SAN MIGUEL TREINTA,04,México,,C
+RC3.5,BARROTERAN,04,México,,RC
+O50.5,OCAMPO,04,México,,O
+L641.3,EL CLARON,04,México,,L
+VC123.1,LOYOLA,04,México,,VC
+VK110,ATLATLAHUCAN,04,México,,VK
+L0138,ESPIRITU SANTO,04,México,,L
+IB125,PLACA KM IB-125,04,México,,IB
+N396.3,NORIEGA,04,México,,N
+S0333,ESMERALDA,04,México,,S
+IC15.1,MARGARO,04,México,,IC
+Z277.7,JORDAN,04,México,,Z
+FA84.6 ,EL GUANAL,04,México,,FA
+T1392,RUIZ,04,México,,T
+K417.4,TAPACHULA,04,México,,K
+E322.6,LAS BEDAS,04,México,,E
+M629.7,FRAUSTRO,04,México,,M
+K459,CIUDAD HIDALGO,04,México,,K
+V0133,SANZ,04,México,,V
+T1460,IGNACIO BORREGO,04,México,,T
+S0146,TOCHAC,04,México,,S
+M45,SAN CARLITOS,04,México,,M
+N458.8,AJAMBARAN,04,México,,N
+IB91.8,ANGEL,04,México,,IB
+Z212.4,NIZA CONEJO,04,México,,Z
+N267.1,ARROYO DE LA LUNA,04,México,,N
+H14.2,CAJIBA,04,México,,H
+M200.1,LAVIN,04,México,,M
+L0673,ARBOL GRANDE,04,México,,L
+SA021,MAGDALENA,04,México,,SA
+DB157,PLACA KM DB-157,04,México,,DB
+F215,LOS ALTOS,04,México,,F
+E0051,ZOYAPETLAYOCA,04,México,,E
+DC200.6,VIRATA,04,México,,DC
+U256.5,IRIGOYEN,04,México,,U
+S0298,MOLINO,04,México,,S
+DB74,DON HILARIO,04,México,,DB
+G0017,CUICHAPA,04,México,,G
+N0345,QUIRIO,04,México,,N
+Q697.5,SOLEDAD,04,México,,Q
+GA046,EL RODEO,04,México,,GA
+IN116,ERONGARICUARO,04,México,,IN
+A5.6,CEYLÁN CARGA,04,México,,A
+S0361,CAMARON,04,México,,S
+RA63.4,TRASQUILLA,04,México,,RA
+VB163,GRAJALES,04,México,,VB
+C110.8,RAMON,04,México,,C
+L123.6,SOTOL,04,México,,L
+K202.1,AMATES,04,México,,K
+A1727.8,MOCHO,04,México,,A
+RA18.3,ZARAGOZA,04,México,,RA
+P52,LA MANSA,04,México,,P
+T1706,AMATITAN,04,México,,T
+A0496,LOS SALAS,04,México,,A
+I0242,LADRILLERA,04,México,,I
+NB013,SAN CRISTOBAL,04,México,,NB
+N411.6,LA CAJA,04,México,,N
+B1116,VILLALDAMA,04,México,,B
+Q866.9,VEGA,04,México,,Q
+G0167,OBISPO,04,México,,G
+FA779.3,HECELCHAKAN,04,México,,FA
+A1794,MOCTEZUMA,04,México,,A
+BA19,DELGADILLO,04,México,,BA
+A0037,TEOLOYUCAN,04,México,,A
+SA014,CONTLA,04,México,,SA
+L0285,PEOTILLOS,04,México,,L
+QA35.7,SANTO TOMAS,04,México,,QA
+G0190,DOBLADERO,04,México,,G
+T806.2,BAMDA,04,México,,T
+DE45.8,PALOS COLORADOS,04,México,,DE
+K276,EL PROGRESO,04,México,,K
+RD292.7,CARRILLO NUEVO,04,México,,RD
+R0261,BOCATOCHE,04,México,,R
+B0699,CATORCE,04,México,,B
+S103.4,TETLEPAYAC,04,México,,S
+GA089,ESTANZUELA,04,México,,GA
+O73.7,PURUA,04,México,,O
+N330.6,QUERENDARO,04,México,,N
+T0298,DYNATECH,04,México,,T
+QA521.3,MEZQUITE,04,México,,QA
+MA77.2,LA BONITA,04,México,,MA
+A0462,LOMA,04,México,,A
+LA042,RIO VERDE,04,México,,LA
+T1053.8,TANQUES,04,México,,T
+I0486,TONILITA,04,México,,I
+B49,LIMITE TERRITORIAL,04,México,,B
+AE016,NOCHE BUENA,04,México,,AE
+FA92.3,GAYTAN,04,México,,FA
+A453.8,CORRAL BLANCO,04,México,,A
+G0061,ACATLAN,04,México,,G
+U0174,LOPEZ CALLADA,04,México,,U
+V0461,TAMSA,04,México,,V
+GA072,JOACHIN,04,México,,GA
+Q0304,PALOMAS,04,México,,Q
+A519.4,SAN JUAN LOS LAGOS,04,México,,A
+H79.8,ANIMAS,04,México,,H
+P146.6,PALOMA,04,México,,P
+B1027.3,CORTAVIA 9,04,México,,B
+R62.6,LOS ROSALES,04,México,,R
+F0061,AYANCUAL,04,México,,F
+Z0069,CORREA,04,México,,Z
+LA018,PASTORA,04,México,,LA
+FD128,SANTA ROSA,04,México,,FD
+AK010,DINAMITA,04,México,,AK
+QA241.5,BELLAVISTA,04,México,,QA
+FA499.1,PEJE LAGARTO,04,México,,FA
+DN8.4,EL TANQUE,04,México,,DN
+GB8,CAROLINA,04,México,,GB
+L0584,CELIS,04,México,,L
+RA46.4,TERESITA,04,México,,RA
+G0211,GARZA BLANCA,04,México,,G
+FP78,PUSTUNICH,04,México,,FP
+N41.7,SALAZAR,04,México,,N
+K341.1,ACAPETAHUA,04,México,,K
+TL42.4,MATUTE,04,México,,TL
+Z242.8,LA MATA,04,México,,Z
+B0691,WADLEY,04,México,,B
+G0030,LA ZAFRA,04,México,,G
+EA040,SAN ANTONIO SOLEDAD,04,México,,EA
+FP108.6,TEKAK,04,México,,FP
+A0322,UNIVEX,04,México,,A
+UB71.4,LINEA DIVISORIA SUR,04,México,,UB
+Q0000,OJINAGA,04,México,,Q
+A439.4,GUANAJAL,04,México,,A
+C28.3,CONTRERAS,04,México,,C
+L0079,TAURO,04,México,,L
+M0643,JOSEFA,04,México,,M
+S0327,PARAJE NUEVO,04,México,,S
+BA50.9,SAN LUIS DE LA PAZ,04,México,,BA
+Q321,ARAIZA,04,México,,Q
+T1088.3,OLAJE,04,México,,T
+L130,EL JAIBITO,04,México,,L
+BA31,LOURDES,04,México,,BA
+M0811,BENAVIDES,04,México,,M
+Q0406,ESCAPE KM Q-406,04,México,,Q
+FA773.1,POMUCH,04,México,,FA
+N439.8,PARCO,04,México,,N
+B0943,APASCO RAMOS,04,México,,B
+A1169.6,MARAVASCO,04,México,,A
+FA178.7,JOAQUIN GUTIERREZ,04,México,,FA
+TJ22.1,EL DORADO,04,México,,TJ
+S0287,RIO BLANCO,04,México,,S
+FA221.4,TACOTALPA,04,México,,FA
+B0128,ESCANDON,04,México,,B
+RD147.3,LAS MONJAS,04,México,,RD
+I514.1,ESTANCIA,04,México,,I
+Z0,COATZACOALCOS,04,México,,Z
+T0821,CAPOMAS,04,México,,T
+SA011,SANTA CRUZ,04,México,,SA
+FA007,INGENIERO A LIR ARCINIEGA,04,México,,FA
+H0050,TEZONTEPEC,04,México,,H
+K163,SAN ANTOLIN,04,México,,K
+Juárez245,LITION,04,México,,Juárez
+E276,ALMOLOYAS,04,México,,E
+K256,NANCINAPA,04,México,,K
+NB5.2,BETTI,04,México,,NB
+A1456.3,LA SECCION,04,México,,A
+M0582,ARISTA,04,México,,M
+C0005,JULIA,04,México,,C
+A719.4,PIMIENTA,04,México,,A
+L495.6,LAS CRUCITAS,04,México,,L
+T0926,VITARUTO,04,México,,T
+HD13.5,XOCOPA,04,México,,HD
+B50,HUEHUETOCA,04,México,,B
+Q0253,MULLER,04,México,,Q
+K455.7,EL CAMPITO,04,México,,K
+U0032,DELTA,04,México,,U
+M0602,RAMOS,04,México,,M
+Q14.6,SAN URIEL,04,México,,Q
+MA051,EL MANTE,04,México,,MA
+IB99.3,ESCOBILLAS,04,México,,IB
+Q267.5,CHIHUAHUA,04,México,,Q
+G0071,CAMALOTE,04,México,,G
+TA235,CIMA,04,México,,TA
+K447.3,TRES HERMANOS,04,México,,K
+Z0020,HORACIO P SANCHEZ,04,México,,Z
+UB33.9,REDONDO,04,México,,UB
+B922,ZINCAMEX,04,México,,B
+AM008,BAJIO FXE,04,México,,AM
+Q460.8,MINACA,04,México,,Q
+AE9,LA CUESTA,04,México,,AE
+M0026,ALTAMIRA,04,México,,M
+VB175,MANANTIALES,04,México,,VB
+U0336,LAS ENCHILAYAS,04,México,,U
+B1055,SALINAS VICTORIA,04,México,,B
+Morelos46.5,HUEHUETOCA,04,México,,Morelos
+A0736,VICTOR ROSALES,04,México,,A
+A1815.5,VADO,04,México,,A
+K392,HUEHUETAN,04,México,,K
+N0090,PUERTA MEXICO,04,México,,N
+K389.4,CUYAMIAPA,04,México,,K
+NF451,AJUNO,04,México,,N
+E0066,TECAMACHALCO,04,México,,E
+A0029,CUAUTITLAN,04,México,,A
+SA035,PANZACOLA,04,México,,SA
+VK9.8,SAN JUAN DE ARAGON,04,México,,VK
+FA812,BECAL,04,México,,FA
+MA105.6,PALMITO,04,México,,MA
+TA248.3,ELIAS CALLES,04,México,,TA
+P134.1,CATARINAS,04,México,,P
+Q0268,CHICHP,04,México,,Q
+DB216.7,TEPEHUANES,04,México,,DB
+TA254,FRONTERAS,04,México,,TA
+R99.3,PUENTE NEGRO,04,México,,R
+V432.2,SALMORAL,04,México,,V
+NE998,APM LAZARO,04,México,,NE
+VC76.5,MATAMORES,04,México,,VC
+K240,JOAQUIN AMARON,04,México,,K
+A1359,LOLITA,04,México,,A
+M0219,ROSA,04,México,,M
+E331.3,TELIXTLAHUACA,04,México,,E
+U0142,TORRES B,04,México,,U
+K97.9,LAS ANONAS,04,México,,K
+T729.9,FENOCHIO,04,México,,T
+TA268.9,COCHUTA,04,México,,TA
+S0084,ACOPINALCO,04,México,,S
+F0038,LOBOS,04,México,,F
+S0283,SANTA ROSA,04,México,,S
+AB005,ITURBIDE,04,México,,AB
+NA009,TLALNEPANTLA,04,México,,NA
+FA639.1,SAN DIMAS,04,México,,FA
+V53.2,ANTONIO,04,México,,V
+SA0,APIZACO,04,México,,SA
+A1104.1,NAZARENO,04,México,,A
+NB47.1,CACALOTE,04,México,,NB
+A1854.6,LUCERO,04,México,,A
+VB074,BALTASAR,04,México,,VB
+VC31.5,PORTEZUELO,04,México,,VC
+L315,MONTAÑA,04,México,,L
+N0335,ZINZIMEO,04,México,,N
+FA745.5,MANAGUA,04,México,,FA
+C237.1,IGUALA,04,México,,C
+DC0,DURANGO,04,México,,DC
+L0502,QUINIENTOS,04,México,,L
+E338.8,SULCHIQUITONGO,04,México,,E
+NE138,EL SALVADOR,04,México,,NE
+DB204.7,ESCAPE PRESIDIO,04,México,,DB
+B65,CERRO JARDIN,04,México,,B
+M0310,CARRIZOS,04,México,,M
+T0976,SAN RAFAEL,04,México,,T
+P27.6,TROYA,04,México,,P
+B0506,INTERPUERTO,04,México,,B
+TL15.4,REFUGIO,04,México,,TL
+F227,SINAI,04,México,,F
+EA45.2,AMOZOQUILLO,04,México,,EA
+M798.6,MINERVA,04,México,,M
+M215,ZORRILLA,04,México,,M
+XX46.7,LA PUENTE,04,México,,XX
+I0461,ATENQUIQUE,04,México,,I
+G0110,LA GRANJA,04,México,,G
+VB070,SAN MARTIN,04,México,,VB
+A1202.3,PERONAL,04,México,,A
+N591.8,MAGUIZABAL,04,México,,N
+M0884,VINEDO,04,México,,M
+T1407.7,YAGO,04,México,,T
+FA671.5,HOOL,04,México,,FA
+V0201,MAZARRAZA,04,México,,V
+IB7.7,DIONISIA,04,México,,IB
+N0099,DEL RIO,04,México,,N
+M0868,PORVENIR,04,México,,M
+E292.8,SANTA CATARINA,04,México,,E
+Q0839,EL FUERTE,04,México,,Q
+FD46.7,BOKOBA,04,México,,FD
+G0147,ESCAPE EL HULE,04,México,,G
+FA656,PLACA KM FA-656,04,México,,FA
+V298.1,NEGRO,04,México,,V
+F0147,ZACATE,04,México,,F
+E354,MAGOTE,04,México,,E
+E335.5,HUITZO,04,México,,E
+G75.9,EL CARAVERAL,04,México,,G
+BC053,PUERTO CARROZAS,04,México,,BC
+R313.5,SIERRA AZUL,04,México,,R
+L0424,ESCONTRIA,04,México,,L
+UB13.9,ESTACION GARCIA,04,México,,UB
+IB116.7,CHUCANDIRAN,04,México,,IB
+V0429,CARDEL,04,México,,V
+B0979,SOLEDAD,04,México,,B
+TG043,HUATABAMPO,04,México,,TG
+G0048,TEZONAPA,04,México,,G
+B118.6,RANCHO NUEVO,04,México,,B
+E193,ALDAMA,04,México,,E
+XX74.4,MINCUINI,04,México,,XX
+V49.7,CHIPILTEPEC,04,México,,V
+TL31.7,LA VEGA,04,México,,TL
+N0141,ATLACOMULCO,04,México,,N
+G0271,JUANITA,04,México,,G
+FA186.7,PICHUCALCO,04,México,,FA
+V436.3,LA POSTA,04,México,,V
+L0259,VENTURA,04,México,,L
+C212.2,VISTA,04,México,,C
+E385.1,GUELECE,04,México,,E
+A1603,MORSE,04,México,,A
+RD67.4,CUATRO CIENEGAS,04,México,,RD
+R0083,PEYOTES,04,México,,R
+FA660,SANTA CRUZ,04,México,,FA
+U0093,EL DOCTOR,04,México,,U
+P104.3,EMPALME DISTRITO FRISCO,04,México,,P
+GB34,CHACAL TIANGUIS,04,México,,GB
+T0915,CAIMANERO,04,México,,T
+HB024,CIUDAD SAHAGUN,04,México,,HB
+GA100.5,TIERRA BLANCA,04,México,,GA
+F0110,HERRERAS,04,México,,F
+I455.7,QUITO,04,México,,I
+V354.8,ROMA,04,México,,V
+LM245,LITION,04,México,,Morelos
+SC296.2,MEZQUITE,04,México,,SC
+S0260,ALTA LUZ,04,México,,S
+IB138,LOS REYES DE SALGADO,04,México,,IB
+G0115,LAS YAGUAS,04,México,,G
+I0071,OLIVA,04,México,,I
+L0356,SAN BARTOLO,04,México,,L
+N48.1,FRESNO,04,México,,N
+N0165,TULTENANGO,04,México,,N
+T0,LINEA DIVISORIA,04,México,,T
+IB10.2,VERDUZCO,04,México,,IB
+J31.5,GILITA,04,México,,J
+N0279,MIGUEL G NAVARRO,04,México,,N
+I529.3,COQUIMATLAN,04,México,,I
+T0864,ACATITA,04,México,,T
+S0304,SUMIDERO,04,México,,S
+VB043,CONTADERO,04,México,,VB
+T1427,PANI,04,México,,T
+C14.6,SAN PEDRO DE LOS PINOS,04,México,,C
+Q325.7,BAEZA,04,México,,Q
+XX68.1,OZULUAMA,04,México,,XX
+Juárez102.3,DAXTHI,04,México,,Juárez
+N2,EL ROSARIO,04,México,,N
+R351.3,CARLOS PEREYRA,04,México,,R
+B0871,BENJAMIN MENDEZ,04,México,,B
+N0421,CHAPULTEPEC,04,México,,N
+T1281,GACHO,04,México,,T
+TM12.6,PORTES GIL,04,México,,TM
+Juárez135,PACHUQUILLA,04,México,,Juárez
+BD011,MIGUEL HIDALGO,04,México,,BD
+RD12.7,MANUEL AGUIRRE,04,México,,RD
+VC66.3,LA BALARZA,04,México,,VC
+DE73.3,EL FUERTE,04,México,,DE
+NE034,LIMONCITO,04,México,,NE
+F0244,REYNOSA,04,México,,F
+H74.9,TECAJETE,04,México,,H
+FD164.1,CALOTHUL,04,México,,FD
+RD37.6,LAMADRID,04,México,,RD
+P93.5,FLUORITA,04,México,,P
+DA135.2,CHUPADEROS,04,México,,DA
+A0416,LEON,04,México,,A
+Q0910,SANTA ROSA,04,México,,Q
+H0019,JALTOCAN,04,México,,H
+Z0057,TEXISTEPEC,04,México,,Z
+IB131.7,SALITRE,04,México,,IB
+N629.6,APATZINGAN,04,México,,N
+QA332,NUEVO CASAS GRANDES,04,México,,QA
+N351.1,CHARO,04,México,,N
+C183.7,CACAHUAMILPA,04,México,,C
+H104.2,LOS ROMEROS,04,México,,H
+I0377,ATOYAC,04,México,,I
+B0510,LA PILA,04,México,,B
+C219.1,PIMENTEL,04,México,,C
+V94.7,MAL PAIS,04,México,,V
+MA021,XICOHTENCATL,04,México,,MA
+DC87.5,VICENTE GUERRERO,04,México,,DC
+I0,IRAPUATO,04,México,,I
+K272.2,ECHEGARAY,04,México,,K
+VB110,PUEBLA,04,México,,VB
+SC249.5,SN ANTONIO SOLEDAD,04,México,,SC
+AB009,EMBARCADERO CENTRAL,04,México,,AB
+T422,EMPALME SHOP,04,México,,T
+A1778.7,CHAVATITO,04,México,,A
+HC019,CADENA,04,México,,HC
+VB149,CITLALTEPEC,04,México,,VB
+Q0636,SAN RAFAEL,04,México,,Q
+E257.2,TOMELLIN,04,México,,E
+E0061,HUIXCOLOTLA,04,México,,E
+U495.8,RUIZ DIAZ,04,México,,U
+V231.4,TITIPANAPA,04,México,,V
+Q359.3,ALDANA,04,México,,Q
+Z186,MOGOÑE,04,México,,Z
+EB11.6,ZAACHILA,04,México,,EB
+U418,LA VENTANA,04,México,,U
+B1222,ANAHUAC,04,México,,B
+L0310,LA JOYA,04,México,,L
+E0049,SAN SIMON,04,México,,E
+L24.6,JALTOMATE,04,México,,L
+SC276,VAQUERIA I,04,México,,SC
+FP137.7,TZUCACAB,04,México,,FP
+T1025,OBISPO,04,México,,T
+M840.3,GURZA,04,México,,M
+A0063,MELCHOR OCAMPO,04,México,,A
+M54.5,CUAHUTEMOC,04,México,,M
+E0113,CUAYUCATEPEC,04,México,,E
+I0470,PLATANARILLO,04,México,,I
+B56.3,SAN SEBASTIAN,04,México,,B
+V0397,EL CARRIZAL,04,México,,V
+AC28,BRANDE,04,México,,AC
+N618.8,PARACUARO,04,México,,N
+I551.2,EL ROSARIO,04,México,,I
+QA154.7,CEBADILLA,04,México,,QA
+N0444,BONILLA,04,México,,N
+G0143,CIUDAD GENERAL ALEMAN,04,México,,G
+AE12.6,TERESA,04,México,,AE
+SA025,GOMEZ,04,México,,SA
+FD108.3,QUINTANA ROO,04,México,,FD
+Juárez183.5,SAN JUAN DEL RIO,04,México,,Juárez
+LJ248,QUERETARO SID,04,México,,Juárez
+P82.9,MATURANA,04,México,,P
+O45.2,LA JUNTA,04,México,,O
+I0615,MANZANILLO,04,México,,I
+L0437,LAS CANOAS,04,México,,L
+BC063,SAN JOSE ITURBIDE,04,México,,BC
+F294.6,CONTROL,04,México,,F
+I0451,TUXPAN,04,México,,I
+FA240.5,LOMAS TRISTES,04,México,,FA
+MA24.7,GUAYALEJO,04,México,,MA
+T0603,NAVOJOA,04,México,,T
+FN4.6,CORDEMEX,04,México,,FN
+A0645,ADAMES,04,México,,A
+M0776,TALIA,04,México,,M
+I0085,CORTES,04,México,,I
+U0000,PASCUALITOS,04,México,,U
+TA41.8,SAN LAZARO,04,México,,TA
+R290.4,BAJAN,04,México,,R
+FA328.8,PALENQUE,04,México,,FA
+N195.7,COLORADO,04,México,,N
+IB78.2,EL GUAYABO,04,México,,IB
+QA140.3,MADERA,04,México,,QA
+NB058,BAJIO,04,México,,NB
+Q0127,FALOMIR,04,México,,Q
+XX71.1,PLACETAS,04,México,,XX
+Juárez166.9,PALMILLAS,04,México,,Juárez
+B0941,KIMBERLY RAMOS,04,México,,B
+I323.9,MASCOTA,04,México,,I
+AC31.4,LA BOLSA,04,México,,AC
+MA10.5,EL CONEJO,04,México,,MA
+O42.4,EL SANUDO,04,México,,O
+DB15.7,CASA BLANCA,04,México,,DB
+S0114,CERRITO,04,México,,S
+M435.5,TERAN,04,México,,M
+A0795,GUTIERREZ,04,México,,A
+T1657.3,QUEMADA,04,México,,T
+Morelos245.1,QUERETARO,04,México,,Morelos
+AK2.7,AEDO,04,México,,AK
+RD187.5,MATRIMONIO,04,México,,RD
+FA471.9,LA MICOTEA,04,México,,FA
+A1137,ALIANZA,04,México,,A
+T1584,MARQUESADO,04,México,,T
+G0152,LAS PINAS,04,México,,G
+GB048,SAN CRISTOBAL,04,México,,GB
+V125.2,LA LUZ,04,México,,V
+L0530,VALLES,04,México,,L
+K299.3,LEON BRINDIS,04,México,,K
+Q476,GONZALEZ,04,México,,Q
+VK090,NEPOPUALCO,04,México,,VK
+AC24.9,COVADONGA,04,México,,AC
+M0863,ABELARDO RODRIGUEZ,04,México,,M
+L0252,TECHA,04,México,,L
+V0302,CRUZ VERDE,04,México,,V
+HC026,PACHUCA DE SOTO,04,México,,HC
+FA443.9,SAN PEDRO,04,México,,FA
+T604.3,BACABACHI,04,México,,T
+RH0.7,PALAU,04,México,,RH
+N457.3,COPANDARO,04,México,,N
+MA28.9,EL EJIDO,04,México,,MA
+A1905.7,LOS MEDANOS,04,México,,A
+GF001,BANANO,04,México,,GF
+GF006,GELA,04,México,,GF
+QA490,PLACA KM QA-490,04,México,,QA
+N20.7,MONTE,04,México,,N
+N0063,DONA ROSA,04,México,,N
+QA71,MATACHIC,04,México,,QA
+K331.5,LA BONANZA,04,México,,K
+DE79.2,EL CHICLE,04,México,,DE
+E0055,ROSENDO MARQUEZ,04,México,,E
+FA51.5,TANCOCHAPA,04,México,,FA
+B189.9,CAMBALACHE,04,México,,B
+Z109.3,LAS TRES GARDENIAS,04,México,,Z
+R246,FIERRO,04,México,,R
+M70.8,CHOCOY,04,México,,M
+Q0165,COLONIAS,04,México,,Q
+NE088,LOS CHIVOS,04,México,,NE
+E0026,SANTA ROSA,04,México,,E
+N0270,JUAN J FRANCO,04,México,,N
+GA051,TLALIXCOYAN,04,México,,GA
+T738.5,SAN BLAS,04,México,,T
+BG62.3,AVALOS,04,México,,BG
+OA3.9,ANGUANGEO,04,México,,OA
+RA91.6,NUEVA PALESTINA,04,México,,RA
+N45,CARRETERA,04,México,,N
+NB052,OJO SECO,04,México,,NB
+K92.5,CABESTRADA,04,México,,K
+VB085,ANALCO,04,México,,VB
+HC015,LA SOLEDAD,04,México,,HC
+A529,PLACA KM A-529,04,México,,A
+NB21.3,LA RANCHERITA,04,México,,NB
+B0070,VITO,04,México,,B
+FP87,YHOTOLIN,04,México,,FP
+DE68.2,JAROCHO,04,México,,DE
+Q0613,NACAIBO,04,México,,Q
+QA201.6,DRAKE,04,México,,QA
+V0293,DAVID S ALONSO,04,México,,V
+L0481,RASCON,04,México,,L
+K335.6,SOCOMUSCO,04,México,,K
+A1039,EL CENTINELA,04,México,,A
+QA568,EMPALME FF CC NM,04,México,,QA
+XX38.7,CEBADILLA,04,México,,XX
+R0007,CANTU,04,México,,R
+L0516,SAN MATEO,04,México,,L
+DC43.3,TUITAN,04,México,,DC
+N0573,HUARENITZIO,04,México,,N
+RB3,ROSITA,04,México,,RB
+N552.8,TIPITARO,04,México,,N
+XX18.9,AGRARIOS,04,México,,XX
+IB69.9,MORENO,04,México,,IB
+TP0,CERRO DE LA CRUZ,04,México,,TP
+A904,LA SECCION,04,México,,A
+F0133,ALDAMAS,04,México,,F
+B0230,LA FUENTE,04,México,,B
+G0004,SAN MIGUELITO,04,México,,G
+T880.2,PALON BLANCOS,04,México,,T
+F117.7,LA PALMITA,04,México,,F
+A0370,VILLALOBOS,04,México,,A
+I313,VALENCIA,04,México,,I
+FA535.9,HARD,04,México,,FA
+I0308,MAZATEPEC,04,México,,I
+E252.3,CUICATLAN,04,México,,E
+N0125,TEPETITLAN,04,México,,N
+S0318,CORDOBA,04,México,,S
+R0000,PIEDRAS NEGRAS,04,México,,R
+A1446.4,SANTA ROSALIA CAMARGO,04,México,,A
+Q0757,DESCANSO,04,México,,Q
+Z179.6,BIXIDU,04,México,,Z
+T1501,PANTANAL,04,México,,T
+RD208.6,EL REY,04,México,,RD
+VC2.5,CARCARA,04,México,,VC
+S0251,BOCA DEL MONTE,04,México,,S
+U0019,CERRO PRIETO,04,México,,U
+E399.3,TLACOLULA,04,México,,E
+Z0083,GENERAL MIGUEL ALEMAN,04,México,,Z
+T165.5,QUEROBABI,04,México,,T
+V240.6,PIZARRO,04,México,,V
+NF476,TINGAMBATO,04,México,,NE
+QA502.6,MEDANOS,04,México,,QA
+QA160.8,LA HERRADURA,04,México,,QA
+H0037,MAGUIXCO,04,México,,H
+NE101,LAS CRUCES,04,México,,NE
+L0110,SALINAS,04,México,,L
+AB026,VALENTIN,04,México,,AB
+I284.3,LOMAS DE TEJEDA,04,México,,I
+R270.9,GLORIA,04,México,,R
+UB0.6,COMERCIAL,04,México,,UB
+T1325,NUEVO ACAPONETA,04,México,,T
+SC303,TECAMALUCAN,04,México,,SC
+V0338,JALAPA,04,México,,V
+A0876,PACHECO,04,México,,A
+B163.3,SAN JOSE DE ATLAN,04,México,,B
+FX8.1,BALATUN,04,México,,FX
+E366.5,OAXACA,04,México,,E
+Juárez130.9,DAZU,04,México,,Juárez
+FA254.5,MACUSPANA,04,México,,FA
+M0353,BENITEZ,04,México,,M
+S0310,FORTIN,04,México,,S
+RD9.5,POZUELOS,04,México,,RD
+NB60.8,MILPA VIEJA,04,México,,NB
+VK025,EMPALME DISTRITO TEXCOCO,04,México,,VK
+RL13.7,MARTIN G RODRIGUEZ,04,México,,RL
+K17,JUCHITAN,04,México,,K
+K437.4,EL MANZANO,04,México,,K
+B1221,RODRIGUEZ,04,México,,B
+FD54.8,TEKANTO,04,México,,FD
+S0245,ESPERANZA,04,México,,S
+XX29.7,LAGARTERO,04,México,,XX
+IB21.3,FALCONI,04,México,,IB
+HD20.3,CIMA DE TOGO,04,México,,HD
+T0209,CARBO,04,México,,T
+A0518,SANTA MARIA DE ENMEDIO,04,México,,A
+E0088,TLACOTEPEC,04,México,,E
+SC249.3,SAN ANTONIO SOLEDAD,04,México,,SC
+MA41.2,ALVARO OBREGON,04,México,,MA
+DA162.3,AGUA VIEJA,04,México,,DA
+C230.6,NARANJO,04,México,,C
+N360.6,ATAPANEO,04,México,,N
+T1210.1,LABRADOS,04,México,,T
+R0361,ANHELO,04,México,,R
+L0400,LA CINTA,04,México,,L
+A503,PLACA KM A-503,04,México,,A
+B969.6,LOS FIERROS,04,México,,B
+NF458,AGUA VERDE,04,México,,NF
+DA238,VILLA JUAREZ,04,México,,DA
+K7.7,IXTALTEPEC,04,México,,K
+A0319,MOLINO SARABIA,04,México,,A
+M104.7,EL BERNAL,04,México,,M
+T0189,POZA,04,México,,T
+Z134,SUCHILAPA,04,México,,Z
+N0369,EL PIPILA,04,México,,N
+C138.6,EMILIANO ZAPATA,04,México,,C
+UB60.1,CERVECERIA TECATE,04,México,,UB
+Z0017,CALZADAS,04,México,,Z
+AB038,ROSAL,04,México,,AB
+XX59.1,TANCEME,04,México,,XX
+DC247,LAS CUATROCIENEGAS,04,México,,DC
+FD29.7,EUAN,04,México,,FD
+DN28.3,CIENEGA DE LOS CABALLOS,04,México,,DN
+T1560,CONDE,04,México,,T
+VB124,SIGNORET,04,México,,VB
+I0271,INCALPA,04,México,,I
+VC34.1,SAN AGUSTIN HUIXAXTLA,04,México,,VC
+T457,ALGODON,04,México,,T
+T1237.1,ASTENGO,04,México,,T
+B240,NORIA,04,México,,B
+F303.1,CAPOTE,04,México,,F
+EA18.9,CABRAS,04,México,,EA
+VC104.5,LAGUNILLAS,04,México,,VC
+JM120,ARAGON,04,México,,Morelos
+G0069,LA MARGARITA,04,México,,G
+P141.8,PILONCILLOS,04,México,,P
+L378.1,LOS ANTEOJOS,04,México,,L
+T0297,WILLARD,04,México,,T
+FD134.2,XUILUB,04,México,,FD
+HD8.4,HUEYAPAN,04,México,,HD
+S0129,MUNOZ,04,México,,S
+FA294.4,DOS ARROYOS,04,México,,FA
+A0634,PUNTA,04,México,,A
+K62.4,SIDAR,04,México,,K
+U0311,EL SAHUARO,04,México,,U
+K186.2,ESMERALDA,04,México,,K
+K386.9,CHAMULAPA,04,México,,K
+G0295,CAMPO NUEVO,04,México,,G
+H145.5,TONALIXCO,04,México,,H
+T0441,GUASIMAS,04,México,,T
+DN55.2,REBOCIJO,04,México,,DN
+L454.6,ZACATE,04,México,,L
+GB19.8,ALFREDO,04,México,,GB
+BA12.1,MONTELONGO,04,México,,BA
+EB21.9,ZIMATLAN,04,México,,EB
+DC136.1,LA PARADA,04,México,,DC
+A1601,ALBERTO,04,México,,A
+I0227,LA CAPILLA,04,México,,I
+Q0575,SANCHEZ,04,México,,Q
+XX5,PEBERNALES,04,México,,XX
+L82.8,LA HONDA,04,México,,L
+T0308,VEGA,04,México,,T
+DC122.6,VERGELITOS,04,México,,DC
+FS22.3,HOCABA,04,México,,FS
+S0399,MATA LOMA,04,México,,S
+C119.6,CUERNAVACA,04,México,,C
+I0600,TEPALCATES,04,México,,I
+T0983,COSTA RICA,04,México,,T
+B0539,PENASCO,04,México,,B
+DB198.4,SANDIAS,04,México,,DB
+RD217.8,AVANTE AHMSA,04,México,,RD
+H148.7,PEJAY,04,México,,H
+C192.1,EL SUREÑO,04,México,,C
+O10.1,CAREDO,04,México,,O
+Q0648,CHIHUAHUICAME,04,México,,Q
+FA806.9,TEPAKAM,04,México,,FA
+I0493,FERNANDEZ,04,México,,I
+FA624.3,PUSTUNICH,04,México,,FA
+L274.4,POZO,04,México,,L
+T1619,NUEVO GRACIA,04,México,,T
+VC80.8,MIER,04,México,,VC
+I80.4,LA MARAÑA,04,México,,I
+Q0763,LOS POZOS,04,México,,Q
+Q0056,LAGUNITAS,04,México,,Q
+M0185,SAN FRANCISCO,04,México,,M
+DN13.9,TECUAN,04,México,,DN
+N0219,TUNGAREO,04,México,,N
+IB22.7,LOS ANGELES,04,México,,IB
+S0285,NOGALES,04,México,,S
+AC17,GARMA,04,México,,AC
+T1305.2,COPALES,04,México,,T
+T0020,AGUA ZARCA,04,México,,T
+AB055,TECAMATL,04,México,,AB
+B0303,JOCOQUI,04,México,,B
+T0881,PALOS BLANCOS,04,México,,T
+FN18.6,SAN IGNACIO,04,México,,FN
+E302.4,ANONA,04,México,,E
+GA69.4,OTAPA,04,México,,GA
+L385.3,EL DIVISADERO,04,México,,L
+FA417.2,MACTUN,04,México,,FA
+V0331,BANDERILLA,04,México,,V
+GA020,EL TEJAR,04,México,,GA
+C126,PLACA KM C-126,04,México,,C
+N476.9,PARANGUITIRO,04,México,,N
+LB077,EL GUANAME,04,México,,LB
+DB191.3,MANQUEROS,04,México,,DB
+BB37.4,LA CABRA,04,México,,BB
+FA473.5,EL NARANJO,04,México,,FA
+F0076,RAMONES,04,México,,F
+Q261.9,TABALAOPA CHP,04,México,,Q
+TA204,EMPALME AGUA PRIETA,04,México,,TA
+BG38.5,LAS COTUCHAS,04,México,,BG
+A1423.5,FLORIDO,04,México,,A
+A267.4,COACHITI,04,México,,A
+A0511,CASTRO,04,México,,A
+T1314,CONCHA,04,México,,T
+T0391,SANTA ROSA,04,México,,T
+T0067,IMURIS,04,México,,T
+HB015,TLANALAPA,04,México,,HB
+FA354.1,SAN AGUSTIN,04,México,,FA
+C107,ALARCON,04,México,,C
+DB105.9,ALISOS,04,México,,DB
+RA33.6,NOGALERA,04,México,,RA
+L173.8,ARENAL,04,México,,L
+I98,LA MULA,04,México,,I
+T1721,ARENAL,04,México,,T
+L0345,LA BORREGUITA,04,México,,L
+DA219,PLACA KM DA-219,04,México,,DA
+F2.9,LAS PUENTES,04,México,,F
+N0522,ZIRACUARETIRO,04,México,,N
+J71.7,VIESCA,04,México,,J
+DB180.1,HERVIDEROS,04,México,,DB
+VB075,MOYOTZINGO,04,México,,VB
+QA271,CUEVITAS,04,México,,QA
+T0956,CULIACAN,04,México,,T
+JM146,POLOTITLAN,04,México,,Juárez
+EB29.5,SANTA INES YATZECHI,04,México,,EB
+S0413,EL LAURELAL,04,México,,S
+A537.2,ENCARNACIÓN,04,México,,A
+XX36.4,CHAPANCAL,04,México,,XX
+I0612,CAMPOS,04,México,,I
+FA002,COATZACOALCOS,04,México,,FA
+EB15.4,TRINIDAD,04,México,,EB
+B0951,HIGUERAS,04,México,,B
+IC17.6,RANCHO VIEJO,04,México,,IC
+NB56.1,TAMAYO,04,México,,NB
+AE024,GUANAJUATO,04,México,,AE
+FA376.3,ZAPATA,04,México,,FA
+A425,LA MORA,04,México,,A
+N0176,ALBERTO GARDUNOC,04,México,,N
+U0121,LOS PIONEROS,04,México,,U
+HC018,LAS COLONIAS,04,México,,HC
+A0333,SALAMANCA,04,México,,A
+L444.9,ESPINAZO DE DIABLO,04,México,,L
+N0551,TOMENDAN,04,México,,N
+Q490.3,VERGEL,04,México,,Q
+M9.8,GERMINAL,04,México,,M
+T1175,MAZATLAN,04,México,,T
+IB91.2,COMANJA,04,México,,IB
+B0994,ALKALI,04,México,,B
+L0657,TAMOS,04,México,,L
+Q0564,CREEL,04,México,,Q
+T1295,PALMAR,04,México,,T
+BB15.9,SAN ISIDRO,04,México,,BB
+A1412,DIAZ,04,México,,A
+T504.9,BACUM,04,México,,T
+VC108.6,ORGANO,04,México,,VC
+IC22.8,EL ZORRILLO,04,México,,IC
+VC69.4,CARALES,04,México,,VC
+Q0551,BOCOYNA,04,México,,Q
+G0089,CHICALON,04,México,,G
+NE012,GAMBARA,04,México,,NE
+E234.2,QUIOTEPEC,04,México,,E
+B705.6,POBLAZON,04,México,,B
+TA146,CUAUHTEMOC,04,México,,TA
+TA157.6,MINA ORO,04,México,,TA
+Q747.2,JESUS CRUZ,04,México,,Q
+B1012,LEONA,04,México,,B
+B0926,ROJAS,04,México,,B
+VC17.6,TECUANIPAN,04,México,,VC
+VC50.1,TRONCONAL,04,México,,VC
+B0847,GOMEZ FARIAS,04,México,,B
+U48.8,RIO COLORADO,04,México,,U
+B1036,TOPO,04,México,,B
+JM215,FERROSERVICIOS,04,México,,Juárez
+Q461.1,MIRACA,04,México,,Q
+K354.3,ZACUALPA,04,México,,K
+DB51.3,LA GRANJA,04,México,,DB
+VB120,AMALUCAN,04,México,,VB
+NE046,LOS RANCHOS,04,México,,NE
+V0285,LAS VIGAS,04,México,,V
+S0221,SAN ANDRES,04,México,,S
+L417.5,LA BOMBA,04,México,,L
+IN030,VILLACHUATO,04,México,,IN
+O60.3,TUXPAN,04,México,,O
+E382.9,GUENDULAIN,04,México,,E
+ZA012,MINATITLAN,04,México,,ZA
+QA225.1,CUMBRE,04,México,,QA
+S0033,TEPEXPAN,04,México,,S
+VB094,CORONANGO,04,México,,VB
+I0106,PATTI,04,México,,I
+QA17.6,SAN ISIDRO,04,México,,QA
+VB051,DOLORES,04,México,,VB
+K315,BARRANCON,04,México,,K
+XX22,PALACHO,04,México,,XX
+A808.1,EL SAUCILLO,04,México,,A
+DB30.3,CARPINTERO,04,México,,DB
+T1547,CERRO PELON,04,México,,T
+FX14.2,TINUN,04,México,,FX
+B1142,GOLONDRINA,04,México,,B
+SA44.8,PUEBLA,04,México,,SA
+BC159.7,SAN FELIPE,04,México,,BC
+TS008,CERRO LA CRUZ,04,México,,TS
+RD314.3,MERCURIO,04,México,,RD
+FA840.9,KOPOMA,04,México,,FA
+I0167,LIMON,04,México,,I
+R0417,RIO,04,México,,R
+VC35.5,TEJALUCA,04,México,,VC
+A1135,TORREON,04,México,,A
+R165.6,LECHUGUILLA,04,México,,R
+IC24,GASPAR,04,México,,IC
+A1225,CONEJOS,04,México,,A
+M0551,ABASOLITO,04,México,,M
+L0059,LORETO,04,México,,L
+I0565,TECOMAN,04,México,,I
+A1066,JIMULCO,04,México,,A
+IN057,PANINDICUARO,04,México,,IN
+K52,SAN DIONICIO,04,México,,K
+HD28.6,AHUAZOTEPEC,04,México,,HD
+FA651.8,ARELLANO,04,México,,FA
+A1149,NOE,04,México,,A
+Morelos0,BUENAVISTA,04,México,,Morelos
+DE128,LOS NEGROS,04,México,,DE
+R0158,AURA,04,México,,R
+T0417,EMPALME,04,México,,T
+DB64.4,POZOLE,04,México,,DB
+F21.1,PALMA,04,México,,F
+H0028,XOLOX,04,México,,H
+T591.2,MARGARITA,04,México,,T
+DB147.8,HUIZACHE,04,México,,DB
+FA425.4,EL AGUILA,04,México,,FA
+T1196,PRESIDIO,04,México,,T
+K319.9,SESECAPA,04,México,,K
+B0314,ESCOBEDO,04,México,,B
+Q586.4,FEDERICO LOPEZ,04,México,,Q
+M338.3,CIMA,04,México,,M
+E0032,CARTAGO,04,México,,E
+B0320,COMONFORT,04,México,,B
+A1490,SAUCILLO,04,México,,A
+U141.1,TORRES BURCIGA,04,México,,U
+Q0760,INGENIERO LUIS COVA,04,México,,Q
+T1491,TEPIC,04,México,,T
+P155.1,ROSARIO,04,México,,P
+NB72.9,SANTA RITA,04,México,,NB
+QA223.2,AGUILAR,04,México,,QA
+VC29.6,MOLINOS,04,México,,VC
+L473.7,ABACATAN,04,México,,L
+R334,LA POPA,04,México,,R
+A1499,ARMENDARIZ,04,México,,A
+G0056,LA ESTRELLA,04,México,,G
+T67,PIERSON,04,México,,T
+B838.5,LA ZACATERA,04,México,,B
+V0448,VARGAS,04,México,,V
+I137.9,VILLA NUEVA,04,México,,I
+H126,HUAPALCALCO,04,México,,H
+I0118,MONTELEON,04,México,,I
+RD82.6,DIVISADERO,04,México,,RD
+A1621,CUILTY,04,México,,A
+M0478,PEDRO C MORALES,04,México,,M
+M654.4,SAUCEDA,04,México,,M
+FA016,EL CHAPO,04,México,,FA
+P119.7,BORJAS,04,México,,P
+E314.6,ESCONDIDA,04,México,,E
+M548,CHIMPINQUE,04,México,,M
+L0021,CANADA,04,México,,L
+U0057,COAHUILA,04,México,,U
+C73.2,TEZOYO,04,México,,C
+M0872,GREGORIO GARCIA,04,México,,M
+C180.4,PUENTE DE IXTLA,04,México,,C
+L40.5,SAN JUAN DEL RIO,04,México,,L
+V0455,SANTA FE AMIGO,04,México,,V
+QA81.3,MAULAS,04,México,,QA
+IC25,LA ESPERANZA,04,México,,IC
+Z0076,ALMAGRES,04,México,,Z
+TA013,MASCARENAS,04,México,,TA
+NE072,LAS CANAS,04,México,,NE
+L0051,SAN GIL,04,México,,L
+F112.7,LA LAJA,04,México,,F
+V0253,TOTALCO,04,México,,V
+RD323.2,LORENZO,04,México,,RD
+GA0,VERACRUZ,04,México,,GA
+G108,GRANJA,04,México,,G
+BC154,MELCHOR,04,México,,BC
+B253.4,CONEXION LINEA MORELOS,04,México,,B
+S0153,ACOCOTLA,04,México,,S
+N0534,TARETAN,04,México,,N
+M0277,CRUZ Y CRUZ,04,México,,M
+M0259,OTILLO MONTANO,04,México,,M
+DC126.1,SAN PASCUAL,04,México,,DC
+QA10.3,BASUCHIL,04,México,,QA
+O39.9,OYAMEL,04,México,,O
+N593.6,EL MARQUES,04,México,,N
+ND9.8,EL ORO,04,México,,ND
+U120.5,LOS PIOMEROS,04,México,,U
+BC029,CHICHIMEQUILLAS,04,México,,BC
+A1561,FRANCISCO VILLA,04,México,,A
+Q549.3,POBLADO BOCOYNA,04,México,,Q
+N232.9,NICOLASITO,04,México,,N
+G0229,BARRANCA,04,México,,G
+B105.4,MAGUA,04,México,,B
+EB52.2,LA CIMA,04,México,,EB
+M48,EL ESFUERZO,04,México,,M
+BF009,LOS GARCIA,04,México,,BF
+R0117,SABINAS,04,México,,R
+UB60.5,TECATE,04,México,,UB
+FA802.4,CALKINI,04,México,,FA
+S411.7,LAURELAL,04,México,,S
+DA54.8,FRANCISCO I MADERO,04,México,,DA
+C61.4,CIMA,04,México,,C
+Q0921,LOS MOCHIS,04,México,,Q
+GF011,SILVERIO,04,México,,GF
+VB153,IXTENCO,04,México,,VB
+AB022,TETEPANGO,04,México,,AB
+I149.6,SALAMEA,04,México,,I
+S0045,TEOTIHUACAN,04,México,,S
+MA84.7,ATASCADOR,04,México,,MA
+B86.6,NUEVO CARRASCO,04,México,,B
+NB13.9,CHAMACUARO,04,México,,NB
+DC52.4,BREÑA,04,México,,DC
+R0144,BARROTERAN,04,México,,R
+NB040,LA MONCADA,04,México,,NB
+A564.3,PERUELAS,04,México,,A
+V153.6,MENA,04,México,,V
+IN076,VISCOSA,04,México,,IN
+TA288,VIGIA,04,México,,TA
+BG43.6,JAZMINAL,04,México,,BG
+RC20.1,EL CEDRO,04,México,,RC
+G0052,REFUGIO,04,México,,G
+Q881.5,SUFRAGIO,04,México,,Q
+L0367,VIEJO,04,México,,L
+RD228.5,EMPALME SIERRA MOJADA,04,México,,RD
+T1413,NANCHI,04,México,,T
+DB131.7,CHINACATES,04,México,,DB
+TA223,CABULLONA,04,México,,TA
+Q0423,CIMA,04,México,,Q
+S0226,SAN PEDRO,04,México,,S
+A1134.2,TORREON PASS,04,México,,A
+M0398,HUERTAS,04,México,,M
+DC22.6,REGISTRO,04,México,,DC
+F307.3,TIMONES,04,México,,F
+DA252.7,ALIANZA,04,México,,DA
+FA701.6,MUCUYCHACAN,04,México,,FA
+N216.6,APEO,04,México,,N
+DC253.8,LA VIEJA,04,México,,DC
+BB34.9,LAS TUZAS,04,México,,BB
+UB59.8,ESTACION TECATE,04,México,,UB
+J45.5,CLAUDIO,04,México,,J
+IN092,COMANJA,04,México,,IN
+T0129,LLANO,04,México,,T
+M0266,SANTA ENGRACIA,04,México,,M
+N0391,JACUARO,04,México,,N
+E0094,TLACOYALCO,04,México,,E
+QA463.5,SAN BLAS,04,México,,QA
+E386.9,ABASOLO,04,México,,E
+VC38.3,ATLIXCO,04,México,,VC
+A1158.8,NOE,04,México,,A
+NB67.2,BOULEVARD CELAYA,04,México,,NB
+FA154.8,CAMOAPA,04,México,,FA
+DA97.4,LUIS MOYA,04,México,,DA
+TI009,BACHIGUALATO,04,México,,TI
+A1671.6,PIRALE,04,México,,A
+Morelos135,PACHUQUILLA,04,México,,Morelos
+V0162,XICOTENCATL,04,México,,V
+IB65.5,VILLA JIMENEZ,04,México,,IB
+K375,HUIXTLA,04,México,,K
+A914.9,DPAL,04,México,,A
+U0239,PUERTO PENASCO,04,México,,U
+RK15.9,SIERRA MOJADA/ESMERALDA,04,México,,RK
+S0282,ENCINAR,04,México,,S
+M146.4,ESCANDON,04,México,,M
+QA215.9,CHICO,04,México,,QA
+I0559,CALERAS,04,México,,I
+I0423,CIUDAD GUZMAN,04,México,,I
+B0214,SAN NICOLAS,04,México,,B
+C74.1,TRES CUMBRES,04,México,,C
+B0814,HURON,04,México,,B
+RD233.5,RINCON,04,México,,RD
+V393,TIGRILLOS,04,México,,V
+QA244.9,AGUAJE,04,México,,QA
+TA324.5,NACOZARI,04,México,,TA
+IB62.6,ZIPIMEO,04,México,,IB
+K14.8,LA PLANTA,04,México,,K
+A1309,ASUNSOLO,04,México,,A
+L0190,JULIAN CARRILLO,04,México,,L
+TA024,SANTA BARBARA,04,México,,TA
+DA147.7,PASAJE,04,México,,DA
+L349,EL TEJOCOTE,04,México,,L
+L0301,VILLAR,04,México,,L
+E283.2,VENADO,04,México,,E
+I0180,OCOTLAN,04,México,,I
+QA446.8,GUZMAN,04,México,,QA
+V0062,METEPEC,04,México,,V
+IB46.4,CURIMEO,04,México,,IB
+A0448,PEDRITO,04,México,,A
+Z175.8,SARABIA,04,México,,Z
+G0099,EL CIEN,04,México,,G
+FA387.1,BOCA DEL CERRO,04,México,,FA
+GB24.9,EL ROBLE,04,México,,GB
+EA15.5,CARMEN,04,México,,EA
+G0014,CERRO BLANCO,04,México,,G
+C146,TETECALITA,04,México,,C
+TH030,GUASAVE,04,México,,TH
+TA312.2,PURICA,04,México,,TA
+V26.5,SAN VICENTE,04,México,,V
+NB070,OCTOPAN,04,México,,N
+FA894.4,MERIDA,04,México,,FA
+EA30.6,LA DEFENSA,04,México,,EA
+A0263,MARISCALA,04,México,,A
+T0505,LAGUNA,04,México,,T
+NB080,SAN JUAN DE LA VEGA,04,México,,NB
+V29,CUAUTLALPAN,04,México,,V
+A0861,URBIETA,04,México,,A
+K453.5,LOS FIDELES,04,México,,K
+K26,GENERAL CHARIS,04,México,,K
+P0,CONEXION DISTRITO PARRAL,04,México,,P
+R0220,ADJUNTAS,04,México,,R
+V0416,TAMARINDO,04,México,,V
+NB032,CORRAL,04,México,,NB
+V0218,ORIENTAL,04,México,,V
+EB26.5,SAN PABLO,04,México,,EB
+K143,AURORA,04,México,,K
+QA189.2,OJO,04,México,,QA
+N221.3,EL JEJERO,04,México,,N
+N620.5,EL JUNCO,04,México,,N
+R397.8,LOS IXTLES,04,México,,R
+G0201,AZUETA,04,México,,G
+GA095,FULGENCIO D VASQUEZ,04,México,,GA
+I465.8,PLATANAR,04,México,,I
+N524.7,PATUAM,04,México,,N
+N0222,MELCHOR OCAMPO,04,México,,N
+Z0072,OLGLICA,04,México,,Z
+A1588.9,MAPULA,04,México,,A
+FA168.9,JUAREZ,04,México,,FA
+IB87.8,EL CORTIJO,04,México,,IB
+S0201,RINCONADA,04,México,,S
+EB53.7,TAVICHE,04,México,,EB
+C189.5,CAJONES,04,México,,C
+DB128.4,LAS FLORES,04,México,,DB
+M166.8,FORLON,04,México,,M
+EB19.2,CIENEGA DE LOS CABALLOS,04,México,,EB
+A0383,SILAO,04,México,,A
+R0304,JOYA,04,México,,R
+G0078,TETELA,04,México,,G
+Z302.1,SALINA CRUZ,04,México,,Z
+DC143.7,ABREGO,04,México,,DC
+N615.5,ANTUNEZ,04,México,,N
+Q329.9,NOPALERA,04,México,,Q
+V244.6,ARTESIANO,04,México,,V
+A1709,OJO LAGUNA,04,México,,A
+MA0,CALLES,04,México,,MA
+S0093,APAN,04,México,,S
+VB080,LA POSTA,04,México,,VB
+Q503,PICHACHIC,04,México,,Q
+N539.7,LA PURISIMA,04,México,,N
+T0770,ZEFERINO PAREDES,04,México,,T
+FN12.4,YAXCHE,04,México,,FN
+EB9.8,JALPAN,04,México,,EB
+M0422,MONTEMORELOS,04,México,,M
+A708.2,EL BRILLO,04,México,,A
+L0662,PRIETO,04,México,,L
+FD73,SITILPECH,04,México,,FD
+L0545,EL ABRA,04,México,,L
+B100,ENDO,04,México,,B
+VC94.3,CHIETLA,04,México,,VC
+T0721,CANEDO,04,México,,T
+B0853,SAN MIGUEL,04,México,,B
+C264.2,TLANIPANTLAN,04,México,,C
+Q0822,INGENIERO HERIBERTO VALDEZ,04,México,,Q
+P122.5,RONSESVALLES,04,México,,P
+V107.9,VELOZ,04,México,,V
+O34,ALVARADO,04,México,,O
+FA106.5,MOSQUITERO,04,México,,FA
+K347.9,ZORRILLO,04,México,,K
+IB86.6,LA SOLEDAD,04,México,,IB
+E0043,AJAJALPAN,04,México,,E
+N0040,LA CIMA,04,México,,N
+T0106,SANTA ANA,04,México,,T
+C57.2,PARRES,04,México,,C
+L89.3,LA OLMA,04,México,,L
+IN066,VILLA JIMENEZ,04,México,,IN
+Z143.1,UBERO,04,México,,Z
+F0190,NUEVO CADILLO,04,México,,F
+O54,HERNANDEZ,04,México,,O
+F0330,MATAMOROS,04,México,,F
+I303.6,CRUZ VIEJA,04,México,,I
+SA026,TEOLOCHOLCO,04,México,,SA
+N0486,CONUY,04,México,,N
+A1095,PICARDIAS,04,México,,A
+C200.7,SANTA FE,04,México,,C
+R0254,DOLOMITA,04,México,,R
+GF5.6,BELA,04,México,,GF
+IN0,PENJAMO,04,México,,IN
+DA26.8,EL SALVADOR,04,México,,DA
+FA615.7,CARRILLO PUERTO,04,México,,FA
+M0786,CERES,04,México,,M
+FD173.8,TIZIMIN NUEVO,04,México,,FD
+TF008,GUAYMAS,04,México,,TF
+XX26,QUEBRACHE,04,México,,XX
+N403.8,SAN JOSE COAPA,04,México,,N
+QA314.8,ACHONDO,04,México,,QA
+B150,MEJIA,04,México,,B
+RD304.5,LA MORITA,04,México,,RD
+N0145,MANTO,04,México,,N
+F0008,LAGRANGE,04,México,,F
+PB012,SAN FRANCISCO DEL O,04,México,,PB
+VC57.2,TERUEL,04,México,,VC
+F0199,VALADECES,04,México,,F
+E150,LIMITE TERRITORIAL,04,México,,E
+Q0856,NOROTES,04,México,,Q
+M534.2,GENERAL ESCOBEDO,04,México,,M
+GA67.4,COSPALAPAM,04,México,,GA
+B0918,ALMACENES,04,México,,B
+LJ230,LA GRIEGA,04,México,,Juárez
+B0525,SAN LUIS POTOSI,04,México,,B
+Z164.3,PASO DE BUQUES,04,México,,Z
+L70,GENARO,04,México,,L
+B0485,VILLA DE REYES,04,México,,B
+BB5.8,VANEGAS DE ABAJO,04,México,,BB
+Z19.5,HORACIO P. SANCHEZ,04,México,,Z
+A0779,MENDOZA,04,México,,A
+RA29.9,DAVILA,04,México,,RA
+I0013,COVARRUBIAS,04,México,,I
+A0565,PENUELAS,04,México,,A
+DB165.5,SANTIAGO PAPASQUIARO,04,México,,DB
+T0688,DON,04,México,,T
+P75,BOMERA,04,México,,P
+DC77.8,PARRILLA,04,México,,DC
+A62.3,EL SALTO,04,México,,A
+C194.5,CASAHUATLAN,04,México,,C
+B0631,CHARCAS,04,México,,B
+I300.7,TEPETATES,04,México,,I
+GA042,GUAYABO,04,México,,GA
+Q114.3,PULPITO,04,México,,Q
+L487,SAN DIEGUITO,04,México,,L
+B0924,RUBEN JARAMILLO,04,México,,B
+BB46.5,MATEHUALA,04,México,,BB
+K450.4,LA GLORIA,04,México,,K
+S0394,MANLIO FAVIO ALTAMIRANO,04,México,,S
+VB050,LAGUNITAS,04,México,,VB
+A0686,SAN GERONIMO,04,México,,A
+B682.6,CORONADOS,04,México,,B
+T0321,TORRES,04,México,,T
+DB192.4,LOS CORRALES,04,México,,DB
+VC125.8,GARCIA,04,México,,VC
+R0039,NAVAS,04,México,,R
+Q381.6,COLONIA ANAHUAC,04,México,,Q
+TC000,AGUA PRIETA,04,México,,TC
+E0102,TEMALACAYUCA,04,México,,E
+B1261,JARITA,04,México,,B
+BC128,PARRITAS,04,México,,BC
+A431.9,SAN FRANCISCO DEL,04,México,,A
+QA183.1,BABICORA,04,México,,QA
+EB39,OCOTLAN,04,México,,EB
+L574.5,EL COCO,04,México,,L
+E244.3,LOS OBOS,04,México,,E
+SA030,AYOMETLA,04,México,,SA
+I0159,FELICIANO,04,México,,I
+M132.1,PRETIL,04,México,,M
+F50.7,MILPA,04,México,,F
+LJ058,HIDALGO TILH,04,México,,L
+M262.2,MARTINEZ,04,México,,M
+FP130,KAXAYTUC,04,México,,FP
+K329.3,EL PATASTE,04,México,,K
+N0015,RIO HONDO,04,México,,N
+Z283.5,TEHUANTEPEC,04,México,,Z
+R78.6,LAS BLANCAS,04,México,,R
+UB32.6,ESPUELA STAR GAS,04,México,,UB
+QA171.3,COLONIA AÑO DE HIDALGO,04,México,,QA
+T0224,SELVA,04,México,,T
+I0435,HUESCALAPA,04,México,,I
+M0733,TIZOC,04,México,,M
+K364.3,SALTILLO,04,México,,K
+J22.8,AGUANAVAL,04,México,,J
+RD140.6,AROCHA,04,México,,RD
+E173.9,NOPALA,04,México,,E
+V98.8,CAMPERO,04,México,,V
+M700.6,BRISA,04,México,,M
+B21.7,LECHERÍA,04,México,,B
+VB038,ARROYO,04,México,,VB
+I0092,LA PIEDAD,04,México,,I
+DE17,PLACA KM DE-17,04,México,,DE
+L277.9,LOS VENADITOS,04,México,,L
+Q0074,VOLCANES,04,México,,Q
+M883.8,VIREDO,04,México,,M
+FS35.2,HUHI,04,México,,FS
+A0722,MORELOS,04,México,,A
+DC166.3,EL ARENAL,04,México,,DC
+G0054,RANCHO TABLAS,04,México,,G
+H128.4,SOTOTLAN,04,México,,H
+AB031,EL GORRION,04,México,,AB
+DB101,ESFUERZOS UNIDOS,04,México,,DB
+FA364.3,CHACAMAX,04,México,,FA
+M0743,CACAMA,04,México,,M
+Z157.8,TOLOSITA,04,México,,Z
+G0058,GUADALUPE DE REYES,04,México,,G
+K231.2,RICARDO FLORES MAGON,04,México,,K
+V383.6,SOUTER,04,México,,V
+IN134.8,AJUNO,04,México,,IN
+I267.5,MOJONERA,04,México,,I
+R406.7,ZERTUCHE,04,México,,R
+FA347.7,LACANDON,04,México,,FA
+T0757,ALGODON,04,México,,T
+T1666,MAGDALENA,04,México,,T
+B1042,LEAL,04,México,,B
+R0133,SAN FERNANDO,04,México,,R
+F317,LA GLORIA,04,México,,F
+V0228,VARELA,04,México,,V
+FA871.8,UMAN,04,México,,FA
+I472.7,HIGUERA,04,México,,I
+B0595,MOCTEZUMA,04,México,,B
+RA113,CUEVITAS,04,México,,RA
+E0105,TEPANCO,04,México,,E
+T1444,CORTE,04,México,,T
+S0323,PENUELA,04,México,,S
+E166.3,SAN SEBASTIAN,04,México,,E
+B0999,DURAZNO,04,México,,B
+T1280.6,BACHO,04,México,,T
+E309,PARIAN,04,México,,E
+DB35.4,EL SABALO,04,México,,DB
+XX23.3,CARBONO,04,México,,XX
+B0078,BOJAY,04,México,,B
+A0600,CHICALOTE,04,México,,A
+FP75,TICUL,04,México,,FP
+T0563,FUNDICION,04,México,,T
+DA101.8,PROGRESO,04,México,,DA
+L93.7,PERON BLANCO,04,México,,L
+FP27.5,ACANCEH,04,México,,FP
+QA301.4,MAYA ORTIZ,04,México,,QA
+FP10,KANASIN,04,México,,FP
+Q0791,LORETO,04,México,,Q
+G0237,RODRIGUEZ CLARA,04,México,,G
+MA126.6,TAMUIN,04,México,,MA
+JM077,TULA,04,México,,Morelos
+M500,LIMITE TERRITORIAL,04,México,,M
+Z0064,OJAPA,04,México,,Z
+A1750.3,GALLEGO,04,México,,A
+I215.6,CORONA,04,México,,I
+SC289,ACULTZINGO,04,México,,SC
+L0565,TAMUIN,04,México,,L
+I0024,JOAQUIN,04,México,,I
+T1015,OSO,04,México,,T
+HE19.8,APULCO,04,México,,HE
+Z165.1,PALOMARES,04,México,,Z
+F141.2,DOCTOS COSS,04,México,,F
+K430.6,LOS TOROS,04,México,,K
+A1550,BACHIMBA,04,México,,A
+M0452,EMILIANO CARRANZA,04,México,,M
+Z232,PLACA KM Z-232,04,México,,Z
+L507.8,PAGO PAGO,04,México,,L
+T0257,ZAMORA,04,México,,T
+I547.2,MADRID,04,México,,I
+DC228,INDIOS,04,México,,DC
+FA275.7,EL CEIBO,04,México,,FA
+T1121,POZOLE,04,México,,T
+EA39.2,SN ANTONIO SOLEDAD,04,México,,EA
+T1262,ESCUINAPA,04,México,,T
+RD247.7,ESTANQUE,04,México,,RD
+VC5.4,CHOLULA,04,México,,VC
+Q0413,CASA COLORADA,04,México,,Q
+S0232,SANTA MARIA TECHICALCO,04,México,,S
+B0160,HUICHAPAN,04,México,,B
+S0104,TETLAPAYAC,04,México,,S
+VC35.2,SAN FELIX,04,México,,VC
+I571.3,ARMERIA,04,México,,I
+UB4.7,AGUA CALIENTE,04,México,,UB
+DN5.6,NAVIOS VIEJOS,04,México,,DN
+V47,AZTECA,04,México,,V
+DN26.5,LA VENADA,04,México,,DN
+A0279,APASEO,04,México,,A
+TE018,LA CAMPANA,04,México,,TE
+A0982,SYMON,04,México,,A
+Q0681,IRIGOYEN,04,México,,Q
+G0028,OMEALCA,04,México,,G
+FA340.7,SAN MARCOS,04,México,,FA
+A357.9,ARANDAS,04,México,,A
+E265.2,ORGANAL,04,México,,E
+N385,COINZTZIO,04,México,,N
+Z105.4,MACAYA,04,México,,Z
+G0159,BENEMERITO JUAREZ,04,México,,G
+T0011,ENCINA,04,México,,T
+FA0,POXILA,04,México,,FA
+V423.6,PASO DE VARAS,04,México,,V
+P0109,EMPALME DISTRITO SANTA BARBARA,04,México,,P
+K284.1,MARGARITAS,04,México,,K
+S235.6,JESUS NAZARENO,04,México,,S
+K452,EL DORADO,04,México,,K
+V0045,ROBLES,04,México,,V
+O66.6,SIRAHUATO,04,México,,O
+A1300,ESCALON,04,México,,A
+DB85.5,LAS OLAS,04,México,,DB
+TM33.6,ETZATLAN,04,México,,TM
+VC87.2,COLON,04,México,,VC
+TM010,EL CARMEN,04,México,,TM
+TA054,SANTA CRUZ,04,México,,TA
+NE128,INGENIERO J M AGUIRRE,04,México,,NE
+VB024,TEPUENTE,04,México,,VB
+XX44.2,SAN CARLOS,04,México,,XX
+TA86,ALAMO GORDO,04,México,,TA
+C46.2,AJUSCO,04,México,,C
+M822.2,NAZAS,04,México,,M
+B1121.3,BUSTAMANTE,04,México,,B
+K53.9,LA RIQUEZA,04,México,,K
+B0901,ANGOSTURA,04,México,,B
+G0264,LA CEIBA,04,México,,G
+FA596.1,PIXOYAL,04,México,,FA
+V294.7,LOMA DE TABLAS,04,México,,V
+S0015,XALOSTOC,04,México,,S
+EB3.1,XOXO,04,México,,EB
+K383.7,ISLAMAPA,04,México,,K
+GA073,MORENO NORTE,04,México,,GA
+I141.4,EL ALVARESO,04,México,,I
+V0323,DEHESA,04,México,,V
+B0930,RAMOS ARIZPE,04,México,,B
+QA293.8,SANTA ROSA,04,México,,QA
+G0038,EL PARAISO,04,México,,G
+B50.5,EMBARCADERO,04,México,,B
+FA714,CHINA,04,México,,FA
+N0504,CALTZONTZIN,04,México,,N
+A1973,CIUDAD JUAREZ,04,México,,A
+H121.9,TULANCINGO,04,México,,H
+A1142,GOMEZ PALACIO,04,México,,A
+K80,REFORMA,04,México,,K
+L37.4,VILLA JUAREZ,04,México,,L
+A0053,TLALTEPOXCO,04,México,,A
+E340.1,MIXTECA,04,México,,E
+RD138.8,ZACATOZA,04,México,,RD
+RD166.6,LA CURVA,04,México,,RD
+N0304,ALVAREZ,04,México,,N
+T1455,MANGO,04,México,,T
+M0626,LAS MORAS,04,México,,M
+H0061,SAN AGUSTIN,04,México,,H
+V175.4,KIUMICHO,04,México,,V
+M0566,VILLA MINA,04,México,,M
+K259,URBINA,04,México,,K
+TA314,HIDALGO,04,México,,TA
+S0307,METLAC,04,México,,S
+DC9.9,DALILA,04,México,,DC
+T1596,AHUACATLAN,04,México,,T
+B0084,TEOCALCO,04,México,,B
+B0027,CUAUTITLAN,04,México,,B
+B0554,PINTO,04,México,,B
+VC24.5,SAN MARTIN TLAMAPA,04,México,,VC
+T150,BEJAMIN HILL,04,México,,T
+C21.9,OLIVAR,04,México,,C
+K123.3,ELIAS CASTRO ORTEGA,04,México,,K
+A451.1,CAROLINA,04,México,,A
+T1355,BONITA,04,México,,T
+L0639,CHILA,04,México,,L
+FD18.6,TIXPEUAL,04,México,,FD
+S0256,GALERA,04,México,,S
+DE85.2,PURISIMA,04,México,,DE
+NB17.7,SAN AGUSTIN,04,México,,NB
+IN047,CURIMEO,04,México,,IN
+FA830.9,MAXCANU,04,México,,FA
+A1854.8,JUAN JOSE,04,México,,A
+A0021,LECHERIA,04,México,,B
+B0329,RINCONCILLO,04,México,,B
+QA86.7,TEMOSACHIC,04,México,,QA
+A0681,TRANCOSO,04,México,,A
+G13,LOS ANGELES,04,México,,G
+T1764.5,GUADALAJARA FCP,04,México,,T
+A289.5,CRUCERO A CELAYA,04,México,,A
+VB139,ACAJETE,04,México,,VB
+M0372,LINARES,04,México,,M
+B1010,SANTA CATARINA,04,México,,B
+GA083,JICARO,04,México,,GA
+JM055,TLALTEPOXCO,04,México,,Morelos
+Q349,SAN ANDRES,04,México,,Q
+IC34.4,ATOTONILCO,04,México,,IC
+I407.3,NICOLAS,04,México,,I
+N543,CHUPANGUJO,04,México,,N
+FA515.3,LUNA,04,México,,FA
+S0278,BALASTRERA,04,México,,S
+T0526,ESPERANZA,04,México,,T
+Q625.9,POSADA BARRANCAS,04,México,,Q
+L646.9,OCHOA,04,México,,L
+A1248,YERMO,04,México,,A
+T450.2,MAPOLI,04,México,,T
+FP59.8,HUNASCHEN,04,México,,FP
+K444.3,EJIDO 20 DE NOVIEMBRE,04,México,,K
+GF020,PRESIDENTE JUAREZ,04,México,,GF
+A0271,EL TUNAL,04,México,,A
+FA555.9,ESCARCEGA,04,México,,FA
+O3.4,CHAMUCO,04,México,,O
+E0118,CARNERO,04,México,,E
+V0317,SAN MIGUEL,04,México,,V
+A80,TULA CGA,04,México,,A
+L0163,IPINA,04,México,,L
+QA260.2,RIBA,04,México,,QA
+Juárez57.4,TLALTEPOXCO,04,México,,Juárez
+K216.3,ANDRES,04,México,,K
+I112.7,MIRANDILLAS,04,México,,I
+FA111.8,ZANAPA,04,México,,FA
+FA315.6,LA UNION,04,México,,FA
+Q0381,ANAHUAC,04,México,,Q
+A1006,LA MANCHA,04,México,,A
+RD59,PLACA KM AD-59,04,México,,RD
+N555.6,LAS PILAS,04,México,,N
+T0558,VELDERRAIN,04,México,,T
+FP49,XCANCHAKAN,04,México,,FP
+S164.4,HUAMATLAN,04,México,,S
+TA167,NACO,04,México,,TA
+HD5.6,CUAUTEPEC,04,México,,HD
+G0033,POCITOS,04,México,,G
+DC192.6,SANTA MONICA,04,México,,DC
+G0076,EL CANAVERAL,04,México,,G
+HD33.4,BERISTAIN,04,México,,HD
+K449.8,EL SILENCIO,04,México,,K
+M254.3,CARBONERO,04,México,,M
+A1027,CALVO,04,México,,A
+Z0037,CHINAMECA,04,México,,Z
+FA396.3,TENOSIQUE,04,México,,FA
+NB021,GUZMAN,04,México,,NB
+MB18,PUERTO INDUST. ALTAMIRA,04,México,,MB
+N446.3,SAN PABLO,04,México,,N
+K404.7,22 DE MAYO,04,México,,K
+M240.9,LA MISION,04,México,,M
+F0257,ALACRANES,04,México,,F
+M0711,MARTE,04,México,,M
+E0078,LAS ANIMAS,04,México,,E
+NB029,SALVATIERRA,04,México,,NB
+B988.2,GARCIA,04,México,,B
+B0721,VANEGAS,04,México,,B
+EA23.5,LLANO GRANDE DE LINARES,04,México,,EA
+HD0.3,VENTOQUIPA,04,México,,HD
+T0006,NOGALES,04,México,,T
+T1762,GUADALAJARA,04,México,,T
+B246.7,CRUCERO A VIBORILLAS,04,México,,B
+A0585,AGUASCALIENTES,04,México,,A
+T0889,TECHA,04,México,,T
+M0055,CUAUHTEMOC,04,México,,M
+S0292,ORIZABA,04,México,,S
+EB6.1,SAN ISIDRO,04,México,,EB
+P38,BACA,04,México,,P
+J51.2,OJO DE AGUA,04,México,,J
+V76.3,EL MAGUEYAL,04,México,,V
+DA114,PLACA KM DA-114,04,México,,DA
+N455.3,LAGO ZIRAHUEN,04,México,,N
+V0469,VERACRUZ,04,México,,V
+QA100.3,YEPOMERA,04,México,,QA
+A1544.2,HONDONADA,04,México,,A
+M0539,MONTERREY FERROMEX,04,México,,M
+TL22.5,CUICILLOS,04,México,,TL
+I0050,PENJAMO,04,México,,I
+VB169.5,SEBMA,04,México,,VB
+I0192,EL GRANDE,04,México,,I
+J26,ESPUELA ARENERA,04,México,,J
+VC51.9,CHAMPUSCO,04,México,,VC
+T0291,CALERA,04,México,,T
+UB0.2,TIJUANA,04,México,,UB
+Z0031,HIBUERAS,04,México,,Z
+N400.1,TIRIPETIO,04,México,,N
+G0059,SIERRA MOJARRA,04,México,,G
+G299.9,MEDIAS AGUAS,04,México,,G
+Morelos215.5,AHORCADO,04,México,,Morelos
+B248.6,LA GRIEGA,04,México,,B
+Q0237,ALDAMA,04,México,,Q
+S0272,MALTRATA,04,México,,S
+NE184,LAZARO CARDENAS,04,México,,NE
+Q0533,SAN JUANITO,04,México,,Q
+L178.6,EL VIEJO,04,México,,L
+GF016,TUXTEPEC,04,México,,GF
+DE102.7,LLANO PIOCODE,04,México,,DE
+M722.7,VENUS,04,México,,M
+M313.1,GRANDE,04,México,,M
+Z0061,MINA MANA,04,México,,Z
+I530.6,CONQUINATLAN PUEBLO,04,México,,I
+V0078,AGUATEPEC,04,México,,V
+S0110,SOLTEPEC,04,México,,S
+N0187,CONTEPEC,04,México,,N
+N0082,PALMILLAS,04,México,,N
+DC91.4,SAN JOSE DEL MOLINO,04,México,,DC
+B0893,DERRAMADERO,04,México,,B
+TG25,BACOBAMPO,04,México,,TG
+FA486.7,PAJARAL,04,México,,FA
+DC100.9,EL SUCHIL,04,México,,DC
+DB58.3,CANATLAN,04,México,,DB
+Z0014,BERNAL DIAZ,04,México,,Z
+Q0907,CERRILLOS,04,México,,Q
+V0032,GENERAL GONZALEZ,04,México,,V
+TA3,PORTEZUELO,04,México,,TA
+N566.8,NUEVO URECHP,04,México,,N
+LB109,CHARCOS,04,México,,LB
+I410.6,MANZANO,04,México,,I
+RD127.3,JUNCAL,04,México,,RD
+DA38,EL CHORRO,04,México,,DA
+A1318,RELLANO,04,México,,A
+FP34.9,TECOH,04,México,,FP
+H143.1,CANALES,04,México,,H
+MA30.4,LAS OVEJAS,04,México,,MA
+A949,FUERTES,04,México,,A
+FA880.8,CIUDAD INDUSTRIAL,04,México,,FA
+B0711,COLLADO,04,México,,B
+VB147,LOS PINALES,04,México,,VB
+B0113,SAYULA,04,México,,B
+G0246,JIMBA,04,México,,G
+G0093,TIERRA BLANCA,04,México,,G
+RA78.8,SAN CARLOS,04,México,,RA
+M385.8,ALTA,04,México,,M
+O38.2,ARGUELLO,04,México,,O
+Z237.6,NIZANDA,04,México,,Z
+L624.3,CHI JOL,04,México,,L
+U370.4,LOS SAPOS,04,México,,U
+L0605,AUZA,04,México,,L
+B0737,LA TRUEBA,04,México,,B
+DC237.8,PICOTELLO,04,México,,DC
+NB77.6,MENDOZA,04,México,,NB
+VB088,XOXTLA,04,México,,VB
+FS47.8,XLETRA,04,México,,FS
+M591.4,IXTLE,04,México,,M
+N609.3,EL CERIDOR,04,México,,N
+E0098,PAZOLTEPEC,04,México,,E
+A1192.2,SIERRITA,04,México,,A
+L0036,EL TULE,04,México,,L
+Q174.5,ENCANTADA,04,México,,Q
+FA853.6,CHOCHOLA,04,México,,FA
+M0483,CADEREYTA,04,México,,M
+T0286,CIUDAD INDUSTRIAL,04,México,,T
+I0364,SAN MIGUEL DEL ZAPOTE,04,México,,I
+VC32.4,TOTOMETLA DE JUAREZ,04,México,,VC
+B0170,INGENIERO ANTONIO GUTIERR,04,México,,B
+DF3.6,RAMON BARAJAS,04,México,,DF
+N119.1,VAQUERIA,04,México,,N
+H148.9,AMAPOLAS,04,México,,H
+A1328.2,MUGOZ,04,México,,A
+N257.6,ARENA BLANCA,04,México,,N
+B256,LA PEDRERA,04,México,,B
+VK063,AMECAMECA,04,México,,VK
+Q0451,LA JUNTA,04,México,,Q
+B0793,SAN SALVADOR,04,México,,B
+P123.6,PEINADO,04,México,,P
+B863,GUILLERMO,04,México,,B
+V0207,VEGA,04,México,,V
+E180.2,VENTA SALADA,04,México,,E
+J56.8,HORNOS,04,México,,J
+Q0367,MESA,04,México,,Q
+AE7,CUARTA PARTE,04,México,,AE
+Q0540,CUESTA PRIETA,04,México,,Q
+Q0531,PINERIA,04,México,,Q
+H82.9,SAN VICENTE,04,México,,H
+Z0080,EL AZUFRE,04,México,,Z
+R102.1,BLANCO,04,México,,R
+G144.6,PAPALOPAN,04,México,,G
+A1144.6,EL VERGEL,04,México,,A
+A924.5,CARLOS,04,México,,A
+E0046,BUENAVENTURA,04,México,,E
+A1267,CEBALLOS,04,México,,A
+VC60.1,TEPEOJURA,04,México,,VC
+I0260,GUADALAJARA,04,México,,I
+MA60.5,QUINTERO,04,México,,MA
+Morelos183.5,SAN JUAN DEL RIO,04,México,,Morelos
+P64.3,ADELA,04,México,,P
+UB19.2,MATANUCO,04,México,,UB
+DN49.7,LA CRUZ,04,México,,DN
+T0087,MAGDALENA,04,México,,T
+NE168,LAS MINAS,04,México,,NE
+A0604,SAN FRANCISCO DE LOS ROMO,04,México,,A
+F252,CORRALES,04,México,,F
+G0134,TRES VALLES,04,México,,G
+IB126,LOMITAS,04,México,,IB
+P80,GENERAL ANGELES,04,México,,P
+IB87.9,COTIJA,04,México,,IB
+GF017,ADOLFO LOPEZ MATEOS,04,México,,GF
+S0176,TAMARIZ,04,México,,S
+A0071,CRUZ AZUL,04,México,,A
+M0609,PAREDON,04,México,,M
+M465,SAN JUAN1,04,México,,M
+S0022,ECATEPEC,04,México,,S
+DB175.4,BARRAZAS,04,México,,DB
+IB81.5,ORTEGA,04,México,,IB
+N557.8,EL JABALI,04,México,,N
+RD226.8,EL ORO,04,México,,RD
+DB183,LOS HERRERAS,04,México,,DB
+S0338,ATOYAC,04,México,,S
+TA274,ESQUEDA,04,México,,TA
+RD31,POLKA,04,México,,RD
+N561.6,MIRADOR,04,México,,N
+N0357,LA GOLETA,04,México,,N
+K310.9,MAPASTEPEC,04,México,,K
+I567.2,LA BASCULA,04,México,,I
+FA144.9,EL PORVENIR,04,México,,FA
+A0624,RINCON DE ROMOS,04,México,,A
+Q727.3,TACUINA,04,México,,Q
+RC8.4,LAS ESPERANZAS,04,México,,RC
+H115.3,FABRICA,04,México,,H
+QA571.7,CIUDAD JUAREZ,04,México,,QA
+TA104,SAUCEDA,04,México,,TA
+BD042,JOSEFA ORTIZ DE DOMINGUEZ,04,México,,BD
+A1652,TERRAZAS,04,México,,A
+FA282.2,SALTO DE AGUA,04,México,,FA
+Morelos245,FERROSERVICIOS,04,México,,Morelos
+VC97.4,ATENCINGO,04,México,,VC
+T143.8,NORIA,04,México,,T
+N577,CASILDA,04,México,,N
+A1162.6,CADENA,04,México,,A
+E341.5,LACHIXOLANA,04,México,,E
+B0168,ATLAN,04,México,,B
+Q0044,LA MULA,04,México,,Q
+S322.4,PERUELA,04,México,,S
+F287,LOS OLMOS,04,México,,F
+HC009,XOCHIHUACAN,04,México,,HC
+IB75.5,VISCOSA,04,México,,IB
+E200,IGNACIO MEJIA,04,México,,E
+T0352,MORENO,04,México,,T
+DA21.1,DURANGO,04,México,,DA
+DC178.3,EL MIRASOL,04,México,,DC
+I135,LOS PILARES,04,México,,I
+GF008,BARTOLOME,04,México,,GF
+M0893,GENERAL BANDA,04,México,,M
+RD76,PLACA KM RD-76,04,México,,RD
+NB8.2,MONTE PRIETO,04,México,,NB
+G0199,GARROBO,04,México,,G
+T1224.2,MATADERO,04,México,,T
+DB200.8,LA CANDELA,04,México,,DB
+A708.8,EL GRILLO,04,México,,A
+R0018,RIO ESCONDIDO,04,México,,R
+IB70.2,TARIACURI,04,México,,IB
+M318.3,CAMPOAMOR,04,México,,M
+DA163,LAS MERCEDES,04,México,,DA
+I0204,CONSTANCIA,04,México,,I
+N0061,LERMA,04,México,,N
+VB170,SESMA,04,México,,VB
+G0221,ISLA,04,México,,G
+N0074,TOLUCA,04,México,,N
+Q292.4,SALAS,04,México,,Q
+T1614,GRACIA,04,México,,T
+C261.3,APIPILULCO,04,México,,C
+E118.3,NUEVO CARNERO,04,México,,E
+V192.4,CERON,04,México,,V
+K199.4,CABAÑA,04,México,,K
+F0231,ANZALDUAS,04,México,,F
+V0147,LA TRASQUILA,04,México,,V
+Q530.3,PINERA,04,México,,Q
+L630.2,MENDEZ,04,México,,L
+VB092,ZOQUIAPAN,04,México,,VB
+FS15.8,XUCU,04,México,,FS
+FA127.1,INGENIERO ROBERTO AYALA,04,México,,FA
+FD119.8,DZITAS,04,México,,FD
+B0182,RAYON,04,México,,B
+H86.6,SOMORRIEL,04,México,,H
+L0339,EL GATO,04,México,,L
+C30.7,ESLAVA,04,México,,C
+FA14.8,CHAPO,04,México,,FA
+NE021,CAPIRIO,04,México,,NE
+A1779,CHIVATITO,04,México,,A
+VK094,SAN SEBASTIAN,04,México,,VK
+B0046,HUEHUETOCA,04,México,,B
+QA287.5,RUCIO,04,México,,QA
+N471.5,TARASCON,04,México,,N
+IC19.2,ALCALDE,04,México,,IC
+Q192.2,MORREON,04,México,,Q
+N312.1,ANDOCUTIN,04,México,,N
+P111,LA VENCEDORA,04,México,,P
+R0052,ALLENDE,04,México,,R
+SC257,LA CANADA MORELOS,04,México,,SC
+M0504,SAN MIGUEL,04,México,,M
+DB9.7,PEDRERA KM DB-10,04,México,,DB
+L620.3,FERRONALES,04,México,,L
+VB179,VICENCIO,04,México,,VB
+K301.9,VALDIVIA,04,México,,K
+R401.4,HIGO,04,México,,R
+M0664,MIMO,04,México,,M
+TI0,CULIACAN,04,México,,TI
+F0273,TENACITAS,04,México,,F
+Q0899,CONSTANCIA,04,México,,Q
+Q0602,PITORREAL,04,México,,Q
+AE13,SANTA TERESA,04,México,,AE
+A1942,DESIERTO,04,México,,A
+RA48.3,BORRADOS,04,México,,RA
+IB56.1,PANINDICUARO,04,México,,IB
+A548.4,EL TIGRE,04,México,,A
+FA160.7,CARDONA,04,México,,FA
+T1534,BORBOLLON,04,México,,T
+Q0030,CHAPO,04,México,,Q
+VC27.7,TLAMAPA,04,México,,VC
+G0161,GUADA VICTOR,04,México,,G
+N22.8,SAN BARTOLITO,04,México,,N
+B0534,NICOLASITO,04,México,,B
+B195.3,MERCADER,04,México,,B
+M850.2,LA DALIA,04,México,,M
+VK027,LOS REYES,04,México,,VK
+A0475,LAGOS DE MORENO,04,México,,A
+A0433,SAN FRANCISCO DEL R,04,México,,A
+M0535,TOPO GRANDE,04,México,,M
+DN22.8,LOS BANCOS,04,México,,DN
+IB84.6,GUARACHA,04,México,,IB
+T0786,NARANJO,04,México,,T
+DA103.2,COLONIA INDEPENDENCIA,04,México,,DA
+N0193,AGUA BUENA,04,México,,N
+E0128,TEHUACAN,04,México,,E
+HB028,IROLO,04,México,,HB
+A0007,PANTACO,04,México,,A
+BG58.6,SAN MIGUEL,04,México,,BG
+M494,BELLA VISTA,04,México,,M
+S55.4,OTUMBA MEXICANO,04,México,,S
+N62.8,DOÑA ROSA,04,México,,N
+C8.2,LOS MORALES,04,México,,C
+AB042,BENITO JUAREZ,04,México,,AB
+A0814,FELIPE PESCADOR,04,México,,A
+FA787.1,POCBOC,04,México,,FA
+N11.3,MOLINITO,04,México,,N
+B1145,CERRO COLORADO,04,México,,B
+T1137.5,MARMOL,04,México,,T
+SC256.1,LA CAÑADA MORELOS,04,México,,SC
+C77.7,EL PARQUE,04,México,,C
+T0907,RETES,04,México,,T
+O18.7,TARIMORO,04,México,,O
+G82.9,LAS PRIETAS,04,México,,G
+DC163.6,FELIPE CARRILLO PUERTO,04,México,,DC
+GB29.2,COCUITE,04,México,,GB
+A1832,CARRIZAL,04,México,,A
+M0847,CONCORDIA,04,México,,M
+HB011,SANTA INES,04,México,,HB
+B1244,HUIZACHITO,04,México,,B
+AB048,TLAXIACA,04,México,,AB
+FA836.5,SAN BERNARDO,04,México,,FA
+F153.9,ARROYO LOBO,04,México,,F
+IB49,ARIO,04,México,,IB
+E373.8,NEGRITOS,04,México,,E
+Juárez0,BUENAVISTA,04,México,,Juárez
+DA241,C F E,04,México,,DA
+U441.1,LA VERBENA,04,México,,U
+G0262,ANGOSTURA,04,México,,G
+Q0807,LA LAGUNA,04,México,,Q
+FP152.8,PETO,04,México,,FP
+N586.5,LOMBARDIA,04,México,,N
+I0350,ZACOALCO,04,México,,I
+VK1.8,XALOSTOC,04,México,,VK
+K225.6,INDALECIO,04,México,,K
+T1372,MORADA,04,México,,T
+TA50.1,DOMINGUEZ,04,México,,TA
+T1679,CUERVO,04,México,,T
+E0083,RANCHO CHICO,04,México,,E
+O16.3,SEGUIO,04,México,,O
+U0352,EL COYOTE,04,México,,U
+RK0,EMPALME SIERRA MOJADA,04,México,,RK
+BB24.1,CEDRAL,04,México,,BB
+F0180,CAMARGO,04,México,,F
+HE12.1,TORTUGAS,04,México,,HE
+M0097,GONZALEZ,04,México,,M
+DC219.2,RIO GRANDE,04,México,,DC
+L448.7,VENASTEQUI,04,México,,L
+B0279,LAS ADJUNTAS,04,México,,B
+RK21.5,MINAS,04,México,,RK
+K46.9,YOLANDA,04,México,,K
+RD325.2,LA INDIA,04,México,,RD
+G0104,AMAPA,04,México,,G
+GA033,LOS ROBLES,04,México,,GA
+T1743,LA VENTA,04,México,,T
+N0239,SAN ANTONIO,04,México,,N
+Juárez57,HIDALGO TILH,04,México,,Juárez
+G0070,VICENTE,04,México,,G
+B11.4,VALLE DE MEXICO,04,México,,B
+B1290,NUEVO LAREDO,04,México,,B
+E357.7,HACIENDA BLANCA,04,México,,E
+M0017,MIRAMAR,04,México,,M
+IB52.8,DAVALOS,04,México,,IB
+VK055,TENANGO,04,México,,VK
+A1538,CONSUELO,04,México,,A
+Q0426,PEDERNALES,04,México,,Q
+M860.6,SANTO NIÑO,04,México,,M
+P0046,DORADO,04,México,,P
+A1215,BANDERAS,04,México,,A
+Z292.7,PEARSON,04,México,,Z
+QA128.1,EL PRESON,04,México,,QA
+EA33.6,CAÑADA,04,México,,EA
+A1179,BERMEJILLO,04,México,,A
+I0340,CATARINA,04,México,,I
+F0298,RAMIREZ,04,México,,F
+RK16,SIERRA MOJADA,04,México,,RK
+EA50.3,ESPERANZA,04,México,,EA
+Q885,CHARAY,04,México,,Q
+M0141,CALLES,04,México,,M
+XX12.5,TOPILA,04,México,,XX
+V0423,GUAYABAL,04,México,,V
+Z285.1,REOLOTECA,04,México,,Z
+N482.6,ZURUMUCAPIO,04,México,,N
+RF0.9,AGUJITA,04,México,,RF
+RA10,MORELOS,04,México,,RA
+O88.3,ZITACUARO,04,México,,O
+A1127.2,LA PERLA,04,México,,A
+V0358,ALBORADA,04,México,,V
+LA012,LA ANGOSTURA,04,México,,LA
+E0149,SANCHEZ,04,México,,E
+M409.9,PARAS,04,México,,M
+N378.2,LA HUERTA,04,México,,N
+B0614,VENADO,04,México,,B
+K324.1,ULAPA,04,México,,K
+H150.2,HONEY,04,México,,H
+VB019,MAZAPA,04,México,,VB
+FA546.9,DIVISION NORTE,04,México,,FA
+E0038,TEPEACA,04,México,,E
+I0039,CORRALEJO,04,México,,I
+V0266,PEROTE,04,México,,V
+VL12.2,SAN RAFAEL,04,México,,VL
+A0067,DORANTES,04,México,,A
+IB93.4,BARRIO ALTO,04,México,,IB
+GA24.2,PASO TORO,04,México,,GA
+QA151.3,EL RASTRO,04,México,,QA
+DC173.5,CANTUNA,04,México,,DC
+Q0092,CHILICOTE,04,México,,Q
+IB118.1,TINGUINDIN,04,México,,IB
+Q0282,FRESNO,04,México,,Q
+FA34,PUEBLO VIEJO,04,México,,FA
+B926.6,RAMIRO E MARTINEZ,04,México,,B
+NF486,SAN ANDRES,04,México,,NF
+FA507.4,MIGUEL ALEMAN,04,México,,FA
+Q44,LA HULA,04,México,,Q
+S0238,LOS REYES,04,México,,S
+VB103,LA UNION,04,México,,VB
+I0508,SALVADOR,04,México,,I
+QA59.6,TEJOLOCACHIC,04,México,,QA
+H0009,TULTEPEC,04,México,,H
+I308.4,LOS BAÑOS,04,México,,I
+B0141,NOPALA,04,México,,B
+DA76.8,GUADALUPE VICTORIA,04,México,,DA
+B1191,NARANJO,04,México,,B
+XX63.7,CORONEL MASCAREÑAS,04,México,,XX
+I0033,ABASOLO,04,México,,I
+L0464,TAMASOPO,04,México,,L
+T1756,JOCOTAN,04,México,,T
+G0145,PAPALOAPAN,04,México,,G
+J12.7,SAN JULIAN,04,México,,J
+B133,ARAGON,04,México,,B
+DE60.6,OTINAPA,04,México,,DE
+V361.3,EL CHICO,04,México,,V
+XX55.1,LOS MANANTIALES,04,México,,XX
+G0276,BELLACO,04,México,,G
+B0580,ENRAMADA,04,México,,B
+I196.8,POCITLAN,04,México,,I
+N53.5,OCOYOACAC,04,México,,N
+L0674,DONA CECILIA,04,México,,L
+BG74.1,MARGARITA,04,México,,BG
+IB14.5,LA CALLE,04,México,,IB
+I173.2,EL PEDREGAL,04,México,,I
+F0319,ROSITA,04,México,,F
+A1607.6,TABALAOPA NM,04,México,,A
+TA301,EL TAJO,04,México,,TA
+IB15.3,LAS FUENTES,04,México,,IB
+DB145.5,FRANCISCO JAVIER LEYVA,04,México,,DB
+VC118.1,COAYUCA,04,México,,VC
+L0415,CARDENAS,04,México,,L
+A1483,CONCHO,04,México,,A
+B0937,SANTA MARIA,04,México,,B
+NE113,INFIERNILLO,04,México,,NE
+VB058,TLALOC,04,México,,VB
+DC181.6,SAIN ALTO,04,México,,DC
+VC102.2,AHUEHUETZINGO,04,México,,VC
+A1090,AMADOR,04,México,,A
+T451.7,NAPOLI,04,México,,T
+B658.9,BERRENDO,04,México,,B
+RK10.8,LA PUERTA,04,México,,RK
+F0016,APODACA,04,México,,F
+B0258,LA CANADA,04,México,,B
+QA48,PLACA KM DA-48,04,México,,QA
+L633,LAZARO CARDENAS,04,México,,L
+N0252,ZIRIZICUARO,04,México,,N
+VK18.2,XOCHIACA,04,México,,VK
+A1077.6,JALISCO,04,México,,A
+A1329,MUNOZ,04,México,,A
+DC121,EL CERRITO,04,México,,DC
+TA121,DEL RIO,04,México,,TA
+T0244,PESQUEIRA,04,México,,T
+K135.4,SAN RAMON,04,México,,K
+L0450,EL BALCON,04,México,,L
+SC311.5,ENCINAR,04,México,,SC
+IB61.4,CHAVINDA,04,México,,IB
+F0280,CANALES,04,México,,F
+M0548,CHIPINQUE,04,México,,M
+IB28.7,TORCAZAS,04,México,,IB
+M0674,HIPOLITO,04,México,,M
+DB26,RANCHOYA,04,México,,DB
+N158.6,VENTA DEL AIRE,04,México,,N
+V0998,VERACRUZ CICE,04,México,,V
+DB18.7,MORCILLO,04,México,,DB
+VC83.5,ZOLOQUIAPA,04,México,,VC
+FA149.8,LA CRIMEA,04,México,,FA
+L0242,ALONSO,04,México,,L
+M0754,MADERO,04,México,,M
+A1514,LAS DELICIAS,04,México,,A
+S0342,SAN ALEJO,04,México,,S
+N244,GIGANTES,04,México,,N
+B0246,VIBORILLAS,04,México,,B
+FD85.9,UALACTUN,04,México,,FD
+I256,GUADALAJARA CARGA,04,México,,I
+A1957,MESETA,04,México,,A
+K253.2,COLONIA CENTRAL,04,México,,K
+U0285,ALMEJAS,04,México,,U
+L0548,TANINUL,04,México,,L
+Q0401,CUAUHTEMOC,04,México,,Q
+TL003,ORENDAIN,04,México,,TL
+H91,SAN JOAQUIN,04,México,,H
+T1104,DIMAS,04,México,,T
+FA430.2,BARITA,04,México,,FA
+T471.5,OROZ,04,México,,T
+RL0,EL REY,04,México,,RL
+FA40.9,CARDENAS,04,México,,FA
+V0418,CHICHICAXTLE,04,México,,V
+FD24.1,TIXKOKOB,04,México,,FD
+T0702,FRANCISCO,04,México,,T
+KA13.8,PUERTO MADERO,04,México,,KA
+V441.3,PUREZA,04,México,,V
+BC009,CONEXION VIBORILLAS,04,México,,BC
+C248.3,MEXTITLAN,04,México,,C
+TA172,LA CALERA,04,México,,TA
+A1579,LOS MARTINEZ,04,México,,A
+A1504,ROSETILLA,04,México,,A
+VC10,TEHUILOYOCA,04,México,,VC
+O6,CAMPO HERMOSO,04,México,,O
+A21,LECHERIA,04,México,,A
+DC262.1,FELIPE PESCADOR,04,México,,DC
+RG1.4,CLOETE,04,México,,RG
+JM216,AHORCADO,04,México,,Juárez
+E0096,LIBERTAD,04,México,,E
+V0454,SANTA FE,04,México,,V
+Q0916,JIQUILPAN,04,México,,Q
+I0288,TLAJOMULCO,04,México,,I
+E195.4,SAN ANTONIO,04,México,,E
+G60.8,ACATLAN DE PREZ F,04,México,,G
+VK109.3,ATLATLAHUACAN,04,México,,VK
+IC26.2,NAVARRO,04,México,,IC
+F276.6,CHARCO AZUL,04,México,,F
+K442.5,CAHUACAN,04,México,,K
+M874.6,LUJAN,04,México,,M
+T0807,BAMOA,04,México,,T
+FA231.5,POANA,04,México,,FA
+L204.7,OJO ZARCO,04,México,,L
+IB042,ZAMORA DE HIDALGO,04,México,,IB
+XX76.5,MAGOSAL,04,México,,XX
+Z125.9,JESUS CARRANZA,04,México,,Z
+E342.5,DON BENITO,04,México,,E
+A0696,RAFAEL S MARTINEZ,04,México,,A
+RD102.6,SOCORRO,04,México,,RD
+A1682,ENCINALLAS,04,México,,A
+FD177.2,TIZIMIN,04,México,,FD
+R0006,VILLA DE FUENTE,04,México,,R
+H71.5,PUEBLILLA,04,México,,H
+N535.9,PLAN SEXENAL,04,México,,N
+HA005,DIEC DE MARZO,04,México,,HA
+EA11,MIAHUATLAN,04,México,,EA
+K351.3,LA ACACIA,04,México,,K
+A1743,LOAEZA,04,México,,A
+U0063,RIITO,04,México,,U
+FA207.2,TEAPA,04,México,,FA
+Q0942,TOPOLOBAMPO,04,México,,Q
+FP39.7,LEPAN,04,México,,FP
+VC48.4,GAVANA,04,México,,VC
+FA578.1,COLORADO,04,México,,FA
+A0999,ACACIO,04,México,,A
+L0669,TAMPICO,04,México,,L
+V0117,ITURBE,04,México,,V
+T0376,ORTIZ,04,México,,T
+IB59.2,SAN ELIAS,04,México,,IB
+H135,ANITA,04,México,,H
+TH0,NARANJO,04,México,,TH
+Morelos130.9,DAÑU,04,México,,Morelos
+K232.1,LOS PATOS,04,México,,K
+I0524,BALCON,04,México,,I
+B0519,ESPANITA,04,México,,B
+R29,PLACA KM R-29,04,México,,R
+Morelos166.9,PALMILLAS,04,México,,Morelos
+TI024,YEVAVITO,04,México,,TI
+RC12.7,MANUEL AGUIRRE,04,México,,RC
+DA88.9,IGNACIO ALLENDE,04,México,,DA
+DB177.6,EL BARRIAL,04,México,,DB
+B1032,RAMON TREVINO,04,México,,B
+FS9.9,SEYE,04,México,,FS
+A0538,ENCARNACION,04,México,,A
+UB33.2,ESPUELA Z GAS,04,México,,UB
+IB11.2,CIENEGUITAS,04,México,,IB
+T0042,CASITA,04,México,,T
+AB063,CONCEPCION,04,México,,AB
+I0395,SAYULA,04,México,,I
+A0353,IRAPUATO,04,México,,A
+L0153,TOLOSA,04,México,,L
+A990.6,RYVAS,04,México,,A
+F211.4,VENECIA,04,México,,F
+FA261.1,AGUA BLANCA,04,México,,FA
+T1341.3,MONTAJE,04,México,,T
+IC9.9,ZULA,04,México,,IC
+K440.4,LA SOLEDAD,04,México,,K
+I0219,ATEQUIZA,04,México,,I
+I0253,LA JUNTA,04,México,,I
+K264.1,PIJIJIAPAN,04,México,,K
+B624.7,LABORCILLA,04,México,,B
+HB005,VENTA DE CRUZ,04,México,,HB
+IB29.3,VILLACHUATO,04,México,,IB
+E392.9,GUELAVIA,04,México,,E
+N0374,MORELIA,04,México,,N
+RD89.7,DOBLONES,04,México,,RD
+Q0662,CUITECO,04,México,,Q
+F0028,PESQUERIA,04,México,,F
+A1670,SAUZ,04,México,,A
+B0658,EL CUBO,04,México,,B
+FA408.3,ESPERANZA,04,México,,FA
+M499.5,CERRO DE LA SILLA,04,México,,M
+M0248,CABALLEROS,04,México,,M
+R0238,CIUDAD FRONTERA,04,México,,R
+FP119,TICUM,04,México,,FP
+T0277,HERMOSILLO,04,México,,T
+RL16.2,QUIMICA DEL REY,04,México,,RL
+B824.8,SANTA ELENA,04,México,,B
+N0428,TZURUMUTARO,04,México,,N
+FA136.9,MEZCALAPA,04,México,,FA
+A1454.3,LA CRUZ,04,México,,A
+A1843,AHUMADA,04,México,,A
+R0186,MANUEL M RODRIGUEZ,04,México,,R
+B0806,LA VENTURA,04,México,,B
+VK105,SAN JUAN TEXCALPAN,04,México,,VK
+F34.1,FRANCISCO VILLA PESQUERIA,04,México,,F
+NC006,URUAPAN,04,México,,NC
+V454.6,LIMITE TERRITORIAL SANTA FE,04,México,,V
+FX23.8,UAYMA,04,México,,FX
+A610.6,GARABATO,04,México,,A
+QA550,MENDEZ,04,México,,QA
+I527.9,COQUIMATLAN PUEBLO,04,México,,I
+T1469,AGUIRRE,04,México,,T
+T0742,SUFRAGIO,04,México,,T
+A1636,CORRAL,04,México,,A
+A0673,PALMIRA,04,México,,A
+BB40.2,SAN JOSE DE LAS TROJES,04,México,,BB
+M493.8,BELLAVISTA,04,México,,M
+I277.5,OROZCO,04,México,,I
+N28,DOS RIOS,04,México,,N
+FA269.6,EL ZOPO,04,México,,FA
+H5.7,CARTAGENA,04,México,,H
+B0205,BERNAL,04,México,,B
+A1614,CHIHUAHUA,04,México,,A
+A0764,FRESNILLO,04,México,,A
+K288.9,POLMORADA,04,México,,K
+V69.6,OTUMBA,04,México,,V
+NE999,HPH LAZARO,04,México,,NE
+C132.1,MANGO,04,México,,C
+Z286,LA CANTERA,04,México,,Z
+DC175.2,EL FRESNO,04,México,,DC
+V0407,LOS IDOLOS,04,México,,V
+T1438,ROSETA,04,México,,T
+I370,TECHALUTA,04,México,,I
+R377,BRAVO,04,México,,R
+A1804.5,LAS MINAS,04,México,,A
+I296.4,FLORES,04,México,,I
+DE27.6,CIENEGUITA,04,México,,DE
+M0686,LETONA,04,México,,M
+S0382,SOLEDAD,04,México,,S
+AC036,JARAL DEL PROGRESO,04,México,,AC
+V0039,TEXCOCO,04,México,,V
+K29.7,SALINERAS,04,México,,K
+FA29.9,ACALAPA,04,México,,FA
+IB10.3,ATARJEA,04,México,,IB
+DE36.6,NEVERIA,04,México,,DE
+V35.9,CHAPINGO,04,México,,V
+R65.6,CALATRAVA,04,México,,R
+N0155,BASSOCO,04,México,,N
+G0008,LA PATRONA,04,México,,G
+Q139.5,PICACHOS,04,México,,Q
+N480.2,LAS PALOMAS,04,México,,N
+I0126,YURECUARO,04,México,,I
+S39.4,XOMETLA,04,México,,S
+Z255.4,IXTEPEC,04,México,,Z
+FA524.3,DON SAMUEL,04,México,,FA
+H0054,RELINAS,04,México,,H
+S381.8,SOLEDAD DE DOBLADO,04,México,,S
+G0148,EMPALME DISTRITO PRESIDENTE JUAREZ,04,México,,G
+RC29.5,EMPALME PALAU,04,México,,RC
+Z226.2,CHIVELA,04,México,,Z
+A0936,CAMACHO,04,México,,A
+LA023,CIRIO,04,México,,LA
+U0129,SANCHEZ ISLAS,04,México,,U
+C67,TORO,04,México,,C
+VK042,HUITZILZINGO,04,México,,VK
+RC19.2,RANCHERIA,04,México,,RC
+L474.5,TAMBACA,04,México,,L
+E159.3,ALTEPEXI,04,México,,E
+K371.4,MONTECRISTO,04,México,,K
+Juárez119.7,ARAGON,04,México,,Juárez
+DA11.7,LABOR,04,México,,DA
+VB128,AMOZOC,04,México,,VB
+E0142,LA HUERTA,04,México,,E
+SA017,SANTA ANA,04,México,,SA
+DB186.9,PEDRERA KM DB-187,04,México,,DB
+B956.4,LA MARIPOSA,04,México,,B
+I0134,VILLANUEVA,04,México,,I
+FD94.9,TUNKAS,04,México,,FD
+A1566.1,HORCASITAS,04,México,,A
+A0804,MEZQUITE,04,México,,A
+FA28.4,CUICHAPA,04,México,,FA
+E0053,PORRERO RUBIN,04,México,,E
+QA532.4,SAPELLO,04,México,,QA
+B0770,EL SALADO,04,México,,B
+DE101.8,BORCELANO,04,México,,DE
+FA461.7,EL TRIUNFO,04,México,,FA
+GB39.3,CASOMALDAPAN,04,México,,GB
+B1164,BRASIL,04,México,,B
+Q0340,CHAVARRIA,04,México,,Q
+BB7.9,TEPICHE,04,México,,BB
+Z0025,GUASUNTLAN,04,México,,Z
+RK14.5,QUIMICA DEL REY,04,México,,RK
+L290,SAN IGNACIO,04,México,,L
+A0390,SILAO FERROMEX,04,México,,A
+Z203.1,MATIAS ROMERO,04,México,,Z
+DA228.8,LA GOMA,04,México,,DA
+RD290.7,ESCAPE CARRILLO,04,México,,RD
+DC26.5,CENTAURO,04,México,,DC
+S0116,CALDERON NORTE,04,México,,S
+M0007,CIUDAD MADERO,04,México,,M
+B0753,SAN VICENTE,04,México,,B
+K175.2,TONALA,04,México,,K
+BC098,INGENIERO BUCHANAN LOPEZ,04,México,,BC
+RB3.3,SABINAS,04,México,,RB
+V190.3,SANTO DOMINGO,04,México,,V
+E0,AMOZOC,04,México,,E
+S129,MUROZ,04,México,,S
+P100.4,ZENZONTLE,04,México,,P
+A0750,OJUELOS,04,México,,A
+K457.4,LA PLATANERA,04,México,,K
+F0221,ARGUELLES,04,México,,F
+VK097,LA CANADA,04,México,,VK
+SA008,SAN MANUEL,04,México,,SA
+DB189.3,PASCUALES,04,México,,DB
+L505.3,MICOS,04,México,,L
+I0478,VILLEGAS,04,México,,I
+K379.1,TUZANTAN,04,México,,K
+H0046,OCOTITLAN,04,México,,H
+FA817.4,HALACHO,04,México,,FA
+S0373,MATA DE AGUA,04,México,,S
+DA198.9,DIEGO,04,México,,DA
+BC112,PIEDRA DE LUMBRE,04,México,,BC
+EB34.2,SANTIAGO,04,México,,EB
+M0880,EL COMPAS,04,México,,M
+Q550.2,BOCOYNA POBLADO,04,México,,Q
+IB42.8,EL SABINO,04,México,,IB
+I386.7,CARMELITA,04,México,,I
+V0365,CHAVARRILLO,04,México,,V
+C142.6,TEZOYUCA,04,México,,C
+F0208,GUSTAVO DIAZ ORDAZ,04,México,,F
+I413.1,PROVIDENCIA,04,México,,I
+V93.6,SANTA CLARA,04,México,,V
+FA585.5,5 DE FEBRERO,04,México,,FA
+R384.5,MESILLAS,04,México,,R
+B220.1,LA LLAVE,04,México,,B
+E0070,ALSESECA,04,México,,E
+B0287,MARISCALA,04,México,,B
+B1176,LAMPAZOS,04,México,,B
+A0521,SAN JUAN DE LOS LAGOS,04,México,,A
+N602.1,CUSSI,04,México,,N
+T1574,VALLE VERDE,04,México,,T
+C223.9,LOS AMANTES,04,México,,C
+FA250,GONZALEZ,04,México,,FA
+I0147,NEGRETE,04,México,,I
+G0,CORDOBA,04,México,,G
+TI013,AGUARUTO,04,México,,TI
+R0209,TAPADO,04,México,,R
+N0605,CORONDIRO,04,México,,N
+GA025,PASO DEL TORO,04,México,,GA
+E255.5,SAN PEDRITO,04,México,,E
+I319.5,BALASTRE,04,México,,I
+A1057.3,OTTO,04,México,,A
+L672.8,DORA CECILIA,04,México,,L
+MA40.2,EL LIMON,04,México,,MA
+FA309.6,LOS LLANOS,04,México,,FA
+Q0669,BAHUICHIVO,04,México,,Q
+L0212,ESTANZUELA,04,México,,L
+M636,PLACA KM M-636,04,México,,M
+N30.4,NAVA,04,México,,N
+NE029,BALSAS,04,México,,N
+TA36.3,MARTINEZ,04,México,,TA
+VK96.7,LA CARADA,04,México,,VK
+FA440.3,EL POZO,04,México,,FA
+T1239,EL ROSARIO,04,México,,T
+E236.3,TANQUE KM E-237,04,México,,E
+DA82.1,CALIXTO CONTRERAS,04,México,,DA
+H97.5,LAS LAJAS,04,México,,H
+DC211.8,FELIPE,04,México,,DC
+S113.5,COBRITO,04,México,,S
+T1524,COMPOSTELA,04,México,,T
+B0502,LOGISTIK,04,México,,B
+S0405,SANTA RITA,04,México,,S
+N0112,IXTLAHUACA,04,México,,N
+AB015,TLAXCOAPAN,04,México,,AB
+BG19.8,SALITRE,04,México,,BG
+HA4.5,19 DE MARZO,04,México,,HA
+O31.3,APORO,04,México,,O
+I407.7,NICOLAS BRAVO,04,México,,I
+N518.7,CANACHA,04,México,,N
+T175.3,CAMOU,04,México,,T
+V0438,ANTIGUA,04,México,,V
+T1658,LA QUEMADA,04,México,,T
+A373.6,PICO DE ORO,04,México,,A
+V442,MATILLO,04,México,,V
+G0024,XUCHILES,04,México,,G
+DA123.9,YERBANIS,04,México,,DA
+VB157.2,JARA,04,México,,VB
+B1064,MORALES,04,México,,B
+A1239.1,EL BOLSON,04,México,,A
+I0584,CUYUTLAN,04,México,,I
+BC171,PRONAPADE,04,México,,BC
+BA22.8,SIETE REALES,04,México,,BA
+I0235,EL CASTILLO,04,México,,I
+A1374.8,EMPALME DISTRITO DE PARRAL,04,México,,A
+FA245.2,CHANGO SANTO,04,México,,FA
+FA011,CANGREJERA,04,México,,FA
+M0834,SAN PEDRO,04,México,,M
+Q210.5,TRANCAS,04,México,,Q
+Q437.6,ROSARIO,04,México,,Q
+B1276.7,SECCION SANCHEZ,04,México,,B
+M618.3,AMARGOS,04,México,,M
+RC13.2,MOTA,04,México,,RC
+IB104,ZIRONDARO,04,México,,IB
+DB91.3,LA SOLEDAD,04,México,,DB
+A0895,ALAMILLO,04,México,,A
+T1076,LA CRUZ,04,México,,T
+S0182,SAN MARCOS,04,México,,S
+UA14,PASCUALITOS,04,México,,UA
+L650.2,FERROAUTLAN,04,México,,L
+A0310,VILLAGRAN,04,México,,A
+VB103.5,UNION,04,México,,VB
+Z30.1,HIGUERAS,04,México,,Z
+UA004,MEXICALI,04,México,,UA
+P129.7,CUEVAS,04,México,,P
+VB136,TEPATLAXCO,04,México,,VB
+T1507,COSTILLA,04,México,,T
+GA056,PIEDRAS NEGRAS,04,México,,GA
+FS28.1,SANAHCAT,04,México,,FS
+L0614,EBANO,04,México,,L
+RD160.2,BOOSTER,04,México,,RD
+Q686.6,PARAJES,04,México,,Q
+C257.7,EL PUENTE,04,México,,C
+RD290.8,CARRILLO VIEJO,04,México,,RD
+L0328,CERRITOS,04,México,,L
+VC56.3,TEYUCA,04,México,,VC
+S0124,GUADALUPE,04,México,,S
+U239,PUERTO PERASCO,04,México,,U
+V42.8,SAN ANDRES,04,México,,V
+HE8.4,ACOCUL,04,México,,HE
+E204.3,MEJIA VIEJO,04,México,,E
+MA71.9,LA GAVIA,04,México,,MA
+GA060,MADEREROS,04,México,,GA
+B0648,LAGUNA SECA,04,México,,B
+A0959,SAN ISIDRO,04,México,,A
+IN018,TRES MEZQUITES,04,México,,IN
+QA77.6,LOMA,04,México,,QA
+N0598,NUEVA ITALIA,04,México,,N
+QA23.7,GIRASOL,04,México,,QA
+GB11.3,COYOL,04,México,,GB
+T1039,ABUYA,04,México,,T
+N0260,TARANDACUAO,04,México,,N
+I0541,JALA,04,México,,I
+P0090,PARRAL,04,México,,P
+FA138.9,SAN MANUEL,04,México,,FA
+DN35.4,ARDILLON,04,México,,DN
+FP90.4,OXKUTZCAB,04,México,,FP
+L269.1,CORCOVADA,04,México,,L
+UB18.7,MADERERÍA ACEVEDO,04,México,,UB
+T1628,BARRANCAS,04,México,,T
+R0341,GENERAL COSS,04,México,,R
+BA60.4,POZOS,04,México,,BA
+L196,PALMAR PRIMERO,04,México,,L
+Q0698,CEROCAHUI,04,México,,Q
+P42.6,MARPORTIN,04,México,,P
+C161.2,JUAN PAGAZA,04,México,,C
+P68.6,EL COBERO,04,México,,P
+R0396,ROCA,04,México,,R
+FA761.6,TENABO,04,México,,FA
+H0041,EMPALME EL REY,04,México,,H
+K66.3,LAS PALMAS,04,México,,K
+E348.6,ETLA,04,México,,E
+M35.4,COLONIA,04,México,,M
+B0093,CARRASCO,04,México,,B
+M0081,MANUEL,04,México,,M
+NE063,LA VINATA,04,México,,NE
+I0212,SAN JACINTO,04,México,,I
+N511.9,CIENFUEGOS,04,México,,N
+A0402,TRINIDAD,04,México,,A
+E216.7,LOS CUES,04,México,,E
+B0946,OJO CALIENTE,04,México,,B
+DB93.8,GUATIMAPE,04,México,,DB
+B132.9,CONEXION ARAGON,04,México,,B
+G0286,ACHOTAL,04,México,,G
+T0585,KM T585,04,México,,T
+V0307,JILOTEPEC,04,México,,V
+S0068,OMETUSCO,04,México,,S
+K246.7,SAN ISIDRO,04,México,,K
+TG24.6,BACOBAMBO,04,México,,TG
+RC3,PALAU,04,México,,RC
+L185.7,EL CORTE,04,México,,L
+MA12.6,EL CONEJITO,04,México,,MA
+DB49.3,LUCIA,04,México,,DB
+T0150,BENJAMIN HILL,04,México,,T
+N0135,FLOR DE MARIA,04,México,,N
+E318,PLACA KM E-318,04,México,,E
+BJ8.4,NUEVO LAREDO,04,México,,BJ
+NE997,LC LOGISTICA GPS,04,México,,NE
+VC14.3,MARIA,04,México,,VC
+FA736.8,KOBEN,04,México,,FA
+RA105.2,EL PILAR,04,México,,RA
+B0965,RINCONADA,04,México,,B
+TL14,TALA,04,México,,TL
+MA35.7,LAS AGUILAS,04,México,,MA
+UB0.3,ESTACION TIJUANA,04,México,,UB
+DA209.5,CHOCOLATE,04,México,,DA
+A1447,SANTA ROSALIA CAMAR,04,México,,A
+A0047,HUEHUETOCA,04,México,,A
+T1693,TEQUILA,04,México,,T
+C204.2,SAMANO,04,México,,C
+I532,CONQUINATLAN,04,México,,I
+K152.2,ARRIAGA,04,México,,K
+A388.1,NAPOLES,04,México,,A
+B1154.6,CANDELA,04,México,,B
+Z213,LAGUNAS,04,México,,Z
+G0183,ARROYO CLARO,04,México,,G
+S0062,LA PALMA,04,México,,S
+DE90,PLACA KM DE-90,04,México,,DE
+F202.1,LOS VILLARREAS,04,México,,F
+A1285,ZAVALZA,04,México,,A
+C253.4,XONACATLA,04,México,,C
+O24.7,IRIMBO,04,México,,O
+GA079,MORENO SUR,04,México,,GA
+Z154.9,DONAJI,04,México,,Z
+G0035,PRESIDIO,04,México,,G
+DF8.6,SOMBRERETE,04,México,,DF
+B1083,EL PUERTO,04,México,,B
+RD3,ESCALON,04,México,,RD
+K112.5,CHAHUITES,04,México,,K
+VB010,CALPULALPAN,04,México,,VB
+N3.2,TLATILCO,04,México,,N
+T0843,GUAMUCHIL,04,México,,T
+I16.2,RIVERA,04,México,,I
+V52.2,XOMETLA,04,México,,V
+A1842.9,AHUAMADA,04,México,,A
+T1477,MORA,04,México,,T
+RC36.6,ZAMORA,04,México,,RC
+A1393.3,LA REFORMA,04,México,,A
+TM019,AHUALULCO DE MERCADO,04,México,,TM
+Z0086,JUILE,04,México,,Z
+TI018,SAN PEDRO,04,México,,TI
+Morelos229.1,LA GRIEGA,04,México,,Morelos
+V0170,VELASCO,04,México,,V
+K37.1,UNION HIDALGO,04,México,,K
+R0173,OBAYOS,04,México,,R
+EB45.6,GUEBESCHE,04,México,,EB
+T0646,MASIACA,04,México,,T
+K361.6,DESPOBLADO,04,México,,K
+H0067,TEPA,04,México,,H
+A0300,CRESPO,04,México,,A
+H0034,PAULA,04,México,,H
+Q151.7,SAN SOSTENES,04,México,,Q
+VC114.7,AXOCHIAPAN,04,México,,VC
+RD176.2,PEDRO ORTEGON,04,México,,RD
+EA43.1,EL SALADO,04,México,,EA
+M457,CAÑA,04,México,,M
+B0567,BOCAS,04,México,,B
+A0344,CHICO,04,México,,A
+B36,TEOLOYUCAN,04,México,,B
+TG033,ETCHOJOA,04,México,,TG
+M300.5,PUERTO DEL AIRE,04,México,,M
+V58,PIRAMIDES,04,México,,V
+A1555.9,ABRAHAM GONZALEZ,04,México,,A
+R118.3,MEZQUITAL,04,México,,R
+P13,LA CUADRILLA,04,México,,P
+VB101,LOS ARCOS,04,México,,VB
+M0118,ROSILLO,04,México,,M
+DB172.2,TAMBOR,04,México,,DB
+GF004,TORO BRAVO,04,México,,GF
+UB69.8,LINDERO,04,México,,UB
+EA41.5,GARCIAS,04,México,,EA
+A1340,CORRALITOS,04,México,,A
+T1646,AGUA FRIA,04,México,,T
+A1608,TABALAOPA,04,México,,A
+Z0043,JALTIPAN,04,México,,Z
+A0915,OPAL,04,México,,A
+GB40.8,SAN GABRIEL,04,México,,GB
+DB122.6,ANGELITA,04,México,,DB
+Z71.2,OLOLICA,04,México,,Z
+F283.3,EBANITO NUEVO,04,México,,F
+T333.6,LUJAN,04,México,,T
+JM103,DAXTHI,04,México,,Morelos
+T1729,EMPALME DE ORENDAIN,04,México,,T
+DC61.2,POANAS,04,México,,DC
+NB41.4,PANALES,04,México,,NB
+LB013,EL COLORADO,04,México,,LB
+M358.8,MAGUIRAS,04,México,,M
+S77.9,IROLO MEXICANO,04,México,,S
+DA155.7,EL CENTRO,04,México,,DA
+T1008,QUILA,04,México,,T
+Z115,SUCHIL,04,México,,Z
+GA014,ESPARTAL,04,México,,GA
+Q127,FALOMIA,04,México,,Q
+MA95,CLAVO DE ORO,04,México,,MA
+R0257,CASTANOS,04,México,,R
+I0520,COLIMA,04,México,,I
+T0576,SANTINI,04,México,,T
+M0157,IGNACIO ZARAGOZA,04,México,,M
+LJ254,TLACOTE,04,México,,Juárez
+H60.4,SAN AGUSTIN ZAPOTL,04,México,,H
+RI0,HERCULES,04,México,,RI
+RD25.5,AGUILA,04,México,,RD
+DB43.8,NICOLAS BRAVO,04,México,,DB
+B560.9,ARRIOLA,04,México,,B
+E250.2,LA VENTA,04,México,,E
+B0067,APAXCO,04,México,,B
+N0469,JUJUCATO,04,México,,N
+T243.2,PESQUERIA,04,México,,T
+L417.1,LA PRESA,04,México,,L
+I0361,VERDIA,04,México,,I
+K358.9,VILLA DE COMALTITLAN,04,México,,K
+DA188.5,HUARICHI,04,México,,DA
+B1022,MONTERREY,04,México,,B
+Q757,DESCANGO,04,México,,Q
+U0413,PITIQUITO,04,México,,U
+VB94,SANTA CLARA,04,México,,VB
+VL1.8,ESPUELA HARINERA,04,México,,VL
+MA116.7,CEIBA,04,México,,MA
+I0182,CAMCEL,04,México,,I
+M0235,CIUDAD VICTORIA,04,México,,M
+IB38.3,TUNILLAS,04,México,,IB
+M0558,HIDALGO,04,México,,M
+T906.1,REYES,04,México,,T
+B720.8,VENEGAS,04,México,,B
+JM167,PALMILLAS,04,México,,Juárez
+A483.1,MIRA,04,México,,A
+L27.2,AMAPOLA DEL RIO,04,México,,L
+A1063,LA FLOR,04,México,,A
+B1104,ALAMO,04,México,,B
+T0666,LUIS,04,México,,T
+N0407,LAGUNILLAS,04,México,,N
+V0102,SAN LORENZO,04,México,,V
+EF0001,Extranjera,04,México,,
