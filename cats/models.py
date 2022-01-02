@@ -9,3 +9,8 @@ class Estacion(models.Model):
     designador_iata = models.TextField(blank=True, null=True)
     linea_ferrea = models.TextField(blank=True, null=True)
 
+class Colonia(models.Model):
+    colonia = models.TextField(blank=True, null=True)
+    codigopostal = models.TextField(blank=True, null=True)
+    nombre_asentamiento = models.TextField(blank=True, null=True)
+
