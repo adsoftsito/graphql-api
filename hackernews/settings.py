@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'sales',
     'emisor',
     'receptor',
+    'cats',
     'corsheaders'
 ]
 
@@ -86,7 +87,7 @@ DATABASES = {
         'NAME': 'wavesdb',
         'USER': 'postgres',
         'PASSWORD': 'adsoft',
-        'HOST': '18.116.12.129',
+        'HOST': '198.251.74.249',
         'PORT': '5432',
     }
 }
