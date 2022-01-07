@@ -14,3 +14,13 @@ class Colonia(models.Model):
     codigopostal = models.TextField(blank=True, null=True)
     nombre_asentamiento = models.TextField(blank=True, null=True)
 
+class Localidad(models.Model):
+    localidad = models.TextField(blank=True, null=True)
+    estado = models.TextField(blank=True, null=True)
+    descripcion = models.TextField(blank=True, null=True)
+
+class Municipio(models.Model):
+    municipio = models.TextField(blank=True, null=True)
+    estado = models.TextField(blank=True, null=True)
+    descripcion = models.TextField(blank=True, null=True)
+
