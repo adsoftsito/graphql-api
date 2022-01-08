@@ -20,6 +20,13 @@ class Sale(models.Model):
     totalimpuestosretenidos = models.FloatField(default=0)
     total = models.FloatField(default=0)
     posted_by = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, on_delete=models.CASCADE)
+    statusv    = models.TextField(default='')
+    statuscfdi = models.TextField(default='')
+    xml = models.TextField(default='')
+    pdf = models.TextField(default='')
+    complpago = models.TextField(default='')
+    complneg  = models.TextField(default='')
+    receptor = models.ForeignKey('receptor.Receptor', null=True, related_name='receptor', on_delete=models.CASCADE)
 
 
 # Product models here.

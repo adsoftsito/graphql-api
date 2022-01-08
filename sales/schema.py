@@ -3,10 +3,13 @@ from graphene_django import DjangoObjectType
 from .models import Sale
 from .models import Detail
 from users.schema import UserType
+from receptor.models import Receptor
+
 #from graphene import ObjectType
 from graphene.types.generic import GenericScalar
 import json
 from django.core import serializers
+from django.db.models import Q
 
 
 
@@ -42,11 +45,30 @@ class SaleType(DjangoObjectType):
     class Meta:
         model = Sale
 
-class Query(graphene.ObjectType):
-    sales = graphene.List(SaleType)
+class ReceptorType(DjangoObjectType):
+    class Meta:
+        model = Receptor
 
-    def resolve_sales(self, info, **kwargs):
-        return Sale.objects.all()
+class Query(graphene.ObjectType):
+    sales = graphene.List(SaleType, search = graphene.String())
+
+    def resolve_sales(self, info, search = None, **kwargs):
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+        if (search=="*"):
+            filter = (
+                Q(posted_by=user)
+            )
+
+            return Sale.objects.filter(filter)[:20]
+        else:
+            filter = (
+                Q(posted_by=user) & Q(serie__icontains=search)
+            )
+            return Sale.objects.filter(filter)
+
 
 class CreateSale(graphene.Mutation):
     id = graphene.Int()
@@ -67,6 +89,8 @@ class CreateSale(graphene.Mutation):
     total = graphene.Float()
 
     posted_by = graphene.Field(UserType)
+    #receptor =  graphene.Field(ReceptorType)
+
     #products = graphene.List(Detail)
 
     #2
@@ -84,16 +108,25 @@ class CreateSale(graphene.Mutation):
         totalimpuestostrasladados = graphene.Float()
         totalimpuestosretenidos = graphene.Float()
         total = graphene.Float()
+        receptor_id = graphene.Int()
+
 
         products = graphene.List(DetailInput)
         #products = GenericScalar() 
     #3
     def mutate(self, info, serie, folio, formapago, condicionesdepago, subtotal, descuento, moneda, tipodecomprobante, 
-              metodopago, lugarexpedicion, totalimpuestostrasladados, totalimpuestosretenidos, total, products):
+              metodopago, lugarexpedicion, totalimpuestostrasladados, totalimpuestosretenidos, total, receptor_id, products):
 
-        user = info.context.user or None
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
 
-        sale = Sale(
+        myreceptor = Receptor.objects.filter(id=receptor_id).first()
+        if not myreceptor:
+            raise Exception('Invalid Receptor!')
+        print (myreceptor)
+
+        sale = Sale.objects.create(
             serie=serie,
             folio=folio,
             formapago=formapago,
@@ -107,9 +140,10 @@ class CreateSale(graphene.Mutation):
             totalimpuestostrasladados=totalimpuestostrasladados,
             totalimpuestosretenidos=totalimpuestosretenidos,
             total=total,
+            receptor=myreceptor,
             posted_by = user
             )
-        sale.save()
+        #sale.save()
 
         myproducts = []
         for product in products:        
@@ -139,7 +173,8 @@ class CreateSale(graphene.Mutation):
             id=sale.id,
             subtotal=sale.subtotal,
             total=sale.total,
-            posted_by=sale.posted_by
+            posted_by=sale.posted_by,
+           # receptor=sale.receptor
            # products=myproducts
             )
 

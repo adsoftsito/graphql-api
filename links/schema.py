@@ -19,8 +19,12 @@ class Query(graphene.ObjectType):
 
         print (user)
 
-        if (search=="-"):
-            return Link.objects.all()[:10]
+        if (search=="*"):
+            filter = (
+                Q(posted_by=user)
+            )
+
+            return Link.objects.filter(filter)[:10]
         else:
             filter = (
                 Q(posted_by=user) & Q(description__icontains=search)
@@ -63,7 +67,11 @@ class CreateLink(graphene.Mutation):
     #3
     def mutate(self, info, idprod, url, description, precio, codigosat, noidentificacion, claveunidad,
         descuento, trasladoiva, retiva, ieps):
-        user = info.context.user or None
+        user = info.context.user 
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+
         currentProduct = Link.objects.filter(id=idprod).first()
 
         link = Link(
