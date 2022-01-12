@@ -3,6 +3,7 @@ from django.conf import settings
 from django.utils.timezone import now
 
 
+
 # Create your models here.
 class Sale(models.Model):
     serie = models.TextField(default='')
@@ -31,20 +32,21 @@ class Sale(models.Model):
 
 # Product models here.
 class Detail(models.Model):
-    product = models.FloatField(default=0)
+    #product = models.FloatField(default=0)
+    product = models.ForeignKey('links.Link', null=False, related_name='product', on_delete=models.CASCADE)
+
     cantidad = models.FloatField(default=0)
     precio = models.FloatField(default=0)
     importe = models.FloatField(default=0) 
-    url = models.URLField(default='')
-    codigosat = models.TextField(default='')
-    noidentificacion = models.TextField(default='')
-    claveunidad = models.TextField(default='')
+    #url = models.URLField(default='')
+    #codigosat = models.TextField(default='')
+    #noidentificacion = models.TextField(default='')
+    #claveunidad = models.TextField(default='')
     descuento = models.FloatField(default=0)
     trasladoiva = models.FloatField(default=0)
     retiva = models.FloatField(default=0)
     ieps = models.FloatField(default=0)
 
-
-    sale = models.ForeignKey(Sale, on_delete=models.CASCADE)
+    sale = models.ForeignKey('sales.Sale', related_name='details', related_query_name='detail', on_delete=models.CASCADE)
 
 

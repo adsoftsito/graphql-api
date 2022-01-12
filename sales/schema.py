@@ -31,15 +31,10 @@ class DetailInput(graphene.InputObjectType):
     ieps = graphene.Float(required=True)
 
 
-#input DetailInput {
-#    product: Int,
-#    cantidad: Float,
-#    precio: Float
-#}
 
-#class DetailInput(DjangoObjectType):
-#    class Meta:
-#        model = Detail
+class DetailType(DjangoObjectType):
+    class Meta:
+        model = Detail
 
 class SaleType(DjangoObjectType):
     class Meta:
@@ -49,8 +44,13 @@ class ReceptorType(DjangoObjectType):
     class Meta:
         model = Receptor
 
+class SaleOutput(graphene.ObjectType):
+    sale =    graphene.Field(SaleType)
+    detail  = graphene.List(DetailType)
+
 class Query(graphene.ObjectType):
     sales = graphene.List(SaleType, search = graphene.String())
+    sale  = graphene.Field(SaleOutput, saleid = graphene.Int())
 
     def resolve_sales(self, info, search = None, **kwargs):
         user = info.context.user
@@ -68,6 +68,57 @@ class Query(graphene.ObjectType):
                 Q(posted_by=user) & Q(serie__icontains=search)
             )
             return Sale.objects.filter(filter)
+    
+    def resolve_sale(self, info, saleid = None, **kwargs):
+
+        mySale = Sale.objects.filter(id=saleid).first()
+        print(mySale)
+        print (mySale.details.all())
+        print (mySale.details.first().id)
+
+        return SaleOutput(sale=mySale, detail=mySale.details.all())
+
+
+class UpdateSale(graphene.Mutation):
+    id = graphene.Int()
+    statuscfdi = graphene.String()
+    xml = graphene.String()
+    pdf = graphene.String()
+
+    class Arguments:
+        saleid = graphene.Int()
+        statuscfdi = graphene.String()
+        xml = graphene.String()
+        pdf = graphene.String()
+
+    def mutate(self, info, saleid, statuscfdi, xml, pdf):
+
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+        mySale = Sale.objects.filter(id=saleid).first()
+        if not mySale:
+            raise Exception('Invalid Sale id!')
+        print (mySale)
+
+        #link = Link(
+        #    url=url,
+        #    posted_by = user
+        #    )
+
+        mySale.statuscfdi = statuscfdi
+        mySale.xml = xml
+        mySale.pdf = pdf
+
+        mySale.save()
+
+        return UpdateSale(
+            id=mySale.id,
+            statuscfdi=mySale.statuscfdi,
+            xml=mySale.xml,
+            pdf=mySale.pdf,
+            )
 
 
 class CreateSale(graphene.Mutation):
@@ -181,4 +232,5 @@ class CreateSale(graphene.Mutation):
 #4
 class Mutation(graphene.ObjectType):
     create_sale = CreateSale.Field()
+    update_sale = UpdateSale.Field()
 
