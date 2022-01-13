@@ -7,8 +7,9 @@ import sales.schema
 import emisor.schema
 import receptor.schema
 import cats.schema
+import cat40.schema
 
-class Query(users.schema.Query, links.schema.Query, sales.schema.Query, emisor.schema.Query, receptor.schema.Query, cats.schema.Query, graphene.ObjectType):
+class Query(users.schema.Query, links.schema.Query, sales.schema.Query, emisor.schema.Query, receptor.schema.Query, cats.schema.Query, cat40.schema.Query, graphene.ObjectType):
     pass
 
 class Mutation(users.schema.Mutation, links.schema.Mutation, sales.schema.Mutation, emisor.schema.Mutation, receptor.schema.Mutation, graphene.ObjectType):

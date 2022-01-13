@@ -10,5 +10,5 @@ class ClaveUnidad(models.Model):
 class ClaveProdServ(models.Model):
     claveprodserv = models.TextField(default='', blank=True, null=True)
     descripcion = models.TextField(default='', blank=True, null=True)
-    similar = models.TextField(default='', blank=True, null=True)
+    sinonimos = models.TextField(default='', blank=True, null=True)
 
