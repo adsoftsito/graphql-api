@@ -43,9 +43,12 @@ class Detail(models.Model):
     #noidentificacion = models.TextField(default='')
     #claveunidad = models.TextField(default='')
     descuento = models.FloatField(default=0)
-    trasladoiva = models.FloatField(default=0)
-    retiva = models.FloatField(default=0)
-    ieps = models.FloatField(default=0)
+
+    trasladoiva  = models.FloatField(default=0)
+    trasladoieps = models.FloatField(default=0)
+    retencioniva = models.FloatField(default=0)
+    retencionisr = models.FloatField(default=0)
+    retencionieps = models.FloatField(default=0)
 
     sale = models.ForeignKey('sales.Sale', related_name='details', related_query_name='detail', on_delete=models.CASCADE)
 

@@ -4,6 +4,7 @@ from .models import Sale
 from .models import Detail
 from users.schema import UserType
 from receptor.models import Receptor
+from links.models import Link
 
 #from graphene import ObjectType
 from graphene.types.generic import GenericScalar
@@ -21,14 +22,14 @@ class DetailInput(graphene.InputObjectType):
     cantidad = graphene.Float(required=True)
     precio = graphene.Float(required=True)
     importe = graphene.Float(required=True)
-    url = graphene.String(required=True)
-    codigosat = graphene.String(required=True)
-    noidentificacion = graphene.String(required=True)
-    claveunidad = graphene.String(required=True)
+#    url = graphene.String(required=True)
+#    codigosat = graphene.String(required=True)
+#    noidentificacion = graphene.String(required=True)
+#    claveunidad = graphene.String(required=True)
     descuento = graphene.Float(required=True) 
-    trasladoiva = graphene.Float(required=True)
-    retiva = graphene.Float(required=True)
-    ieps = graphene.Float(required=True)
+#    trasladoiva = graphene.Float(required=True)
+#    retiva = graphene.Float(required=True)
+#    ieps = graphene.Float(required=True)
 
 
 
@@ -171,6 +172,13 @@ class CreateSale(graphene.Mutation):
         user = info.context.user
         if user.is_anonymous:
             raise Exception('Not logged in!')
+        
+        for product in products:        
+            productid = product["product"]
+            myproduct = Link.objects.filter(id=productid).first()
+            if not myproduct:
+                raise Exception('Invalid Product !' + str(productid))
+
 
         myreceptor = Receptor.objects.filter(id=receptor_id).first()
         if not myreceptor:
@@ -198,24 +206,24 @@ class CreateSale(graphene.Mutation):
 
         myproducts = []
         for product in products:        
-          myproduct = Detail(
-              product = product["product"],
-              cantidad = product["cantidad"],
-              precio = product["precio"],
-              importe = product["importe"],
-              url = product["url"],
-              codigosat = product["codigosat"],
-              noidentificacion = product["noidentificacion"],
-              claveunidad = product["claveunidad"],
-              descuento = product["descuento"],
-              trasladoiva = product["trasladoiva"],
-              retiva = product["retiva"],
-              ieps = product["ieps"],
+            productid = product["product"]
+            myproduct = Link.objects.filter(id=productid).first()
 
-              sale = sale
+            myproduct = Detail(
+                product = myproduct,
+                cantidad = product["cantidad"],
+                precio = product["precio"],
+                importe = product["importe"],
+                descuento = product["descuento"],
+                trasladoiva = 0.0,
+                trasladoieps = 0.0,
+                retencioniva = 0.0,
+                retencionisr = 0.0,
+                retencionieps = 0.0,
+                sale = sale
               )
-          myproduct.save()
-          myproducts.append(myproduct)
+            myproduct.save()
+            myproducts.append(myproduct)
           #print (product["product"])
 
 

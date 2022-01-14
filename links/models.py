@@ -7,16 +7,24 @@ class Link(models.Model):
     description = models.TextField(blank=True)
     precio = models.FloatField(default=0)
 
-    codigosat = models.TextField(default='01010101')
+    #codigosat = models.TextField(default='01010101')
+    codigosat = models.ForeignKey('cat40.ClaveProdServ', null=True, on_delete=models.CASCADE)
+
     noidentificacion = models.TextField(default='')
     codigobarras = models.TextField(default='')
 
-    claveunidad = models.TextField(default='H87')
-    descripunidad = models.TextField(default='Pieza')
+    #claveunidad = models.TextField(default='H87')
+    claveunidad  = models.ForeignKey('cat40.ClaveUnidad', null=True, on_delete=models.CASCADE)
+
+    #descripunidad = models.TextField(default='Pieza')
     descuento = models.FloatField(default=0)
-    trasladoiva = models.FloatField(default=0)
-    retiva = models.FloatField(default=0)
-    ieps = models.FloatField(default=0)
+
+    trasladoiva  = models.FloatField(default=0)
+    trasladoieps = models.FloatField(default=0)
+
+    retencioniva = models.FloatField(default=0)
+    retencionisr = models.FloatField(default=0)
+    retencionieps = models.FloatField(default=0)
 
     existencias = models.FloatField(default=0)
     stockmin = models.FloatField(default=1)

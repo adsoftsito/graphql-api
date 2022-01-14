@@ -3,7 +3,7 @@ from graphene_django import DjangoObjectType
 from .models import Link
 from users.schema import UserType
 from django.db.models import Q
-
+from cat40.models import ClaveUnidad, ClaveProdServ
 
 class LinkType(DjangoObjectType):
     class Meta:
@@ -56,35 +56,55 @@ class CreateLink(graphene.Mutation):
         url = graphene.String()
         description = graphene.String()
         precio = graphene.Float()
-        codigosat = graphene.String()
+        codigosat = graphene.Int()
         noidentificacion = graphene.String()
-        claveunidad = graphene.String()
+        claveunidad = graphene.Int()
         descuento = graphene.Float()
+        codigobarras = graphene.String()
         trasladoiva = graphene.Float()
-        retiva = graphene.Float()
-        ieps = graphene.Float()
+        trasladoieps = graphene.Float()
+        retencioniva = graphene.Float()
+        retencionisr = graphene.Float()
+        retencionieps = graphene.Float()
+        existencias = graphene.Float()
+        stockmin = graphene.Float()
+        stockmax = graphene.Float()
 
     #3
-    def mutate(self, info, idprod, url, description, precio, codigosat, noidentificacion, claveunidad,
-        descuento, trasladoiva, retiva, ieps):
+    def mutate(self, info, idprod, url, description, precio, codigosat, noidentificacion, claveunidad, descuento, codigobarras, trasladoiva, trasladoieps, retencioniva, retencionisr, retencionieps, existencias, stockmin, stockmax):
         user = info.context.user 
         if user.is_anonymous:
             raise Exception('Not logged in!')
 
 
         currentProduct = Link.objects.filter(id=idprod).first()
+        
+        unidad = ClaveUnidad.objects.filter(id=claveunidad).first()
+        if not unidad:
+            raise Exception('Clave unidad de medida no existe!')
+        
+        codigo = ClaveProdServ.objects.filter(id=codigosat).first()
+        if not codigo:
+            raise Exception('Codigo Sat no existe!')
+
 
         link = Link(
             url=url, 
             description=description,
             precio=precio,
-            codigosat=codigosat,
+            codigosat=codigo,
             noidentificacion=noidentificacion,
-            claveunidad=claveunidad,
+            claveunidad=unidad,
             descuento=descuento,
+            codigobarras=codigobarras,
             trasladoiva=trasladoiva,
-            retiva=retiva,
-            ieps=ieps,
+            trasladoieps=trasladoieps,
+            retencionisr=retencionisr,
+            retencioniva=retencioniva,
+            retencionieps=retencionieps,
+            existencias=existencias,
+            stockmin=stockmin,
+            stockmax=stockmax,
             posted_by = user
             )
 
@@ -103,8 +123,8 @@ class CreateLink(graphene.Mutation):
             claveunidad=link.claveunidad,
             descuento=link.descuento,
             trasladoiva=link.trasladoiva,
-            retiva=link.retiva,
-            ieps=link.ieps,
+            retiva=link.retencioniva,
+            ieps=link.retencionieps,
             posted_by=link.posted_by
         )
 
