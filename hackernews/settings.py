@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'receptor',
     'cats',
     'cat40',
+    'precios',
     'corsheaders'
 ]
 
