@@ -7,6 +7,7 @@ class Lista(models.Model):
     descripcion = models.TextField(default='')
     descuento   = models.FloatField(default=0)
     tipo   = models.TextField(default='')
+    tipolista = models.IntegerField(default=0)
     posted_by = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, on_delete=models.CASCADE)
     
 # Create your models here.

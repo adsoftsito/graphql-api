@@ -12,3 +12,11 @@ class ClaveProdServ(models.Model):
     descripcion = models.TextField(default='', blank=True, null=True)
     sinonimos = models.TextField(default='', blank=True, null=True)
 
+class Formapago(models.Model):
+    formapago   = models.TextField(default='', blank=True, null=True)
+    descripcion = models.TextField(default='', blank=True, null=True)
+
+class Metodopago(models.Model):
+    metodopago   = models.TextField(default='', blank=True, null=True)
+    descripcion  = models.TextField(default='', blank=True, null=True)
+

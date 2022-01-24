@@ -19,25 +19,37 @@ class PrecioType(DjangoObjectType):
 
 
 class Query(graphene.ObjectType):
-    listas = graphene.List(ListaType,   search=graphene.String())
-    lista  = graphene.Field(ListaType,  listaid=graphene.Int())
+    listas = graphene.List(ListaType,   search=graphene.String(), tipolista=graphene.Int())
+    lista  = graphene.Field(ListaType,  listaid=graphene.Int(), tipolista=graphene.Int())
 
-    def resolve_listas(self, info, **kwargs):
+    def resolve_listas(self, info, search=graphene.String(), tipolista=None, **kwargs):
         user = info.context.user
         if user.is_anonymous:
             raise Exception('Not logged in!')
 
         print (user)
+        if (search=="*"):
+            filter = (
+                Q(posted_by=user) &  Q(tipolista=tipolista)
+            )
+        else:
+            filter = (
+                Q(posted_by=user) & Q(descripcion__icontains=search) &  Q(tipolista=tipolista)
+            )
 
-        filter = (
-            Q(posted_by=user)
-        )
 
         return Lista.objects.filter(filter)[:20]
 
-    def resolve_lista(self, info, listaid = None, **kwargs):
+    def resolve_lista(self, info, listaid = None, tipolista=None,  **kwargs):
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
 
-        myLista = Lista.objects.filter(id=listaid).first()
+        filter = (
+            Q(posted_by=user) & Q(id=listaid) & Q(tipolista=tipolista)
+        )
+
+        myLista = Lista.objects.filter(filter).first()
         print(myLista)
 
         return myLista

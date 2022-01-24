@@ -1,30 +1,17 @@
 import graphene
 from graphene_django import DjangoObjectType
-from .models import Receptor
+from .models import Proveedor
 from users.schema import UserType
 from django.db.models import Q
 
-class ReceptorType(DjangoObjectType):
+class ProveedorType(DjangoObjectType):
     class Meta:
-        model = Receptor
+        model = Proveedor
 
 class Query(graphene.ObjectType):
-    receptor = graphene.List(ReceptorType, search=graphene.String())
-    receptorme = graphene.Field(ReceptorType, rfc=graphene.String())
+    proveedores = graphene.List(ProveedorType, search=graphene.String())
 
-
-    def resolve_receptorme(self, info, rfc=None):
-        #user = info.context.user
-        #if user.is_anonymous:
-        #    raise Exception('Not logged in!')
-        
-        currentReceptor = Receptor.objects.filter(rfc=rfc).first()
-        return currentReceptor
-
-
-#    def resolve_receptor(self, info, **kwargs):
-#        return Receptor.objects.all()
-    def resolve_receptor(self, info, search=None, **kwargs):
+    def resolve_proveedores(self, info, search=None, **kwargs):
         user = info.context.user
         if user.is_anonymous:
             raise Exception('Not logged in!')
@@ -36,16 +23,16 @@ class Query(graphene.ObjectType):
                 Q(posted_by=user)
             )
 
-            return Receptor.objects.filter(filter)[:10]
+            return Proveedor.objects.filter(filter)[:10]
         else:
             filter = (
                 Q(posted_by=user) & Q(nombre__icontains=search)
             )
-            return Receptor.objects.filter(filter)
+            return Proveedor.objects.filter(filter)
 
 
 
-class CreateReceptor(graphene.Mutation):
+class CreateProveedor(graphene.Mutation):
     id = graphene.Int()
 
     rfc = graphene.String()
@@ -61,6 +48,7 @@ class CreateReceptor(graphene.Mutation):
 
     #2
     class Arguments:
+      idprov = graphene.Int()
       rfc = graphene.String()
       nombre = graphene.String()
       direccion = graphene.String()
@@ -69,16 +57,21 @@ class CreateReceptor(graphene.Mutation):
       metododepago = graphene.String()
       formadepago = graphene.String()
       tipocomprobante = graphene.String()
+      contacto = graphene.String()
+      diascredito = graphene.Int()
+      descuento = graphene.Float()
 
 
     #3
-    def mutate(self, info, rfc, nombre, direccion, codigopostal, usocfdi, metododepago, formadepago, tipocomprobante):
+    def mutate(self, info, idprov, rfc, nombre, direccion, codigopostal, usocfdi, metododepago, formadepago, tipocomprobante, contacto, diascredito, descuento):
         user = info.context.user or None
         print(user)
-        currentReceptor = Receptor.objects.filter(posted_by=user).first()
-        print (currentReceptor)
 
-        receptor = Receptor(
+
+        currentProveedor = Proveedor.objects.filter(id=idprov).first()
+        print (currentProveedor)
+
+        proveedor = Proveedor(
             #id=currentEmisor.id,
             rfc=rfc, 
             nombre=nombre,
@@ -88,23 +81,26 @@ class CreateReceptor(graphene.Mutation):
             metododepago=metododepago,
             formadepago=formadepago,
             tipocomprobante=tipocomprobante,
+            contacto=contacto,
+            diascredito=diascredito,
+            descuento=descuento,
             posted_by = user
             )
 
-        if currentReceptor:
-            receptor.id = currentReceptor.id
+        if currentProveedor:
+            proveedor.id = currentProveedor.id
 
-        receptor.save()
+        proveedor.save()
 
-        return CreateReceptor(
-            id=receptor.id,
-            rfc=receptor.rfc,
-            nombre=receptor.nombre,
-            direccion=receptor.direccion,
-            codigopostal=receptor.cp,
-            posted_by=receptor.posted_by
+        return CreateProveedor(
+            id=proveedor.id,
+            rfc=proveedor.rfc,
+            nombre=proveedor.nombre,
+            direccion=proveedor.direccion,
+            codigopostal=proveedor.cp,
+            posted_by=proveedor.posted_by
         )
 
 #4
 class Mutation(graphene.ObjectType):
-    create_receptor = CreateReceptor.Field()
+    create_proveedor = CreateProveedor.Field()

@@ -45,13 +45,13 @@ class ReceptorType(DjangoObjectType):
     class Meta:
         model = Receptor
 
-class SaleOutput(graphene.ObjectType):
-    sale =    graphene.Field(SaleType)
-    detail  = graphene.List(DetailType)
+#class SaleOutput(graphene.ObjectType):
+#    sale =    graphene.Field(SaleType)
+#    detail  = graphene.List(DetailType)
 
 class Query(graphene.ObjectType):
     sales = graphene.List(SaleType, search = graphene.String())
-    sale  = graphene.Field(SaleOutput, saleid = graphene.Int())
+    sale  = graphene.Field(SaleType, saleid = graphene.Int())
 
     def resolve_sales(self, info, search = None, **kwargs):
         user = info.context.user
@@ -71,13 +71,19 @@ class Query(graphene.ObjectType):
             return Sale.objects.filter(filter)
     
     def resolve_sale(self, info, saleid = None, **kwargs):
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
 
         mySale = Sale.objects.filter(id=saleid).first()
-        print(mySale)
-        print (mySale.details.all())
-        print (mySale.details.first().id)
+        if not mySale:
+            raise Exception('Sale Id no existe!')
 
-        return SaleOutput(sale=mySale, detail=mySale.details.all())
+        #print(mySale)
+        #print (mySale.details.all())
+        #print (mySale.details.first().id)
+
+        return mySale
 
 
 class UpdateSale(graphene.Mutation):

@@ -2,9 +2,20 @@ from django.db import models
 from django.conf import settings
 
 # Create your models here.
+class Marca(models.Model):
+    description = models.TextField(blank=True)
+    posted_by = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, on_delete=models.CASCADE)
+
+class Linea(models.Model):
+    description = models.TextField(blank=True)
+    posted_by = models.ForeignKey(settings.AUTH_USER_MODEL, null=True, on_delete=models.CASCADE)
+
+
 class Link(models.Model):
     url = models.URLField()
     description = models.TextField(blank=True)
+    modelo = models.TextField(default='', blank=True)
+
     precio = models.FloatField(default=0)
 
     #codigosat = models.TextField(default='01010101')
@@ -19,6 +30,10 @@ class Link(models.Model):
     #descripunidad = models.TextField(default='Pieza')
     descuento = models.FloatField(default=0)
 
+    marca  = models.ForeignKey(Marca, null=True, on_delete=models.CASCADE)
+    linea  = models.ForeignKey(Linea, null=True, on_delete=models.CASCADE)
+
+   
     trasladoiva  = models.FloatField(default=0)
     trasladoieps = models.FloatField(default=0)
 

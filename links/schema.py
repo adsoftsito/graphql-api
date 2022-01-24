@@ -1,6 +1,6 @@
 import graphene
 from graphene_django import DjangoObjectType
-from .models import Link
+from .models import Link, Marca, Linea
 from users.schema import UserType
 from django.db.models import Q
 from cat40.models import ClaveUnidad, ClaveProdServ
@@ -9,8 +9,19 @@ class LinkType(DjangoObjectType):
     class Meta:
         model = Link
 
+class MarcaType(DjangoObjectType):
+    class Meta:
+        model = Marca
+
+class LineaType(DjangoObjectType):
+    class Meta:
+        model = Linea
+
+
 class Query(graphene.ObjectType):
     links = graphene.List(LinkType, search=graphene.String())
+    marcas = graphene.List(MarcaType, search=graphene.String())
+    lineas = graphene.List(LineaType, search=graphene.String())
 
     def resolve_links(self, info, search=None, **kwargs):
         user = info.context.user 
@@ -32,12 +43,55 @@ class Query(graphene.ObjectType):
             return Link.objects.filter(filter)
 
            
+    def resolve_marcas(self, info, search=None, **kwargs):
+        user = info.context.user 
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+        print (user)
+
+        if (search=="*"):
+            filter = (
+                Q(posted_by=user)
+            )
+
+            return Marca.objects.filter(filter)[:10]
+        else:
+            filter = (
+                Q(posted_by=user) & Q(description__icontains=search)
+            )
+            return Marca.objects.filter(filter)
+
+           
+    def resolve_lineas(self, info, search=None, **kwargs):
+        user = info.context.user 
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+        print (user)
+
+        if (search=="*"):
+            filter = (
+                Q(posted_by=user)
+            )
+
+            return Linea.objects.filter(filter)[:10]
+        else:
+            filter = (
+                Q(posted_by=user) & Q(description__icontains=search)
+            )
+            return Linea.objects.filter(filter)
+
+           
 
 class CreateLink(graphene.Mutation):
     id = graphene.Int()
     url = graphene.String()
     description = graphene.String()
     precio = graphene.Float()
+    modelo = graphene.String()
+    marca = graphene.Field(MarcaType)
+    linea = graphene.Field(LineaType)
 
     codigosat = graphene.String()
     noidentificacion = graphene.String()
@@ -55,6 +109,10 @@ class CreateLink(graphene.Mutation):
         idprod = graphene.Int()
         url = graphene.String()
         description = graphene.String()
+        modelo = graphene.String()
+        marca = graphene.Int()
+        linea = graphene.Int()
+
         precio = graphene.Float()
         codigosat = graphene.Int()
         noidentificacion = graphene.String()
@@ -71,7 +129,7 @@ class CreateLink(graphene.Mutation):
         stockmax = graphene.Float()
 
     #3
-    def mutate(self, info, idprod, url, description, precio, codigosat, noidentificacion, claveunidad, descuento, codigobarras, trasladoiva, trasladoieps, retencioniva, retencionisr, retencionieps, existencias, stockmin, stockmax):
+    def mutate(self, info, idprod, url, description, precio, codigosat, noidentificacion, claveunidad, descuento, codigobarras, trasladoiva, trasladoieps, retencioniva, retencionisr, retencionieps, existencias, stockmin, stockmax, modelo, marca, linea):
         user = info.context.user 
         if user.is_anonymous:
             raise Exception('Not logged in!')
@@ -86,6 +144,14 @@ class CreateLink(graphene.Mutation):
         codigo = ClaveProdServ.objects.filter(id=codigosat).first()
         if not codigo:
             raise Exception('Codigo Sat no existe!')
+
+        mymarca = Marca.objects.filter(id=marca).first()
+        if not mymarca:
+            raise Exception('Marca no existe!')
+
+        mylinea = Linea.objects.filter(id=linea).first()
+        if not mylinea:
+            raise Exception('Linea no existe!')
 
 
         link = Link(
@@ -105,6 +171,9 @@ class CreateLink(graphene.Mutation):
             existencias=existencias,
             stockmin=stockmin,
             stockmax=stockmax,
+            modelo=modelo,
+            marca=mymarca,
+            linea=mylinea,
             posted_by = user
             )
 
@@ -117,6 +186,9 @@ class CreateLink(graphene.Mutation):
             id=link.id,
             url=link.url,
             description=link.description,
+            modelo=link.modelo,
+            marca=link.marca,
+            linea=link.linea,
             precio=link.precio,
             codigosat=link.codigosat,
             noidentificacion=link.noidentificacion,
@@ -129,5 +201,80 @@ class CreateLink(graphene.Mutation):
         )
 
 #4
+
+class CreateMarca(graphene.Mutation):
+    id = graphene.Int()
+    description = graphene.String()
+    posted_by = graphene.Field(UserType)
+
+
+    #2
+    class Arguments:
+        idmarca = graphene.Int()
+        description = graphene.String()
+
+    #3
+    def mutate(self, info, idmarca, description):
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+
+        currentMarca = Marca.objects.filter(id=idmarca).first()
+        marca = Marca(
+            description=description,
+            posted_by = user
+            )
+
+        if currentMarca:
+            marca.id = idmarca
+   
+        marca.save()
+       
+        return CreateMarca(
+            id=marca.id,
+            description=marca.description,
+            posted_by=marca.posted_by
+        )
+
+class CreateLinea(graphene.Mutation):
+    id = graphene.Int()
+    description = graphene.String()
+    posted_by = graphene.Field(UserType)
+
+
+    #2
+    class Arguments:
+        idlinea = graphene.Int()
+        description = graphene.String()
+
+    #3
+    def mutate(self, info, idlinea, description):
+        user = info.context.user
+        if user.is_anonymous:
+            raise Exception('Not logged in!')
+
+
+        currentLinea = Linea.objects.filter(id=idlinea).first()
+        linea = Linea(
+            description=description,
+            posted_by = user
+            )
+
+        if currentLinea:
+            linea.id = idlinea
+   
+        linea.save()
+       
+        return CreateLinea(
+            id=linea.id,
+            description=linea.description,
+            posted_by=linea.posted_by
+        )
+
+
 class Mutation(graphene.ObjectType):
     create_link = CreateLink.Field()
+    create_marca = CreateMarca.Field()
+    create_linea = CreateLinea.Field()
+
