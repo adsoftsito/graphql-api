@@ -39,4 +39,3 @@ spec:
     port: 8080
   selector:
     app: adsoftsito
-Foot
