@@ -1,0 +1,5 @@
+clave_transporte,descripcion_tipo_transporte
+01,Autotransporte
+02,Transporte Marítimo
+03,Transporte Aéreo
+04,Transporte Ferroviario
