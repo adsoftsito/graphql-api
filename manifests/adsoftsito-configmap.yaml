@@ -5,9 +5,9 @@ metadata:
   labels:
     app: postgres
 data:
-  DEV_SECRET_KEY: i-love-adsoftsito-dev
-  DEV_DATABASE: rqislgfe
-  DEV_USER: rqislgfe
-  DEV_PASSWORD: mRNXd5E166PhahSr2KlJkHpmunLs3zDo
-  DEV_HOST: jelani.db.elephantsql.com
-  DEV_PORT: "5432"
+  PROD_SECRET_KEY: i-love-adsoftsito-dev
+  PROD_DATABASE: waves
+  PROD_USER: adsoft
+  PROD_PASSWORD: 5i5i5i5i
+  PROD_HOST: postgresql
+  PROD_PORT: "5432"
